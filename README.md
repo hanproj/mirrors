@@ -4,6 +4,16 @@ This is a repository for creating a rhyme annotated corpus of Han dynasty rhymin
 
 ## Bibliography 
 
+%Hayashi, H. 2015. 漢三国西晉鏡銘集成. Yokohama: 横浜ユーラシア文化館.
+@Book{Hayashi2015,
+  author   = {Hayashi, Hiromi 林裕己},
+  title    = {漢三国西晉鏡銘集成},
+  publisher = {横浜ユーラシア文化館},
+  address   = {Yokohama},
+  groups    = {},
+  year      = {2015},
+}
+
 @Article{Zhou2022mirrors,
   author       = {周博 and 王小琴},
   date         = {2022},
