@@ -724,21 +724,6 @@
 畏	安	3	kyomeishusei2015.00166.1
 畏	樂	3	kyomeishusei2015.00166.1
 安	樂	3	kyomeishusei2015.00166.1
-文	1	巧工刻陋成雕文
-人	1	上大山見神人
-風	1	興紹前弓大風
-門	1	過玉闕入金門
-孫	1	佳哉紛傳子孫
-文	人	5	kyomeishusei2015.00167.1
-文	風	5	kyomeishusei2015.00167.1
-文	門	5	kyomeishusei2015.00167.1
-文	孫	5	kyomeishusei2015.00167.1
-人	風	5	kyomeishusei2015.00167.1
-人	門	5	kyomeishusei2015.00167.1
-人	孫	5	kyomeishusei2015.00167.1
-風	門	5	kyomeishusei2015.00167.1
-風	孫	5	kyomeishusei2015.00167.1
-門	孫	5	kyomeishusei2015.00167.1
 章	1	巧工刻之成文章
 陽	1	朱鳥玄武調陰陽
 昌	1	長保二親樂富昌
@@ -915,31 +900,6 @@
 好	有	4	kyomeishusei2015.00202.1
 好	壽	4	kyomeishusei2015.00202.1
 有	壽	4	kyomeishusei2015.00202.1
-徹	1	世之眇徹
-畢	1	湅五解之英華畢
-祿	1	辟耶配天祿
-祿	1	吏人服 之曾秩祿
-徹	畢	4	kyomeishusei2015.00203.1
-徹	祿	4	kyomeishusei2015.00203.1
-徹	祿	4	kyomeishusei2015.00203.1
-畢	祿	4	kyomeishusei2015.00203.1
-畢	祿	4	kyomeishusei2015.00203.1
-祿	祿	4	kyomeishusei2015.00203.1
-有	1	世之未有兮
-極	1	畢而無極兮
-子	1	冝孫保子兮
-秩	1	吏人服之曾官秩
-極	1	與 天無極兮
-有	極	5	kyomeishusei2015.00204.1
-有	子	5	kyomeishusei2015.00204.1
-有	秩	5	kyomeishusei2015.00204.1
-有	極	5	kyomeishusei2015.00204.1
-極	子	5	kyomeishusei2015.00204.1
-極	秩	5	kyomeishusei2015.00204.1
-極	極	5	kyomeishusei2015.00204.1
-子	秩	5	kyomeishusei2015.00204.1
-子	極	5	kyomeishusei2015.00204.1
-秩	極	5	kyomeishusei2015.00204.1
 明	1	和以銀錫淸且明
 央	1	辟耶天祿居中央
 王	1	居無憂兮如矦王
@@ -1215,36 +1175,6 @@
 右	1	靑龍白乕居左右
 始	1	八＊相向法古始
 右	始	2	kyomeishusei2015.00266.1
-息	1	多賀國家人民息
-孰	1	風雨時節五穀孰
-亟	1	傳告后世樂無亟
-馬	1	參賀四馬
-公	1	冝 孫子公
-息	孰	5	kyomeishusei2015.00267.1
-息	亟	5	kyomeishusei2015.00267.1
-息	馬	5	kyomeishusei2015.00267.1
-息	公	5	kyomeishusei2015.00267.1
-孰	亟	5	kyomeishusei2015.00267.1
-孰	馬	5	kyomeishusei2015.00267.1
-孰	公	5	kyomeishusei2015.00267.1
-亟	馬	5	kyomeishusei2015.00267.1
-亟	公	5	kyomeishusei2015.00267.1
-馬	公	5	kyomeishusei2015.00267.1
-羊	1	左龍右乕辟非羊
-冝	1	夫婦相冝
-石	1	壽如金石
-息	1	多賀國家人民息
-息	1	天下大 息兮
-羊	冝	5	kyomeishusei2015.00268.1
-羊	石	5	kyomeishusei2015.00268.1
-羊	息	5	kyomeishusei2015.00268.1
-羊	息	5	kyomeishusei2015.00268.1
-冝	石	5	kyomeishusei2015.00268.1
-冝	息	5	kyomeishusei2015.00268.1
-冝	息	5	kyomeishusei2015.00268.1
-石	息	5	kyomeishusei2015.00268.1
-石	息	5	kyomeishusei2015.00268.1
-息	息	5	kyomeishusei2015.00268.1
 冝	1	夫妻相冝
 升	1	爲吏高升
 年	1	買者萬年
@@ -1270,34 +1200,6 @@
 福	凶	5	kyomeishusei2015.00271.1
 福	公	5	kyomeishusei2015.00271.1
 凶	公	5	kyomeishusei2015.00271.1
-市	1	餘去不羊冝古市
-止	1	與天相保無窮止
-母	1	西有王母
-始	1	天王日月爲祖始
-長	1	壽命久長
-王	1	富貴冝矦王
-吉	1	大吉
-市	止	7	kyomeishusei2015.00272.1
-市	母	7	kyomeishusei2015.00272.1
-市	始	7	kyomeishusei2015.00272.1
-市	長	7	kyomeishusei2015.00272.1
-市	王	7	kyomeishusei2015.00272.1
-市	吉	7	kyomeishusei2015.00272.1
-止	母	7	kyomeishusei2015.00272.1
-止	始	7	kyomeishusei2015.00272.1
-止	長	7	kyomeishusei2015.00272.1
-止	王	7	kyomeishusei2015.00272.1
-止	吉	7	kyomeishusei2015.00272.1
-母	始	7	kyomeishusei2015.00272.1
-母	長	7	kyomeishusei2015.00272.1
-母	王	7	kyomeishusei2015.00272.1
-母	吉	7	kyomeishusei2015.00272.1
-始	長	7	kyomeishusei2015.00272.1
-始	王	7	kyomeishusei2015.00272.1
-始	吉	7	kyomeishusei2015.00272.1
-長	王	7	kyomeishusei2015.00272.1
-長	吉	7	kyomeishusei2015.00272.1
-王	吉	7	kyomeishusei2015.00272.1
 卿	1	服者男爲公卿
 壽	1	曾年益壽
 老	1	千秋萬歲不知老
@@ -1330,27 +1232,6 @@
 章	升	3	kyomeishusei2015.00278.1
 從	升	3	kyomeishusei2015.00278.1
 商	1	幽湅三商
-畺	1	周刻萬畺
-設	1	六合設
-空	1	距虛空
-興	1	祇靈是興
-容	1	眾神見容
-商	畺	6	kyomeishusei2015.00279.1
-商	設	6	kyomeishusei2015.00279.1
-商	空	6	kyomeishusei2015.00279.1
-商	興	6	kyomeishusei2015.00279.1
-商	容	6	kyomeishusei2015.00279.1
-畺	設	6	kyomeishusei2015.00279.1
-畺	空	6	kyomeishusei2015.00279.1
-畺	興	6	kyomeishusei2015.00279.1
-畺	容	6	kyomeishusei2015.00279.1
-設	空	6	kyomeishusei2015.00279.1
-設	興	6	kyomeishusei2015.00279.1
-設	容	6	kyomeishusei2015.00279.1
-空	興	6	kyomeishusei2015.00279.1
-空	容	6	kyomeishusei2015.00279.1
-興	容	6	kyomeishusei2015.00279.1
-商	1	幽湅三商
 方	1	雕刻萬方
 長	1	六合設長
 空	1	通距虛空
@@ -1371,27 +1252,6 @@
 空	興	6	kyomeishusei2015.00280.1
 空	容	6	kyomeishusei2015.00280.1
 興	容	6	kyomeishusei2015.00280.1
-商	1	幽湅三商
-容	1	□神見容
-剛	1	系持維剛
-從	1	福祿是從
-昌	1	子孫番昌
-長	1	其師命長
-商	容	6	kyomeishusei2015.00282.1
-商	剛	6	kyomeishusei2015.00282.1
-商	從	6	kyomeishusei2015.00282.1
-商	昌	6	kyomeishusei2015.00282.1
-商	長	6	kyomeishusei2015.00282.1
-容	剛	6	kyomeishusei2015.00282.1
-容	從	6	kyomeishusei2015.00282.1
-容	昌	6	kyomeishusei2015.00282.1
-容	長	6	kyomeishusei2015.00282.1
-剛	從	6	kyomeishusei2015.00282.1
-剛	昌	6	kyomeishusei2015.00282.1
-剛	長	6	kyomeishusei2015.00282.1
-從	昌	6	kyomeishusei2015.00282.1
-從	長	6	kyomeishusei2015.00282.1
-昌	長	6	kyomeishusei2015.00282.1
 商	1	幽湅三商
 彊	1	配像萬彊
 見	1	眾神見
@@ -1421,34 +1281,6 @@
 龍	貴	7	kyomeishusei2015.00283.1
 皇	貴	7	kyomeishusei2015.00283.1
 商	1	幽湅三商
-彊	1	□□萬彊
-容	1	眾神見容
-從	1	福祿自從
-昌	1	富貴番昌
-昌	1	子孫蕃昌
-長	1	其師命長
-商	彊	7	kyomeishusei2015.00285.1
-商	容	7	kyomeishusei2015.00285.1
-商	從	7	kyomeishusei2015.00285.1
-商	昌	7	kyomeishusei2015.00285.1
-商	昌	7	kyomeishusei2015.00285.1
-商	長	7	kyomeishusei2015.00285.1
-彊	容	7	kyomeishusei2015.00285.1
-彊	從	7	kyomeishusei2015.00285.1
-彊	昌	7	kyomeishusei2015.00285.1
-彊	昌	7	kyomeishusei2015.00285.1
-彊	長	7	kyomeishusei2015.00285.1
-容	從	7	kyomeishusei2015.00285.1
-容	昌	7	kyomeishusei2015.00285.1
-容	昌	7	kyomeishusei2015.00285.1
-容	長	7	kyomeishusei2015.00285.1
-從	昌	7	kyomeishusei2015.00285.1
-從	昌	7	kyomeishusei2015.00285.1
-從	長	7	kyomeishusei2015.00285.1
-昌	昌	7	kyomeishusei2015.00285.1
-昌	長	7	kyomeishusei2015.00285.1
-昌	長	7	kyomeishusei2015.00285.1
-商	1	幽湅三商
 彊	1	亥萬彊
 容	1	眾神見容
 羊	1	大吉羊
@@ -1458,34 +1290,6 @@
 彊	容	4	kyomeishusei2015.00286.1
 彊	羊	4	kyomeishusei2015.00286.1
 容	羊	4	kyomeishusei2015.00286.1
-商	1	幽湅三商
-彊	1	配像萬彊
-剛	1	銜持維剛
-長	1	服者命長
-壽	1	曾年益壽
-公	1	壽如東王公
-昌	1	子孫番昌
-商	彊	7	kyomeishusei2015.00287.1
-商	剛	7	kyomeishusei2015.00287.1
-商	長	7	kyomeishusei2015.00287.1
-商	壽	7	kyomeishusei2015.00287.1
-商	公	7	kyomeishusei2015.00287.1
-商	昌	7	kyomeishusei2015.00287.1
-彊	剛	7	kyomeishusei2015.00287.1
-彊	長	7	kyomeishusei2015.00287.1
-彊	壽	7	kyomeishusei2015.00287.1
-彊	公	7	kyomeishusei2015.00287.1
-彊	昌	7	kyomeishusei2015.00287.1
-剛	長	7	kyomeishusei2015.00287.1
-剛	壽	7	kyomeishusei2015.00287.1
-剛	公	7	kyomeishusei2015.00287.1
-剛	昌	7	kyomeishusei2015.00287.1
-長	壽	7	kyomeishusei2015.00287.1
-長	公	7	kyomeishusei2015.00287.1
-長	昌	7	kyomeishusei2015.00287.1
-壽	公	7	kyomeishusei2015.00287.1
-壽	昌	7	kyomeishusei2015.00287.1
-公	昌	7	kyomeishusei2015.00287.1
 商	1	幽湅三商
 彊	1	配像萬彊
 剛	1	銜持維剛
@@ -1573,34 +1377,6 @@
 彊	昌	4	kyomeishusei2015.00296.1
 彊	長	4	kyomeishusei2015.00296.1
 昌	長	4	kyomeishusei2015.00296.1
-從	1	福祿是從
-長	1	其師命長
-昌	1	子孫番昌
-良	1	敬奉賢良
-商	1	幽湅金商
-願	1	咸得所願
-寧	1	富貴安寧
-從	長	7	kyomeishusei2015.00297.1
-從	昌	7	kyomeishusei2015.00297.1
-從	良	7	kyomeishusei2015.00297.1
-從	商	7	kyomeishusei2015.00297.1
-從	願	7	kyomeishusei2015.00297.1
-從	寧	7	kyomeishusei2015.00297.1
-長	昌	7	kyomeishusei2015.00297.1
-長	良	7	kyomeishusei2015.00297.1
-長	商	7	kyomeishusei2015.00297.1
-長	願	7	kyomeishusei2015.00297.1
-長	寧	7	kyomeishusei2015.00297.1
-昌	良	7	kyomeishusei2015.00297.1
-昌	商	7	kyomeishusei2015.00297.1
-昌	願	7	kyomeishusei2015.00297.1
-昌	寧	7	kyomeishusei2015.00297.1
-良	商	7	kyomeishusei2015.00297.1
-良	願	7	kyomeishusei2015.00297.1
-良	寧	7	kyomeishusei2015.00297.1
-商	願	7	kyomeishusei2015.00297.1
-商	寧	7	kyomeishusei2015.00297.1
-願	寧	7	kyomeishusei2015.00297.1
 无	1	制作虛无
 鏡	1	造爲明鏡
 則	1	四時永則
@@ -1616,51 +1392,6 @@
 則	親	5	kyomeishusei2015.00298.1
 則	存	5	kyomeishusei2015.00298.1
 親	存	5	kyomeishusei2015.00298.1
-商	1	幽湅三商
-彊	1	配象萬彊
-容	1	眾神見容
-從	1	福祿氏從
-倡	1	子孫潘倡
-長	1	其師命長
-郡	1	干出吳郡
-解	1	千練百解
-竝	1	四器竝
-商	彊	9	kyomeishusei2015.00299.1
-商	容	9	kyomeishusei2015.00299.1
-商	從	9	kyomeishusei2015.00299.1
-商	倡	9	kyomeishusei2015.00299.1
-商	長	9	kyomeishusei2015.00299.1
-商	郡	9	kyomeishusei2015.00299.1
-商	解	9	kyomeishusei2015.00299.1
-商	竝	9	kyomeishusei2015.00299.1
-彊	容	9	kyomeishusei2015.00299.1
-彊	從	9	kyomeishusei2015.00299.1
-彊	倡	9	kyomeishusei2015.00299.1
-彊	長	9	kyomeishusei2015.00299.1
-彊	郡	9	kyomeishusei2015.00299.1
-彊	解	9	kyomeishusei2015.00299.1
-彊	竝	9	kyomeishusei2015.00299.1
-容	從	9	kyomeishusei2015.00299.1
-容	倡	9	kyomeishusei2015.00299.1
-容	長	9	kyomeishusei2015.00299.1
-容	郡	9	kyomeishusei2015.00299.1
-容	解	9	kyomeishusei2015.00299.1
-容	竝	9	kyomeishusei2015.00299.1
-從	倡	9	kyomeishusei2015.00299.1
-從	長	9	kyomeishusei2015.00299.1
-從	郡	9	kyomeishusei2015.00299.1
-從	解	9	kyomeishusei2015.00299.1
-從	竝	9	kyomeishusei2015.00299.1
-倡	長	9	kyomeishusei2015.00299.1
-倡	郡	9	kyomeishusei2015.00299.1
-倡	解	9	kyomeishusei2015.00299.1
-倡	竝	9	kyomeishusei2015.00299.1
-長	郡	9	kyomeishusei2015.00299.1
-長	解	9	kyomeishusei2015.00299.1
-長	竝	9	kyomeishusei2015.00299.1
-郡	解	9	kyomeishusei2015.00299.1
-郡	竝	9	kyomeishusei2015.00299.1
-解	竝	9	kyomeishusei2015.00299.1
 商	1	淵湅三商
 光	1	克照金光
 旁	1	法□四旁
@@ -1697,27 +1428,6 @@
 明	方	6	kyomeishusei2015.00301.1
 明	仁	6	kyomeishusei2015.00301.1
 方	仁	6	kyomeishusei2015.00301.1
-衣	1	衣綿緞衣
-妻	1	衞矦之妻
-夷	1	刑矦之夷
-淒	1	手如濡淒
-夷	1	領如狩 I 夷
-麋	1	縝首娥麋
-衣	妻	6	kyomeishusei2015.00302.1
-衣	夷	6	kyomeishusei2015.00302.1
-衣	淒	6	kyomeishusei2015.00302.1
-衣	夷	6	kyomeishusei2015.00302.1
-衣	麋	6	kyomeishusei2015.00302.1
-妻	夷	6	kyomeishusei2015.00302.1
-妻	淒	6	kyomeishusei2015.00302.1
-妻	夷	6	kyomeishusei2015.00302.1
-妻	麋	6	kyomeishusei2015.00302.1
-夷	淒	6	kyomeishusei2015.00302.1
-夷	夷	6	kyomeishusei2015.00302.1
-夷	麋	6	kyomeishusei2015.00302.1
-淒	夷	6	kyomeishusei2015.00302.1
-淒	麋	6	kyomeishusei2015.00302.1
-夷	麋	6	kyomeishusei2015.00302.1
 亟	1	國壽無亟
 君	1	堯賜女爲帝君
 盧	1	翠盖覆貴敬坐盧
@@ -1945,21 +1655,6 @@
 眀	名	6	kyomeishusei2015.00357.1
 眀	游	6	kyomeishusei2015.00357.1
 名	游	6	kyomeishusei2015.00357.1
-梁	1	眀如日月昭天梁
-王	1	位至三公爲矦王
-彭	1	朱鳥玄武自彭
-生	1	服者長生
-市	1	竟市
-梁	王	5	kyomeishusei2015.00358.1
-梁	彭	5	kyomeishusei2015.00358.1
-梁	生	5	kyomeishusei2015.00358.1
-梁	市	5	kyomeishusei2015.00358.1
-王	彭	5	kyomeishusei2015.00358.1
-王	生	5	kyomeishusei2015.00358.1
-王	市	5	kyomeishusei2015.00358.1
-彭	生	5	kyomeishusei2015.00358.1
-彭	市	5	kyomeishusei2015.00358.1
-生	市	5	kyomeishusei2015.00358.1
 成	1	同出徐州刻鏤成
 庭	1	仙人執節坐中庭
 成	庭	2	kyomeishusei2015.00359.1
@@ -2116,42 +1811,6 @@
 中	窮	4	kyomeishusei2015.00389.1
 中	亭	4	kyomeishusei2015.00389.1
 窮	亭	4	kyomeishusei2015.00389.1
-赦	1	天大赦
-竟	1	尚方明竟
-亟	1	周得無亟
-英	1	長樂未英
-王	1	冝矦王
-石	1	生如石
-母	1	壽如東王父西王母
-矦	1	立至公矦
-赦	竟	8	kyomeishusei2015.00390.1
-赦	亟	8	kyomeishusei2015.00390.1
-赦	英	8	kyomeishusei2015.00390.1
-赦	王	8	kyomeishusei2015.00390.1
-赦	石	8	kyomeishusei2015.00390.1
-赦	母	8	kyomeishusei2015.00390.1
-赦	矦	8	kyomeishusei2015.00390.1
-竟	亟	8	kyomeishusei2015.00390.1
-竟	英	8	kyomeishusei2015.00390.1
-竟	王	8	kyomeishusei2015.00390.1
-竟	石	8	kyomeishusei2015.00390.1
-竟	母	8	kyomeishusei2015.00390.1
-竟	矦	8	kyomeishusei2015.00390.1
-亟	英	8	kyomeishusei2015.00390.1
-亟	王	8	kyomeishusei2015.00390.1
-亟	石	8	kyomeishusei2015.00390.1
-亟	母	8	kyomeishusei2015.00390.1
-亟	矦	8	kyomeishusei2015.00390.1
-英	王	8	kyomeishusei2015.00390.1
-英	石	8	kyomeishusei2015.00390.1
-英	母	8	kyomeishusei2015.00390.1
-英	矦	8	kyomeishusei2015.00390.1
-王	石	8	kyomeishusei2015.00390.1
-王	母	8	kyomeishusei2015.00390.1
-王	矦	8	kyomeishusei2015.00390.1
-石	母	8	kyomeishusei2015.00390.1
-石	矦	8	kyomeishusei2015.00390.1
-母	矦	8	kyomeishusei2015.00390.1
 作	1	廣漢西蜀造作
 商	1	幽湅三商
 王	1	冝矦王
@@ -2187,27 +1846,6 @@
 竟	昌	4	kyomeishusei2015.00393.1
 竟	長	4	kyomeishusei2015.00393.1
 昌	長	4	kyomeishusei2015.00393.1
-竟	1	造作尚方兮明竟
-商	1	幽湅三商兮
-明	1	世得光明
-長	1	師命長
-英	1	長樂未英
-昌	1	富且 昌兮
-竟	商	6	kyomeishusei2015.00395.1
-竟	明	6	kyomeishusei2015.00395.1
-竟	長	6	kyomeishusei2015.00395.1
-竟	英	6	kyomeishusei2015.00395.1
-竟	昌	6	kyomeishusei2015.00395.1
-商	明	6	kyomeishusei2015.00395.1
-商	長	6	kyomeishusei2015.00395.1
-商	英	6	kyomeishusei2015.00395.1
-商	昌	6	kyomeishusei2015.00395.1
-明	長	6	kyomeishusei2015.00395.1
-明	英	6	kyomeishusei2015.00395.1
-明	昌	6	kyomeishusei2015.00395.1
-長	英	6	kyomeishusei2015.00395.1
-長	昌	6	kyomeishusei2015.00395.1
-英	昌	6	kyomeishusei2015.00395.1
 迹	1	天大迹
 竟	1	造作明竟
 月	1	天王日月
@@ -2264,27 +1902,6 @@
 長	官	5	kyomeishusei2015.00403.1
 長	利	5	kyomeishusei2015.00403.1
 官	利	5	kyomeishusei2015.00403.1
-日	1	正月午日
-竟	1	早作明竟
-長	1	延壽命長
-母	1	西王母兮
-矦	1	立至公矦
-長	1	太師命長
-日	竟	6	kyomeishusei2015.00404.1
-日	長	6	kyomeishusei2015.00404.1
-日	母	6	kyomeishusei2015.00404.1
-日	矦	6	kyomeishusei2015.00404.1
-日	長	6	kyomeishusei2015.00404.1
-竟	長	6	kyomeishusei2015.00404.1
-竟	母	6	kyomeishusei2015.00404.1
-竟	矦	6	kyomeishusei2015.00404.1
-竟	長	6	kyomeishusei2015.00404.1
-長	母	6	kyomeishusei2015.00404.1
-長	矦	6	kyomeishusei2015.00404.1
-長	長	6	kyomeishusei2015.00404.1
-母	矦	6	kyomeishusei2015.00404.1
-母	長	6	kyomeishusei2015.00404.1
-矦	長	6	kyomeishusei2015.00404.1
 赦	1	天下大赦
 刻	1	合湅黃白周刻兮
 赦	刻	2	kyomeishusei2015.00405.1
@@ -2423,34 +2040,6 @@
 英	王	7	kyomeishusei2015.00414.1
 英	吉	7	kyomeishusei2015.00414.1
 王	吉	7	kyomeishusei2015.00414.1
-日	1	五月午日
-竟	1	早作明竟
-孫	1	長冝子孫
-父	1	上如王父
-央	1	大樂未央
-月	1	天王日月
-格	1	13 方格
-日	竟	7	kyomeishusei2015.00415.1
-日	孫	7	kyomeishusei2015.00415.1
-日	父	7	kyomeishusei2015.00415.1
-日	央	7	kyomeishusei2015.00415.1
-日	月	7	kyomeishusei2015.00415.1
-日	格	7	kyomeishusei2015.00415.1
-竟	孫	7	kyomeishusei2015.00415.1
-竟	父	7	kyomeishusei2015.00415.1
-竟	央	7	kyomeishusei2015.00415.1
-竟	月	7	kyomeishusei2015.00415.1
-竟	格	7	kyomeishusei2015.00415.1
-孫	父	7	kyomeishusei2015.00415.1
-孫	央	7	kyomeishusei2015.00415.1
-孫	月	7	kyomeishusei2015.00415.1
-孫	格	7	kyomeishusei2015.00415.1
-父	央	7	kyomeishusei2015.00415.1
-父	月	7	kyomeishusei2015.00415.1
-父	格	7	kyomeishusei2015.00415.1
-央	月	7	kyomeishusei2015.00415.1
-央	格	7	kyomeishusei2015.00415.1
-月	格	7	kyomeishusei2015.00415.1
 鏡	1	吾造作尚方明鏡
 黃	1	合湅白黃
 明	1	世得光明
@@ -2461,27 +2050,6 @@
 黃	明	4	kyomeishusei2015.00416.1
 黃	矦	4	kyomeishusei2015.00416.1
 明	矦	4	kyomeishusei2015.00416.1
-竟	1	吾作明竟
-子	1	除去不羊冝孫子
-道	1	仙人玉女大神道
-公	1	位至三公
-家	1	百倍 田家
-月	1	天日月
-竟	子	6	kyomeishusei2015.00417.1
-竟	道	6	kyomeishusei2015.00417.1
-竟	公	6	kyomeishusei2015.00417.1
-竟	家	6	kyomeishusei2015.00417.1
-竟	月	6	kyomeishusei2015.00417.1
-子	道	6	kyomeishusei2015.00417.1
-子	公	6	kyomeishusei2015.00417.1
-子	家	6	kyomeishusei2015.00417.1
-子	月	6	kyomeishusei2015.00417.1
-道	公	6	kyomeishusei2015.00417.1
-道	家	6	kyomeishusei2015.00417.1
-道	月	6	kyomeishusei2015.00417.1
-公	家	6	kyomeishusei2015.00417.1
-公	月	6	kyomeishusei2015.00417.1
-家	月	6	kyomeishusei2015.00417.1
 市	1	除去不羊冝古市
 子	1	仙人王喬赤谷子
 昌	1	買者大貴昌
@@ -2537,27 +2105,6 @@
 作	1	示氏造作
 昌	1	子孫昌
 作	昌	2	kyomeishusei2015.00422.1
-商	1	幽湅宮三商
-皇	1	五帝天皇
-兇	1	黃帝除兇
-龍	1	白乕靑龍
-官	1	君冝高官
-官	1	君冝 官
-商	皇	6	kyomeishusei2015.00423.1
-商	兇	6	kyomeishusei2015.00423.1
-商	龍	6	kyomeishusei2015.00423.1
-商	官	6	kyomeishusei2015.00423.1
-商	官	6	kyomeishusei2015.00423.1
-皇	兇	6	kyomeishusei2015.00423.1
-皇	龍	6	kyomeishusei2015.00423.1
-皇	官	6	kyomeishusei2015.00423.1
-皇	官	6	kyomeishusei2015.00423.1
-兇	龍	6	kyomeishusei2015.00423.1
-兇	官	6	kyomeishusei2015.00423.1
-兇	官	6	kyomeishusei2015.00423.1
-龍	官	6	kyomeishusei2015.00423.1
-龍	官	6	kyomeishusei2015.00423.1
-官	官	6	kyomeishusei2015.00423.1
 商	1	幽湅三商
 皇	1	五帝天皇
 兇	1	黃帝除兇
@@ -2697,16 +2244,6 @@
 母	羊	5	kyomeishusei2015.00432.1
 母	夫	5	kyomeishusei2015.00432.1
 羊	夫	5	kyomeishusei2015.00432.1
-午	1	十月辛卯朔四日甲午
-鏡	1	師蔭豫作明鏡
-朖	1	乃而淸朖
-位	1	冝官位
-午	鏡	4	kyomeishusei2015.00435.1
-午	朖	4	kyomeishusei2015.00435.1
-午	位	4	kyomeishusei2015.00435.1
-鏡	朖	4	kyomeishusei2015.00435.1
-鏡	位	4	kyomeishusei2015.00435.1
-朖	位	4	kyomeishusei2015.00435.1
 午	1	十月丁酉朔十日丙午
 明	1	已交天東金令明
 民	1	十餘告天下萬民也
@@ -2851,16 +2388,6 @@
 矦	多	4	kyomeishusei2015.00461.1
 矦	羊	4	kyomeishusei2015.00461.1
 多	羊	4	kyomeishusei2015.00461.1
-辰	1	十一月丁巳朔七日丙辰
-明	1	竟照明
-壽	1	陽遂富貴老壽
-少	1	家在武昌思其少
-辰	明	4	kyomeishusei2015.00462.1
-辰	壽	4	kyomeishusei2015.00462.1
-辰	少	4	kyomeishusei2015.00462.1
-明	壽	4	kyomeishusei2015.00462.1
-明	少	4	kyomeishusei2015.00462.1
-壽	少	4	kyomeishusei2015.00462.1
 子	1	七月戊午朔七日甲子
 鏡	1	大師陳世嚴作明鏡
 子	鏡	2	kyomeishusei2015.00463.1
@@ -3086,34 +2613,6 @@
 竟	1	□造淸竟
 王	1	冝矦王
 竟	王	2	kyomeishusei2015.00500.1
-午	1	五月丙午
-化	1	乾巛合化
-竟	1	造作明竟
-宿	1	上應星宿
-壽	1	服者老壽
-卿	1	三公九卿
-作	1	君作
-午	化	7	kyomeishusei2015.00501.1
-午	竟	7	kyomeishusei2015.00501.1
-午	宿	7	kyomeishusei2015.00501.1
-午	壽	7	kyomeishusei2015.00501.1
-午	卿	7	kyomeishusei2015.00501.1
-午	作	7	kyomeishusei2015.00501.1
-化	竟	7	kyomeishusei2015.00501.1
-化	宿	7	kyomeishusei2015.00501.1
-化	壽	7	kyomeishusei2015.00501.1
-化	卿	7	kyomeishusei2015.00501.1
-化	作	7	kyomeishusei2015.00501.1
-竟	宿	7	kyomeishusei2015.00501.1
-竟	壽	7	kyomeishusei2015.00501.1
-竟	卿	7	kyomeishusei2015.00501.1
-竟	作	7	kyomeishusei2015.00501.1
-宿	壽	7	kyomeishusei2015.00501.1
-宿	卿	7	kyomeishusei2015.00501.1
-宿	作	7	kyomeishusei2015.00501.1
-壽	卿	7	kyomeishusei2015.00501.1
-壽	作	7	kyomeishusei2015.00501.1
-卿	作	7	kyomeishusei2015.00501.1
 陽	1	歲在大陽
 竟	1	造作明竟
 陽	竟	2	kyomeishusei2015.00502.1
@@ -3623,42 +3122,6 @@
 无	鏡	5	kyomeishusei2015.00577.1
 无	別	5	kyomeishusei2015.00577.1
 鏡	別	5	kyomeishusei2015.00577.1
-照	1	煥竝照
-公	1	張氏元公
-章	1	分別文章
-英	1	招福除英
-皇	1	朱鳥鳳皇
-王	1	女卽侍王
-兄	1	祐父冝兄
-公	1	位三公
-照	公	8	kyomeishusei2015.00578.1
-照	章	8	kyomeishusei2015.00578.1
-照	英	8	kyomeishusei2015.00578.1
-照	皇	8	kyomeishusei2015.00578.1
-照	王	8	kyomeishusei2015.00578.1
-照	兄	8	kyomeishusei2015.00578.1
-照	公	8	kyomeishusei2015.00578.1
-公	章	8	kyomeishusei2015.00578.1
-公	英	8	kyomeishusei2015.00578.1
-公	皇	8	kyomeishusei2015.00578.1
-公	王	8	kyomeishusei2015.00578.1
-公	兄	8	kyomeishusei2015.00578.1
-公	公	8	kyomeishusei2015.00578.1
-章	英	8	kyomeishusei2015.00578.1
-章	皇	8	kyomeishusei2015.00578.1
-章	王	8	kyomeishusei2015.00578.1
-章	兄	8	kyomeishusei2015.00578.1
-章	公	8	kyomeishusei2015.00578.1
-英	皇	8	kyomeishusei2015.00578.1
-英	王	8	kyomeishusei2015.00578.1
-英	兄	8	kyomeishusei2015.00578.1
-英	公	8	kyomeishusei2015.00578.1
-皇	王	8	kyomeishusei2015.00578.1
-皇	兄	8	kyomeishusei2015.00578.1
-皇	公	8	kyomeishusei2015.00578.1
-王	兄	8	kyomeishusei2015.00578.1
-王	公	8	kyomeishusei2015.00578.1
-兄	公	8	kyomeishusei2015.00578.1
 明	1	煥竝照明
 公	1	張氏元公
 文	1	分別文
@@ -3695,170 +3158,6 @@
 王	公	8	kyomeishusei2015.00579.1
 王	長	8	kyomeishusei2015.00579.1
 公	長	8	kyomeishusei2015.00579.1
-明	1	煥竝照明
-陽	1	本出雒陽
-章	1	分別文章
-英	1	招福除英
-皇	1	朱鳥鳳皇
-兄	1	祐父 冝兄
-王	1	女卽侍王
-明	陽	7	kyomeishusei2015.00580.1
-明	章	7	kyomeishusei2015.00580.1
-明	英	7	kyomeishusei2015.00580.1
-明	皇	7	kyomeishusei2015.00580.1
-明	兄	7	kyomeishusei2015.00580.1
-明	王	7	kyomeishusei2015.00580.1
-陽	章	7	kyomeishusei2015.00580.1
-陽	英	7	kyomeishusei2015.00580.1
-陽	皇	7	kyomeishusei2015.00580.1
-陽	兄	7	kyomeishusei2015.00580.1
-陽	王	7	kyomeishusei2015.00580.1
-章	英	7	kyomeishusei2015.00580.1
-章	皇	7	kyomeishusei2015.00580.1
-章	兄	7	kyomeishusei2015.00580.1
-章	王	7	kyomeishusei2015.00580.1
-英	皇	7	kyomeishusei2015.00580.1
-英	兄	7	kyomeishusei2015.00580.1
-英	王	7	kyomeishusei2015.00580.1
-皇	兄	7	kyomeishusei2015.00580.1
-皇	王	7	kyomeishusei2015.00580.1
-兄	王	7	kyomeishusei2015.00580.1
-雙	1	好絜少雙
-疆	1	悉圇萬疆
-央	1	正在中央
-明	1	燕處雲明
-方	1	威伏四方
-行	1	還□而行
-龍	1	參駕神龍
-皇	1	上古三皇
-撓	1	癡尤辟撓
-當	1	何耶敢當
-長	1	爲者命長
-央	1	喜訴未央
-卿	1	士宦 公卿
-雙	疆	13	kyomeishusei2015.00581.1
-雙	央	13	kyomeishusei2015.00581.1
-雙	明	13	kyomeishusei2015.00581.1
-雙	方	13	kyomeishusei2015.00581.1
-雙	行	13	kyomeishusei2015.00581.1
-雙	龍	13	kyomeishusei2015.00581.1
-雙	皇	13	kyomeishusei2015.00581.1
-雙	撓	13	kyomeishusei2015.00581.1
-雙	當	13	kyomeishusei2015.00581.1
-雙	長	13	kyomeishusei2015.00581.1
-雙	央	13	kyomeishusei2015.00581.1
-雙	卿	13	kyomeishusei2015.00581.1
-疆	央	13	kyomeishusei2015.00581.1
-疆	明	13	kyomeishusei2015.00581.1
-疆	方	13	kyomeishusei2015.00581.1
-疆	行	13	kyomeishusei2015.00581.1
-疆	龍	13	kyomeishusei2015.00581.1
-疆	皇	13	kyomeishusei2015.00581.1
-疆	撓	13	kyomeishusei2015.00581.1
-疆	當	13	kyomeishusei2015.00581.1
-疆	長	13	kyomeishusei2015.00581.1
-疆	央	13	kyomeishusei2015.00581.1
-疆	卿	13	kyomeishusei2015.00581.1
-央	明	13	kyomeishusei2015.00581.1
-央	方	13	kyomeishusei2015.00581.1
-央	行	13	kyomeishusei2015.00581.1
-央	龍	13	kyomeishusei2015.00581.1
-央	皇	13	kyomeishusei2015.00581.1
-央	撓	13	kyomeishusei2015.00581.1
-央	當	13	kyomeishusei2015.00581.1
-央	長	13	kyomeishusei2015.00581.1
-央	央	13	kyomeishusei2015.00581.1
-央	卿	13	kyomeishusei2015.00581.1
-明	方	13	kyomeishusei2015.00581.1
-明	行	13	kyomeishusei2015.00581.1
-明	龍	13	kyomeishusei2015.00581.1
-明	皇	13	kyomeishusei2015.00581.1
-明	撓	13	kyomeishusei2015.00581.1
-明	當	13	kyomeishusei2015.00581.1
-明	長	13	kyomeishusei2015.00581.1
-明	央	13	kyomeishusei2015.00581.1
-明	卿	13	kyomeishusei2015.00581.1
-方	行	13	kyomeishusei2015.00581.1
-方	龍	13	kyomeishusei2015.00581.1
-方	皇	13	kyomeishusei2015.00581.1
-方	撓	13	kyomeishusei2015.00581.1
-方	當	13	kyomeishusei2015.00581.1
-方	長	13	kyomeishusei2015.00581.1
-方	央	13	kyomeishusei2015.00581.1
-方	卿	13	kyomeishusei2015.00581.1
-行	龍	13	kyomeishusei2015.00581.1
-行	皇	13	kyomeishusei2015.00581.1
-行	撓	13	kyomeishusei2015.00581.1
-行	當	13	kyomeishusei2015.00581.1
-行	長	13	kyomeishusei2015.00581.1
-行	央	13	kyomeishusei2015.00581.1
-行	卿	13	kyomeishusei2015.00581.1
-龍	皇	13	kyomeishusei2015.00581.1
-龍	撓	13	kyomeishusei2015.00581.1
-龍	當	13	kyomeishusei2015.00581.1
-龍	長	13	kyomeishusei2015.00581.1
-龍	央	13	kyomeishusei2015.00581.1
-龍	卿	13	kyomeishusei2015.00581.1
-皇	撓	13	kyomeishusei2015.00581.1
-皇	當	13	kyomeishusei2015.00581.1
-皇	長	13	kyomeishusei2015.00581.1
-皇	央	13	kyomeishusei2015.00581.1
-皇	卿	13	kyomeishusei2015.00581.1
-撓	當	13	kyomeishusei2015.00581.1
-撓	長	13	kyomeishusei2015.00581.1
-撓	央	13	kyomeishusei2015.00581.1
-撓	卿	13	kyomeishusei2015.00581.1
-當	長	13	kyomeishusei2015.00581.1
-當	央	13	kyomeishusei2015.00581.1
-當	卿	13	kyomeishusei2015.00581.1
-長	央	13	kyomeishusei2015.00581.1
-長	卿	13	kyomeishusei2015.00581.1
-央	卿	13	kyomeishusei2015.00581.1
-常	1	變易俗常
-疆	1	悉圇萬疆
-央	1	丞福除央
-龍	1	參駕神龍
-撓	1	癡尤辟撓
-凶	1	以除咎凶
-當	1	何耶敢當
-昌	1	爲者富昌
-同	1	豫天地同
-常	疆	9	kyomeishusei2015.00582.1
-常	央	9	kyomeishusei2015.00582.1
-常	龍	9	kyomeishusei2015.00582.1
-常	撓	9	kyomeishusei2015.00582.1
-常	凶	9	kyomeishusei2015.00582.1
-常	當	9	kyomeishusei2015.00582.1
-常	昌	9	kyomeishusei2015.00582.1
-常	同	9	kyomeishusei2015.00582.1
-疆	央	9	kyomeishusei2015.00582.1
-疆	龍	9	kyomeishusei2015.00582.1
-疆	撓	9	kyomeishusei2015.00582.1
-疆	凶	9	kyomeishusei2015.00582.1
-疆	當	9	kyomeishusei2015.00582.1
-疆	昌	9	kyomeishusei2015.00582.1
-疆	同	9	kyomeishusei2015.00582.1
-央	龍	9	kyomeishusei2015.00582.1
-央	撓	9	kyomeishusei2015.00582.1
-央	凶	9	kyomeishusei2015.00582.1
-央	當	9	kyomeishusei2015.00582.1
-央	昌	9	kyomeishusei2015.00582.1
-央	同	9	kyomeishusei2015.00582.1
-龍	撓	9	kyomeishusei2015.00582.1
-龍	凶	9	kyomeishusei2015.00582.1
-龍	當	9	kyomeishusei2015.00582.1
-龍	昌	9	kyomeishusei2015.00582.1
-龍	同	9	kyomeishusei2015.00582.1
-撓	凶	9	kyomeishusei2015.00582.1
-撓	當	9	kyomeishusei2015.00582.1
-撓	昌	9	kyomeishusei2015.00582.1
-撓	同	9	kyomeishusei2015.00582.1
-凶	當	9	kyomeishusei2015.00582.1
-凶	昌	9	kyomeishusei2015.00582.1
-凶	同	9	kyomeishusei2015.00582.1
-當	昌	9	kyomeishusei2015.00582.1
-當	同	9	kyomeishusei2015.00582.1
-昌	同	9	kyomeishusei2015.00582.1
 雙	1	海内寡雙
 容	1	天禽見容
 龍	1	乘雲駕龍
@@ -3962,71 +3261,6 @@
 凶	卿	7	kyomeishusei2015.00588.1
 凶	昌	7	kyomeishusei2015.00588.1
 卿	昌	7	kyomeishusei2015.00588.1
-商	1	幽湅三商
-張	1	六合設張
-黃	1	光照玄黃
-容	1	揚威見容
-誦	1	子喬祝誦
-望	1	壁立相望
-良	1	敬奉賢良
-卿	1	仕宦公卿
-昌	1	子孫燔昌
-長	1	其師命長
-商	張	10	kyomeishusei2015.00589.1
-商	黃	10	kyomeishusei2015.00589.1
-商	容	10	kyomeishusei2015.00589.1
-商	誦	10	kyomeishusei2015.00589.1
-商	望	10	kyomeishusei2015.00589.1
-商	良	10	kyomeishusei2015.00589.1
-商	卿	10	kyomeishusei2015.00589.1
-商	昌	10	kyomeishusei2015.00589.1
-商	長	10	kyomeishusei2015.00589.1
-張	黃	10	kyomeishusei2015.00589.1
-張	容	10	kyomeishusei2015.00589.1
-張	誦	10	kyomeishusei2015.00589.1
-張	望	10	kyomeishusei2015.00589.1
-張	良	10	kyomeishusei2015.00589.1
-張	卿	10	kyomeishusei2015.00589.1
-張	昌	10	kyomeishusei2015.00589.1
-張	長	10	kyomeishusei2015.00589.1
-黃	容	10	kyomeishusei2015.00589.1
-黃	誦	10	kyomeishusei2015.00589.1
-黃	望	10	kyomeishusei2015.00589.1
-黃	良	10	kyomeishusei2015.00589.1
-黃	卿	10	kyomeishusei2015.00589.1
-黃	昌	10	kyomeishusei2015.00589.1
-黃	長	10	kyomeishusei2015.00589.1
-容	誦	10	kyomeishusei2015.00589.1
-容	望	10	kyomeishusei2015.00589.1
-容	良	10	kyomeishusei2015.00589.1
-容	卿	10	kyomeishusei2015.00589.1
-容	昌	10	kyomeishusei2015.00589.1
-容	長	10	kyomeishusei2015.00589.1
-誦	望	10	kyomeishusei2015.00589.1
-誦	良	10	kyomeishusei2015.00589.1
-誦	卿	10	kyomeishusei2015.00589.1
-誦	昌	10	kyomeishusei2015.00589.1
-誦	長	10	kyomeishusei2015.00589.1
-望	良	10	kyomeishusei2015.00589.1
-望	卿	10	kyomeishusei2015.00589.1
-望	昌	10	kyomeishusei2015.00589.1
-望	長	10	kyomeishusei2015.00589.1
-良	卿	10	kyomeishusei2015.00589.1
-良	昌	10	kyomeishusei2015.00589.1
-良	長	10	kyomeishusei2015.00589.1
-卿	昌	10	kyomeishusei2015.00589.1
-卿	長	10	kyomeishusei2015.00589.1
-昌	長	10	kyomeishusei2015.00589.1
-孰	1	風雨時節五穀孰
-亟	1	傳告後世樂無亟
-始	1	家富貴從 此始
-理	1	故刻明鏡表義理
-孰	亟	4	kyomeishusei2015.00590.1
-孰	始	4	kyomeishusei2015.00590.1
-孰	理	4	kyomeishusei2015.00590.1
-亟	始	4	kyomeishusei2015.00590.1
-亟	理	4	kyomeishusei2015.00590.1
-始	理	4	kyomeishusei2015.00590.1
 竟	1	正月午日作此竟
 倉	1	上人守皆食太倉
 竟	倉	2	kyomeishusei2015.00591.1
@@ -6552,34 +5786,6 @@
 持	喜	3	kyomeishusei2015.00818.1
 持	志	3	kyomeishusei2015.00818.1
 喜	志	3	kyomeishusei2015.00818.1
-尊	1	新家尊
-恩	1	大多恩
-田	1	不躬嗇田
-官	1	治校官
-安	1	天下大安
-恩	1	得蒙恩
-孫	1	葆 子孫
-尊	恩	7	kyomeishusei2015.00819.1
-尊	田	7	kyomeishusei2015.00819.1
-尊	官	7	kyomeishusei2015.00819.1
-尊	安	7	kyomeishusei2015.00819.1
-尊	恩	7	kyomeishusei2015.00819.1
-尊	孫	7	kyomeishusei2015.00819.1
-恩	田	7	kyomeishusei2015.00819.1
-恩	官	7	kyomeishusei2015.00819.1
-恩	安	7	kyomeishusei2015.00819.1
-恩	恩	7	kyomeishusei2015.00819.1
-恩	孫	7	kyomeishusei2015.00819.1
-田	官	7	kyomeishusei2015.00819.1
-田	安	7	kyomeishusei2015.00819.1
-田	恩	7	kyomeishusei2015.00819.1
-田	孫	7	kyomeishusei2015.00819.1
-官	安	7	kyomeishusei2015.00819.1
-官	恩	7	kyomeishusei2015.00819.1
-官	孫	7	kyomeishusei2015.00819.1
-安	恩	7	kyomeishusei2015.00819.1
-安	孫	7	kyomeishusei2015.00819.1
-恩	孫	7	kyomeishusei2015.00819.1
 鏡	1	作好鏡
 上	1	庄君上
 子	1	及妻子
@@ -6912,40 +6118,6 @@
 侍	哉	5	kyomeishusei2015.00838.1
 侍	内	5	kyomeishusei2015.00838.1
 哉	内	5	kyomeishusei2015.00838.1
-右	1	仁爲右
-子	1	象君子
-在	1	身常在
-右	子	3	kyomeishusei2015.00839.1
-右	在	3	kyomeishusei2015.00839.1
-子	在	3	kyomeishusei2015.00839.1
-前	1	日以前
-泉	1	飮澧泉
-雲	1	乘浮雲
-山	1	上泰山
-仙	1	見神仙
-年	1	壽萬年
-孫	1	八子十二 孫
-前	泉	7	kyomeishusei2015.00840.1
-前	雲	7	kyomeishusei2015.00840.1
-前	山	7	kyomeishusei2015.00840.1
-前	仙	7	kyomeishusei2015.00840.1
-前	年	7	kyomeishusei2015.00840.1
-前	孫	7	kyomeishusei2015.00840.1
-泉	雲	7	kyomeishusei2015.00840.1
-泉	山	7	kyomeishusei2015.00840.1
-泉	仙	7	kyomeishusei2015.00840.1
-泉	年	7	kyomeishusei2015.00840.1
-泉	孫	7	kyomeishusei2015.00840.1
-雲	山	7	kyomeishusei2015.00840.1
-雲	仙	7	kyomeishusei2015.00840.1
-雲	年	7	kyomeishusei2015.00840.1
-雲	孫	7	kyomeishusei2015.00840.1
-山	仙	7	kyomeishusei2015.00840.1
-山	年	7	kyomeishusei2015.00840.1
-山	孫	7	kyomeishusei2015.00840.1
-仙	年	7	kyomeishusei2015.00840.1
-仙	孫	7	kyomeishusei2015.00840.1
-年	孫	7	kyomeishusei2015.00840.1
 堅	1	質剛堅
 人	1	俟工人
 增	1	光耀增
@@ -7317,70 +6489,6 @@
 英	龍	7	kyomeishusei2015.00876.1
 英	弓	7	kyomeishusei2015.00876.1
 龍	弓	7	kyomeishusei2015.00876.1
-陽	1	出丹陽
-明	1	淸且明
-彭	1	掌四彭
-陽	1	順陰陽
-央	1	治中央
-羊	1	去不羊
-王	1	冝君王
-央	1	樂未央
-陽	明	8	kyomeishusei2015.00877.1
-陽	彭	8	kyomeishusei2015.00877.1
-陽	陽	8	kyomeishusei2015.00877.1
-陽	央	8	kyomeishusei2015.00877.1
-陽	羊	8	kyomeishusei2015.00877.1
-陽	王	8	kyomeishusei2015.00877.1
-陽	央	8	kyomeishusei2015.00877.1
-明	彭	8	kyomeishusei2015.00877.1
-明	陽	8	kyomeishusei2015.00877.1
-明	央	8	kyomeishusei2015.00877.1
-明	羊	8	kyomeishusei2015.00877.1
-明	王	8	kyomeishusei2015.00877.1
-明	央	8	kyomeishusei2015.00877.1
-彭	陽	8	kyomeishusei2015.00877.1
-彭	央	8	kyomeishusei2015.00877.1
-彭	羊	8	kyomeishusei2015.00877.1
-彭	王	8	kyomeishusei2015.00877.1
-彭	央	8	kyomeishusei2015.00877.1
-陽	央	8	kyomeishusei2015.00877.1
-陽	羊	8	kyomeishusei2015.00877.1
-陽	王	8	kyomeishusei2015.00877.1
-陽	央	8	kyomeishusei2015.00877.1
-央	羊	8	kyomeishusei2015.00877.1
-央	王	8	kyomeishusei2015.00877.1
-央	央	8	kyomeishusei2015.00877.1
-羊	王	8	kyomeishusei2015.00877.1
-羊	央	8	kyomeishusei2015.00877.1
-王	央	8	kyomeishusei2015.00877.1
-明	1	淸且明
-央	1	樂未央
-莊	1	駕騎趣莊
-行	1	自有行
-王	1	女嫁王
-羊	1	去不羊
-卿	1	爲 上卿
-明	央	7	kyomeishusei2015.00878.1
-明	莊	7	kyomeishusei2015.00878.1
-明	行	7	kyomeishusei2015.00878.1
-明	王	7	kyomeishusei2015.00878.1
-明	羊	7	kyomeishusei2015.00878.1
-明	卿	7	kyomeishusei2015.00878.1
-央	莊	7	kyomeishusei2015.00878.1
-央	行	7	kyomeishusei2015.00878.1
-央	王	7	kyomeishusei2015.00878.1
-央	羊	7	kyomeishusei2015.00878.1
-央	卿	7	kyomeishusei2015.00878.1
-莊	行	7	kyomeishusei2015.00878.1
-莊	王	7	kyomeishusei2015.00878.1
-莊	羊	7	kyomeishusei2015.00878.1
-莊	卿	7	kyomeishusei2015.00878.1
-行	王	7	kyomeishusei2015.00878.1
-行	羊	7	kyomeishusei2015.00878.1
-行	卿	7	kyomeishusei2015.00878.1
-王	羊	7	kyomeishusei2015.00878.1
-王	卿	7	kyomeishusei2015.00878.1
-羊	卿	7	kyomeishusei2015.00878.1
 右	1	乍爲右
 子	1	象君子
 在	1	身常在
@@ -7490,34 +6598,6 @@
 右	市	4	kyomeishusei2015.00886.1
 右	母	4	kyomeishusei2015.00886.1
 市	母	4	kyomeishusei2015.00886.1
-服	1	四夷服
-息	1	人民息
-復	1	天下復
-熟	1	五穀熟
-力	1	子孫力
-食	1	蒙祿食
-敬	1	同敬
-服	息	7	kyomeishusei2015.00887.1
-服	復	7	kyomeishusei2015.00887.1
-服	熟	7	kyomeishusei2015.00887.1
-服	力	7	kyomeishusei2015.00887.1
-服	食	7	kyomeishusei2015.00887.1
-服	敬	7	kyomeishusei2015.00887.1
-息	復	7	kyomeishusei2015.00887.1
-息	熟	7	kyomeishusei2015.00887.1
-息	力	7	kyomeishusei2015.00887.1
-息	食	7	kyomeishusei2015.00887.1
-息	敬	7	kyomeishusei2015.00887.1
-復	熟	7	kyomeishusei2015.00887.1
-復	力	7	kyomeishusei2015.00887.1
-復	食	7	kyomeishusei2015.00887.1
-復	敬	7	kyomeishusei2015.00887.1
-熟	力	7	kyomeishusei2015.00887.1
-熟	食	7	kyomeishusei2015.00887.1
-熟	敬	7	kyomeishusei2015.00887.1
-力	食	7	kyomeishusei2015.00887.1
-力	敬	7	kyomeishusei2015.00887.1
-食	敬	7	kyomeishusei2015.00887.1
 泉	1	身萬泉
 歡	1	心意歡
 泉	歡	2	kyomeishusei2015.00888.1
@@ -7548,55 +6628,6 @@
 公	1	東王公
 馬	1	白馬
 公	馬	2	kyomeishusei2015.00895.1
-巧	1	眞大巧
-母	1	西王母
-右	1	辟邪居右
-子	1	赤誦子
-老	1	不知老
-倍	1	賈萬倍
-子	1	利孫子
-巧	母	7	kyomeishusei2015.00896.1
-巧	右	7	kyomeishusei2015.00896.1
-巧	子	7	kyomeishusei2015.00896.1
-巧	老	7	kyomeishusei2015.00896.1
-巧	倍	7	kyomeishusei2015.00896.1
-巧	子	7	kyomeishusei2015.00896.1
-母	右	7	kyomeishusei2015.00896.1
-母	子	7	kyomeishusei2015.00896.1
-母	老	7	kyomeishusei2015.00896.1
-母	倍	7	kyomeishusei2015.00896.1
-母	子	7	kyomeishusei2015.00896.1
-右	子	7	kyomeishusei2015.00896.1
-右	老	7	kyomeishusei2015.00896.1
-右	倍	7	kyomeishusei2015.00896.1
-右	子	7	kyomeishusei2015.00896.1
-子	老	7	kyomeishusei2015.00896.1
-子	倍	7	kyomeishusei2015.00896.1
-子	子	7	kyomeishusei2015.00896.1
-老	倍	7	kyomeishusei2015.00896.1
-老	子	7	kyomeishusei2015.00896.1
-倍	子	7	kyomeishusei2015.00896.1
-商	1	幽湅三商
-疆	1	□象萬疆
-孫	1	子孫
-子	1	長冝孫子
-官	1	如冝官
-鏡	1	六大吉鏡
-商	疆	6	kyomeishusei2015.00897.1
-商	孫	6	kyomeishusei2015.00897.1
-商	子	6	kyomeishusei2015.00897.1
-商	官	6	kyomeishusei2015.00897.1
-商	鏡	6	kyomeishusei2015.00897.1
-疆	孫	6	kyomeishusei2015.00897.1
-疆	子	6	kyomeishusei2015.00897.1
-疆	官	6	kyomeishusei2015.00897.1
-疆	鏡	6	kyomeishusei2015.00897.1
-孫	子	6	kyomeishusei2015.00897.1
-孫	官	6	kyomeishusei2015.00897.1
-孫	鏡	6	kyomeishusei2015.00897.1
-子	官	6	kyomeishusei2015.00897.1
-子	鏡	6	kyomeishusei2015.00897.1
-官	鏡	6	kyomeishusei2015.00897.1
 樂	1	伯牙陳樂
 朋	1	投博至朋
 堂	1	直酒高堂
@@ -7896,27 +6927,6 @@
 明	1	天下大明
 央	1	長樂未央
 明	央	2	kyomeishusei2015.00954.1
-巧	1	眞大巧
-老	1	不知老
-柰	1	飢食柰
-草	1	采草
-海	1	敖亖海
-道	1	得天道
-巧	老	6	kyomeishusei2015.00955.1
-巧	柰	6	kyomeishusei2015.00955.1
-巧	草	6	kyomeishusei2015.00955.1
-巧	海	6	kyomeishusei2015.00955.1
-巧	道	6	kyomeishusei2015.00955.1
-老	柰	6	kyomeishusei2015.00955.1
-老	草	6	kyomeishusei2015.00955.1
-老	海	6	kyomeishusei2015.00955.1
-老	道	6	kyomeishusei2015.00955.1
-柰	草	6	kyomeishusei2015.00955.1
-柰	海	6	kyomeishusei2015.00955.1
-柰	道	6	kyomeishusei2015.00955.1
-草	海	6	kyomeishusei2015.00955.1
-草	道	6	kyomeishusei2015.00955.1
-海	道	6	kyomeishusei2015.00955.1
 傷	1	大毋傷
 羊	1	辟不羊
 陽	1	調陰陽
@@ -8033,62 +7043,6 @@
 海	草	6	kyomeishusei2015.00961.1
 海	保	6	kyomeishusei2015.00961.1
 草	保	6	kyomeishusei2015.00961.1
-服	1	亖夷服
-息	1	人民息
-復	1	天下復
-熟	1	五穀熟
-力	1	得孫力
-食	1	蒙祿食
-極	1	樂毋極
-服	息	7	kyomeishusei2015.00962.1
-服	復	7	kyomeishusei2015.00962.1
-服	熟	7	kyomeishusei2015.00962.1
-服	力	7	kyomeishusei2015.00962.1
-服	食	7	kyomeishusei2015.00962.1
-服	極	7	kyomeishusei2015.00962.1
-息	復	7	kyomeishusei2015.00962.1
-息	熟	7	kyomeishusei2015.00962.1
-息	力	7	kyomeishusei2015.00962.1
-息	食	7	kyomeishusei2015.00962.1
-息	極	7	kyomeishusei2015.00962.1
-復	熟	7	kyomeishusei2015.00962.1
-復	力	7	kyomeishusei2015.00962.1
-復	食	7	kyomeishusei2015.00962.1
-復	極	7	kyomeishusei2015.00962.1
-熟	力	7	kyomeishusei2015.00962.1
-熟	食	7	kyomeishusei2015.00962.1
-熟	極	7	kyomeishusei2015.00962.1
-力	食	7	kyomeishusei2015.00962.1
-力	極	7	kyomeishusei2015.00962.1
-食	極	7	kyomeishusei2015.00962.1
-服	1	亖夷服
-息	1	人民息
-復	1	天下復
-熟	1	五穀熟
-力	1	子孫力
-食	1	蒙祿食
-極	1	樂毋極
-服	息	7	kyomeishusei2015.00963.1
-服	復	7	kyomeishusei2015.00963.1
-服	熟	7	kyomeishusei2015.00963.1
-服	力	7	kyomeishusei2015.00963.1
-服	食	7	kyomeishusei2015.00963.1
-服	極	7	kyomeishusei2015.00963.1
-息	復	7	kyomeishusei2015.00963.1
-息	熟	7	kyomeishusei2015.00963.1
-息	力	7	kyomeishusei2015.00963.1
-息	食	7	kyomeishusei2015.00963.1
-息	極	7	kyomeishusei2015.00963.1
-復	熟	7	kyomeishusei2015.00963.1
-復	力	7	kyomeishusei2015.00963.1
-復	食	7	kyomeishusei2015.00963.1
-復	極	7	kyomeishusei2015.00963.1
-熟	力	7	kyomeishusei2015.00963.1
-熟	食	7	kyomeishusei2015.00963.1
-熟	極	7	kyomeishusei2015.00963.1
-力	食	7	kyomeishusei2015.00963.1
-力	極	7	kyomeishusei2015.00963.1
-食	極	7	kyomeishusei2015.00963.1
 則	1	在鏡則
 福	1	受大福
 德	1	獲嘉德
@@ -8140,70 +7094,6 @@
 行	央	5	kyomeishusei2015.00966.1
 行	長	5	kyomeishusei2015.00966.1
 央	長	5	kyomeishusei2015.00966.1
-陽	1	出丹陽
-明	1	淸且明
-彭	1	擧四彭
-陽	1	順陰陽
-央	1	居中央
-羊	1	去不羊
-王	1	冝君王
-央	1	樂未央
-陽	明	8	kyomeishusei2015.00967.1
-陽	彭	8	kyomeishusei2015.00967.1
-陽	陽	8	kyomeishusei2015.00967.1
-陽	央	8	kyomeishusei2015.00967.1
-陽	羊	8	kyomeishusei2015.00967.1
-陽	王	8	kyomeishusei2015.00967.1
-陽	央	8	kyomeishusei2015.00967.1
-明	彭	8	kyomeishusei2015.00967.1
-明	陽	8	kyomeishusei2015.00967.1
-明	央	8	kyomeishusei2015.00967.1
-明	羊	8	kyomeishusei2015.00967.1
-明	王	8	kyomeishusei2015.00967.1
-明	央	8	kyomeishusei2015.00967.1
-彭	陽	8	kyomeishusei2015.00967.1
-彭	央	8	kyomeishusei2015.00967.1
-彭	羊	8	kyomeishusei2015.00967.1
-彭	王	8	kyomeishusei2015.00967.1
-彭	央	8	kyomeishusei2015.00967.1
-陽	央	8	kyomeishusei2015.00967.1
-陽	羊	8	kyomeishusei2015.00967.1
-陽	王	8	kyomeishusei2015.00967.1
-陽	央	8	kyomeishusei2015.00967.1
-央	羊	8	kyomeishusei2015.00967.1
-央	王	8	kyomeishusei2015.00967.1
-央	央	8	kyomeishusei2015.00967.1
-羊	王	8	kyomeishusei2015.00967.1
-羊	央	8	kyomeishusei2015.00967.1
-王	央	8	kyomeishusei2015.00967.1
-明	1	淸且明
-央	1	樂未央
-莊	1	騎趣莊
-行	1	自有行
-王	1	女嫁王
-羊	1	去不羊
-卿	1	爲 上卿
-明	央	7	kyomeishusei2015.00968.1
-明	莊	7	kyomeishusei2015.00968.1
-明	行	7	kyomeishusei2015.00968.1
-明	王	7	kyomeishusei2015.00968.1
-明	羊	7	kyomeishusei2015.00968.1
-明	卿	7	kyomeishusei2015.00968.1
-央	莊	7	kyomeishusei2015.00968.1
-央	行	7	kyomeishusei2015.00968.1
-央	王	7	kyomeishusei2015.00968.1
-央	羊	7	kyomeishusei2015.00968.1
-央	卿	7	kyomeishusei2015.00968.1
-莊	行	7	kyomeishusei2015.00968.1
-莊	王	7	kyomeishusei2015.00968.1
-莊	羊	7	kyomeishusei2015.00968.1
-莊	卿	7	kyomeishusei2015.00968.1
-行	王	7	kyomeishusei2015.00968.1
-行	羊	7	kyomeishusei2015.00968.1
-行	卿	7	kyomeishusei2015.00968.1
-王	羊	7	kyomeishusei2015.00968.1
-王	卿	7	kyomeishusei2015.00968.1
-羊	卿	7	kyomeishusei2015.00968.1
 息	1	子孫息
 福	1	受大福
 食	1	蒙祿食
@@ -8715,27 +7605,6 @@
 淸	刑	3	kyomeishusei2015.01077.1
 淸	靑	3	kyomeishusei2015.01077.1
 刑	靑	3	kyomeishusei2015.01077.1
-美	1	而＊1 美兮
-閒	1	而承閒
-豫	1	而惟豫兮
-遷	1	而不遷
-衰	1	而不衰兮
-君	1	而侍君
-美	閒	6	kyomeishusei2015.01078.1
-美	豫	6	kyomeishusei2015.01078.1
-美	遷	6	kyomeishusei2015.01078.1
-美	衰	6	kyomeishusei2015.01078.1
-美	君	6	kyomeishusei2015.01078.1
-閒	豫	6	kyomeishusei2015.01078.1
-閒	遷	6	kyomeishusei2015.01078.1
-閒	衰	6	kyomeishusei2015.01078.1
-閒	君	6	kyomeishusei2015.01078.1
-豫	遷	6	kyomeishusei2015.01078.1
-豫	衰	6	kyomeishusei2015.01078.1
-豫	君	6	kyomeishusei2015.01078.1
-遷	衰	6	kyomeishusei2015.01078.1
-遷	君	6	kyomeishusei2015.01078.1
-衰	君	6	kyomeishusei2015.01078.1
 富	1	月有富
 食	1	冝酒食
 患	1	毌憂患
@@ -8977,30 +7846,6 @@
 升	央	7	kyomeishusei2015.01100.1
 升	長	7	kyomeishusei2015.01100.1
 央	長	7	kyomeishusei2015.01100.1
-商	1	幽湅三商
-疆	1	配像萬疆
-容	1	眾神見容
-剛	1	銜持維剛
-從	1	福祿是從
-長	1	師命 長
-商	疆	6	kyomeishusei2015.01101.1
-商	容	6	kyomeishusei2015.01101.1
-商	剛	6	kyomeishusei2015.01101.1
-商	從	6	kyomeishusei2015.01101.1
-商	長	6	kyomeishusei2015.01101.1
-疆	容	6	kyomeishusei2015.01101.1
-疆	剛	6	kyomeishusei2015.01101.1
-疆	從	6	kyomeishusei2015.01101.1
-疆	長	6	kyomeishusei2015.01101.1
-容	剛	6	kyomeishusei2015.01101.1
-容	從	6	kyomeishusei2015.01101.1
-容	長	6	kyomeishusei2015.01101.1
-剛	從	6	kyomeishusei2015.01101.1
-剛	長	6	kyomeishusei2015.01101.1
-從	長	6	kyomeishusei2015.01101.1
-公	1	張氏元公
-字	1	出自吳郡12 方格×1 字
-公	字	2	kyomeishusei2015.01102.1
 右	1	居左右
 子	1	赤松子
 始	1	法古始
@@ -9319,9 +8164,6 @@
 息	穀	4	kyomeishusei2015.01144.1
 强	穀	4	kyomeishusei2015.01144.1
 吉	1	命長大吉兮
-公	1	明淸公
-字	1	冝矦王12 方格×1 字
-公	字	2	kyomeishusei2015.01146.1
 午	1	正月丙午
 竟	1	尚方明竟
 黃	1	合湅白黃
@@ -9398,9 +8240,6 @@
 市	子	4	kyomeishusei2015.01155.1
 市	久	4	kyomeishusei2015.01155.1
 子	久	4	kyomeishusei2015.01155.1
-竟	1	靑盖作竟
-字	1	富貴且昌12 方格×1 字
-竟	字	2	kyomeishusei2015.01156.1
 服	1	四夷服
 息	1	人民息
 熟	1	五穀熟
@@ -9988,34 +8827,6 @@
 商	彊	3	kyomeishusei2015.01319.1
 商	昌	3	kyomeishusei2015.01319.1
 彊	昌	3	kyomeishusei2015.01319.1
-商	1	幽練三商
-道	1	競從序道
-祝	1	周刻典祝
-陽	1	眾事主陽
-樂	1	富貴安樂
-顯	1	賢者高顯
-長	1	興師命長
-商	道	7	kyomeishusei2015.01323.1
-商	祝	7	kyomeishusei2015.01323.1
-商	陽	7	kyomeishusei2015.01323.1
-商	樂	7	kyomeishusei2015.01323.1
-商	顯	7	kyomeishusei2015.01323.1
-商	長	7	kyomeishusei2015.01323.1
-道	祝	7	kyomeishusei2015.01323.1
-道	陽	7	kyomeishusei2015.01323.1
-道	樂	7	kyomeishusei2015.01323.1
-道	顯	7	kyomeishusei2015.01323.1
-道	長	7	kyomeishusei2015.01323.1
-祝	陽	7	kyomeishusei2015.01323.1
-祝	樂	7	kyomeishusei2015.01323.1
-祝	顯	7	kyomeishusei2015.01323.1
-祝	長	7	kyomeishusei2015.01323.1
-陽	樂	7	kyomeishusei2015.01323.1
-陽	顯	7	kyomeishusei2015.01323.1
-陽	長	7	kyomeishusei2015.01323.1
-樂	顯	7	kyomeishusei2015.01323.1
-樂	長	7	kyomeishusei2015.01323.1
-顯	長	7	kyomeishusei2015.01323.1
 竟	1	上方乍竟
 服	1	四夷服
 息	1	人民息
@@ -10041,34 +8852,6 @@
 巧	1	眞大巧
 子	1	□松子
 巧	子	2	kyomeishusei2015.01332.1
-商	1	幽湅三商
-道	1	競從序道
-祀	1	周刻典祀
-陽	1	眾事主陽
-樂	1	富貴安樂
-顯	1	賢者高顯
-長	1	興師命長
-商	道	7	kyomeishusei2015.01333.1
-商	祀	7	kyomeishusei2015.01333.1
-商	陽	7	kyomeishusei2015.01333.1
-商	樂	7	kyomeishusei2015.01333.1
-商	顯	7	kyomeishusei2015.01333.1
-商	長	7	kyomeishusei2015.01333.1
-道	祀	7	kyomeishusei2015.01333.1
-道	陽	7	kyomeishusei2015.01333.1
-道	樂	7	kyomeishusei2015.01333.1
-道	顯	7	kyomeishusei2015.01333.1
-道	長	7	kyomeishusei2015.01333.1
-祀	陽	7	kyomeishusei2015.01333.1
-祀	樂	7	kyomeishusei2015.01333.1
-祀	顯	7	kyomeishusei2015.01333.1
-祀	長	7	kyomeishusei2015.01333.1
-陽	樂	7	kyomeishusei2015.01333.1
-陽	顯	7	kyomeishusei2015.01333.1
-陽	長	7	kyomeishusei2015.01333.1
-樂	顯	7	kyomeishusei2015.01333.1
-樂	長	7	kyomeishusei2015.01333.1
-顯	長	7	kyomeishusei2015.01333.1
 好	1	甚大好
 人	1	古有聖人
 全	1	渴飮玉全
@@ -10118,34 +8901,6 @@
 陽	章	5	kyomeishusei2015.01352.1
 陽	孫	5	kyomeishusei2015.01352.1
 章	孫	5	kyomeishusei2015.01352.1
-章	1	右文章
-長	1	昭天梁長
-天	1	富如天
-王	1	□天矦王
-羊	1	辟兆羊
-受	1	□彭元□老受
-生	1	□ 者長生
-章	長	7	kyomeishusei2015.01354.1
-章	天	7	kyomeishusei2015.01354.1
-章	王	7	kyomeishusei2015.01354.1
-章	羊	7	kyomeishusei2015.01354.1
-章	受	7	kyomeishusei2015.01354.1
-章	生	7	kyomeishusei2015.01354.1
-長	天	7	kyomeishusei2015.01354.1
-長	王	7	kyomeishusei2015.01354.1
-長	羊	7	kyomeishusei2015.01354.1
-長	受	7	kyomeishusei2015.01354.1
-長	生	7	kyomeishusei2015.01354.1
-天	王	7	kyomeishusei2015.01354.1
-天	羊	7	kyomeishusei2015.01354.1
-天	受	7	kyomeishusei2015.01354.1
-天	生	7	kyomeishusei2015.01354.1
-王	羊	7	kyomeishusei2015.01354.1
-王	受	7	kyomeishusei2015.01354.1
-王	生	7	kyomeishusei2015.01354.1
-羊	受	7	kyomeishusei2015.01354.1
-羊	生	7	kyomeishusei2015.01354.1
-受	生	7	kyomeishusei2015.01354.1
 服	1	四夷服
 息	1	人民息
 腹	1	天下腹
@@ -10268,59 +9023,7 @@
 紀	1	自有紀
 子	1	冝孫子
 紀	子	2	kyomeishusei2015.01393.1
-商	1	□□三商
-商	1	幽湅三商
-道	1	競從序道
-祀	1	周刻典祀
-陽	1	眾事主陽
-樂	1	富貴安樂
-富	1	矦王長富
-顯	1	賢者高顯
-長	1	與師命長
-商	道	8	kyomeishusei2015.01399.1
-商	祀	8	kyomeishusei2015.01399.1
-商	陽	8	kyomeishusei2015.01399.1
-商	樂	8	kyomeishusei2015.01399.1
-商	富	8	kyomeishusei2015.01399.1
-商	顯	8	kyomeishusei2015.01399.1
-商	長	8	kyomeishusei2015.01399.1
-道	祀	8	kyomeishusei2015.01399.1
-道	陽	8	kyomeishusei2015.01399.1
-道	樂	8	kyomeishusei2015.01399.1
-道	富	8	kyomeishusei2015.01399.1
-道	顯	8	kyomeishusei2015.01399.1
-道	長	8	kyomeishusei2015.01399.1
-祀	陽	8	kyomeishusei2015.01399.1
-祀	樂	8	kyomeishusei2015.01399.1
-祀	富	8	kyomeishusei2015.01399.1
-祀	顯	8	kyomeishusei2015.01399.1
-祀	長	8	kyomeishusei2015.01399.1
-陽	樂	8	kyomeishusei2015.01399.1
-陽	富	8	kyomeishusei2015.01399.1
-陽	顯	8	kyomeishusei2015.01399.1
-陽	長	8	kyomeishusei2015.01399.1
-樂	富	8	kyomeishusei2015.01399.1
-樂	顯	8	kyomeishusei2015.01399.1
-樂	長	8	kyomeishusei2015.01399.1
-富	顯	8	kyomeishusei2015.01399.1
-富	長	8	kyomeishusei2015.01399.1
-顯	長	8	kyomeishusei2015.01399.1
 好	1	甚大好
-商	1	幽湅三商
-序	1	競□□序
-德	1	學者高德
-樂	1	富貴安樂
-長	1	與師命長
-商	序	5	kyomeishusei2015.01402.1
-商	德	5	kyomeishusei2015.01402.1
-商	樂	5	kyomeishusei2015.01402.1
-商	長	5	kyomeishusei2015.01402.1
-序	德	5	kyomeishusei2015.01402.1
-序	樂	5	kyomeishusei2015.01402.1
-序	長	5	kyomeishusei2015.01402.1
-德	樂	5	kyomeishusei2015.01402.1
-德	長	5	kyomeishusei2015.01402.1
-樂	長	5	kyomeishusei2015.01402.1
 紀	1	自有紀
 市	1	古市
 母	1	□西王母
@@ -10469,34 +9172,6 @@
 好	龍	3	kyomeishusei2015.01419.1
 好	道	3	kyomeishusei2015.01419.1
 龍	道	3	kyomeishusei2015.01419.1
-好	1	甚大好
-乕	1	及龍乕
-巨	1	□銜巨
-父	1	東王父
-洤	1	渴飮玉洤
-保	1	長相保
-父	1	東王父
-好	乕	7	kyomeishusei2015.01420.1
-好	巨	7	kyomeishusei2015.01420.1
-好	父	7	kyomeishusei2015.01420.1
-好	洤	7	kyomeishusei2015.01420.1
-好	保	7	kyomeishusei2015.01420.1
-好	父	7	kyomeishusei2015.01420.1
-乕	巨	7	kyomeishusei2015.01420.1
-乕	父	7	kyomeishusei2015.01420.1
-乕	洤	7	kyomeishusei2015.01420.1
-乕	保	7	kyomeishusei2015.01420.1
-乕	父	7	kyomeishusei2015.01420.1
-巨	父	7	kyomeishusei2015.01420.1
-巨	洤	7	kyomeishusei2015.01420.1
-巨	保	7	kyomeishusei2015.01420.1
-巨	父	7	kyomeishusei2015.01420.1
-父	洤	7	kyomeishusei2015.01420.1
-父	保	7	kyomeishusei2015.01420.1
-父	父	7	kyomeishusei2015.01420.1
-洤	保	7	kyomeishusei2015.01420.1
-洤	父	7	kyomeishusei2015.01420.1
-保	父	7	kyomeishusei2015.01420.1
 好	1	甚大好
 乕	1	及龍乕
 父	1	東王父
@@ -10866,12 +9541,6 @@
 竟	1	□□×竟
 長	1	□長
 竟	長	2	kyomeishusei2015.01507.1
-商	1	幽湅三商
-彊	1	配象萬彊
-昌	1	子孫番昌
-商	彊	3	kyomeishusei2015.01508.1
-商	昌	3	kyomeishusei2015.01508.1
-彊	昌	3	kyomeishusei2015.01508.1
 好	1	甚大好
 乕	1	及龍乕
 巨	1	□衞巨
@@ -11206,27 +9875,6 @@
 明	名	5	kyomeishusei2015.01592.1
 明	孫	5	kyomeishusei2015.01592.1
 名	孫	5	kyomeishusei2015.01592.1
-商	1	幽湅三商
-祀	1	周克典祀
-陽	1	眾事主陽
-樂	1	富貴安樂
-顕	1	賢者高顕
-長	1	見＊命長
-商	祀	6	kyomeishusei2015.01595.1
-商	陽	6	kyomeishusei2015.01595.1
-商	樂	6	kyomeishusei2015.01595.1
-商	顕	6	kyomeishusei2015.01595.1
-商	長	6	kyomeishusei2015.01595.1
-祀	陽	6	kyomeishusei2015.01595.1
-祀	樂	6	kyomeishusei2015.01595.1
-祀	顕	6	kyomeishusei2015.01595.1
-祀	長	6	kyomeishusei2015.01595.1
-陽	樂	6	kyomeishusei2015.01595.1
-陽	顕	6	kyomeishusei2015.01595.1
-陽	長	6	kyomeishusei2015.01595.1
-樂	顕	6	kyomeishusei2015.01595.1
-樂	長	6	kyomeishusei2015.01595.1
-顕	長	6	kyomeishusei2015.01595.1
 巧	1	眞大巧
 老	1	不知老
 棗	1	飢食棗
@@ -11513,12 +10161,6 @@
 工	1	甚大工
 銅	1	用靑銅
 工	銅	2	kyomeishusei2015.01645.1
-紀	1	自有紀
-子	1	冝孫子
-耳	1	車生＊1 耳
-紀	子	3	kyomeishusei2015.01646.1
-紀	耳	3	kyomeishusei2015.01646.1
-子	耳	3	kyomeishusei2015.01646.1
 鏡	1	陳是作鏡
 師	1	本是京師
 詺	1	母人詺之
@@ -11575,55 +10217,6 @@
 市	母	4	kyomeishusei2015.01656.1
 市	子	4	kyomeishusei2015.01656.1
 母	子	4	kyomeishusei2015.01656.1
-商	1	幽凍三商
-道	1	競得序道
-陽	1	眾事主陽
-樂	1	富貴安樂
-遷	1	學者當遷
-長	1	與師命長
-商	道	6	kyomeishusei2015.01659.1
-商	陽	6	kyomeishusei2015.01659.1
-商	樂	6	kyomeishusei2015.01659.1
-商	遷	6	kyomeishusei2015.01659.1
-商	長	6	kyomeishusei2015.01659.1
-道	陽	6	kyomeishusei2015.01659.1
-道	樂	6	kyomeishusei2015.01659.1
-道	遷	6	kyomeishusei2015.01659.1
-道	長	6	kyomeishusei2015.01659.1
-陽	樂	6	kyomeishusei2015.01659.1
-陽	遷	6	kyomeishusei2015.01659.1
-陽	長	6	kyomeishusei2015.01659.1
-樂	遷	6	kyomeishusei2015.01659.1
-樂	長	6	kyomeishusei2015.01659.1
-遷	長	6	kyomeishusei2015.01659.1
-同	1	練取靑同
-工	1	甚師甚工
-母	1	西王母
-好	1	甚大好
-海	1	至四海
-棗	1	飢食棗
-老	1	不 老兮
-同	工	7	kyomeishusei2015.01660.1
-同	母	7	kyomeishusei2015.01660.1
-同	好	7	kyomeishusei2015.01660.1
-同	海	7	kyomeishusei2015.01660.1
-同	棗	7	kyomeishusei2015.01660.1
-同	老	7	kyomeishusei2015.01660.1
-工	母	7	kyomeishusei2015.01660.1
-工	好	7	kyomeishusei2015.01660.1
-工	海	7	kyomeishusei2015.01660.1
-工	棗	7	kyomeishusei2015.01660.1
-工	老	7	kyomeishusei2015.01660.1
-母	好	7	kyomeishusei2015.01660.1
-母	海	7	kyomeishusei2015.01660.1
-母	棗	7	kyomeishusei2015.01660.1
-母	老	7	kyomeishusei2015.01660.1
-好	海	7	kyomeishusei2015.01660.1
-好	棗	7	kyomeishusei2015.01660.1
-好	老	7	kyomeishusei2015.01660.1
-海	棗	7	kyomeishusei2015.01660.1
-海	老	7	kyomeishusei2015.01660.1
-棗	老	7	kyomeishusei2015.01660.1
 好	1	甚大好
 老	1	不知老
 孫	1	保子冝孫
@@ -11748,34 +10341,6 @@
 工	1	□大工
 子	1	冝子
 工	子	2	kyomeishusei2015.01688.1
-商	1	幽凍三商
-道	1	統徳序道
-祀	1	周刻無祀
-陽	1	眾羊主陽
-樂	1	富貴安樂
-連	1	學者高連
-長	1	與師命長
-商	道	7	kyomeishusei2015.01689.1
-商	祀	7	kyomeishusei2015.01689.1
-商	陽	7	kyomeishusei2015.01689.1
-商	樂	7	kyomeishusei2015.01689.1
-商	連	7	kyomeishusei2015.01689.1
-商	長	7	kyomeishusei2015.01689.1
-道	祀	7	kyomeishusei2015.01689.1
-道	陽	7	kyomeishusei2015.01689.1
-道	樂	7	kyomeishusei2015.01689.1
-道	連	7	kyomeishusei2015.01689.1
-道	長	7	kyomeishusei2015.01689.1
-祀	陽	7	kyomeishusei2015.01689.1
-祀	樂	7	kyomeishusei2015.01689.1
-祀	連	7	kyomeishusei2015.01689.1
-祀	長	7	kyomeishusei2015.01689.1
-陽	樂	7	kyomeishusei2015.01689.1
-陽	連	7	kyomeishusei2015.01689.1
-陽	長	7	kyomeishusei2015.01689.1
-樂	連	7	kyomeishusei2015.01689.1
-樂	長	7	kyomeishusei2015.01689.1
-連	長	7	kyomeishusei2015.01689.1
 月	1	光□夫日月
 服	1	四夷服
 息	1	人民息
@@ -11798,34 +10363,6 @@
 月	父	2	kyomeishusei2015.01697.1
 師	1	本自□師
 長	1	如師命長兮
-岡	1	幽湅三岡
-月	1	天王日月
-平	1	天下安平
-月	1	天王日月
-昌	1	子孫番昌
-公	1	立至三公
-月	1	天王日月
-岡	月	7	kyomeishusei2015.01704.1
-岡	平	7	kyomeishusei2015.01704.1
-岡	月	7	kyomeishusei2015.01704.1
-岡	昌	7	kyomeishusei2015.01704.1
-岡	公	7	kyomeishusei2015.01704.1
-岡	月	7	kyomeishusei2015.01704.1
-月	平	7	kyomeishusei2015.01704.1
-月	月	7	kyomeishusei2015.01704.1
-月	昌	7	kyomeishusei2015.01704.1
-月	公	7	kyomeishusei2015.01704.1
-月	月	7	kyomeishusei2015.01704.1
-平	月	7	kyomeishusei2015.01704.1
-平	昌	7	kyomeishusei2015.01704.1
-平	公	7	kyomeishusei2015.01704.1
-平	月	7	kyomeishusei2015.01704.1
-月	昌	7	kyomeishusei2015.01704.1
-月	公	7	kyomeishusei2015.01704.1
-月	月	7	kyomeishusei2015.01704.1
-昌	公	7	kyomeishusei2015.01704.1
-昌	月	7	kyomeishusei2015.01704.1
-公	月	7	kyomeishusei2015.01704.1
 巧	1	眞大巧
 子	1	長冝子
 巧	子	2	kyomeishusei2015.01706.1
@@ -11835,34 +10372,6 @@
 商	彊	3	kyomeishusei2015.01707.1
 商	利	3	kyomeishusei2015.01707.1
 彊	利	3	kyomeishusei2015.01707.1
-月	1	天王日月
-道	1	統徳序道
-月	1	天王日月
-月	1	天王日月
-昌	1	子孫 番昌
-亟	1	興天無亟
-長	1	見師命長
-月	道	7	kyomeishusei2015.01710.1
-月	月	7	kyomeishusei2015.01710.1
-月	月	7	kyomeishusei2015.01710.1
-月	昌	7	kyomeishusei2015.01710.1
-月	亟	7	kyomeishusei2015.01710.1
-月	長	7	kyomeishusei2015.01710.1
-道	月	7	kyomeishusei2015.01710.1
-道	月	7	kyomeishusei2015.01710.1
-道	昌	7	kyomeishusei2015.01710.1
-道	亟	7	kyomeishusei2015.01710.1
-道	長	7	kyomeishusei2015.01710.1
-月	月	7	kyomeishusei2015.01710.1
-月	昌	7	kyomeishusei2015.01710.1
-月	亟	7	kyomeishusei2015.01710.1
-月	長	7	kyomeishusei2015.01710.1
-月	昌	7	kyomeishusei2015.01710.1
-月	亟	7	kyomeishusei2015.01710.1
-月	長	7	kyomeishusei2015.01710.1
-昌	亟	7	kyomeishusei2015.01710.1
-昌	長	7	kyomeishusei2015.01710.1
-亟	長	7	kyomeishusei2015.01710.1
 商	1	幽練三商
 彊	1	配像萬彊
 昌	1	子孫番昌
@@ -12125,34 +10634,6 @@
 好	老	3	kyomeishusei2015.01850.1
 好	棗	3	kyomeishusei2015.01850.1
 老	棗	3	kyomeishusei2015.01850.1
-商	1	幽湅三商
-道	1	競從序道
-祀	1	周刻典祀
-陽	1	眾事主陽
-樂	1	富貴安樂
-顯	1	賢者高顯
-長	1	與師命長
-商	道	7	kyomeishusei2015.01853.1
-商	祀	7	kyomeishusei2015.01853.1
-商	陽	7	kyomeishusei2015.01853.1
-商	樂	7	kyomeishusei2015.01853.1
-商	顯	7	kyomeishusei2015.01853.1
-商	長	7	kyomeishusei2015.01853.1
-道	祀	7	kyomeishusei2015.01853.1
-道	陽	7	kyomeishusei2015.01853.1
-道	樂	7	kyomeishusei2015.01853.1
-道	顯	7	kyomeishusei2015.01853.1
-道	長	7	kyomeishusei2015.01853.1
-祀	陽	7	kyomeishusei2015.01853.1
-祀	樂	7	kyomeishusei2015.01853.1
-祀	顯	7	kyomeishusei2015.01853.1
-祀	長	7	kyomeishusei2015.01853.1
-陽	樂	7	kyomeishusei2015.01853.1
-陽	顯	7	kyomeishusei2015.01853.1
-陽	長	7	kyomeishusei2015.01853.1
-樂	顯	7	kyomeishusei2015.01853.1
-樂	長	7	kyomeishusei2015.01853.1
-顯	長	7	kyomeishusei2015.01853.1
 巧	1	眞大巧
 老	1	不知老
 海	1	遨四海
@@ -12532,42 +11013,6 @@
 章	羊	4	kyomeishusei2015.02035.1
 章	光	4	kyomeishusei2015.02035.1
 羊	光	4	kyomeishusei2015.02035.1
-服	1	亖夷服
-息	1	人民息
-復	1	天下復
-孰	1	五穀孰
-德	1	得佳德
-福	1	受大福
-力	1	子孫力
-極	1	樂毌極
-服	息	8	kyomeishusei2015.02036.1
-服	復	8	kyomeishusei2015.02036.1
-服	孰	8	kyomeishusei2015.02036.1
-服	德	8	kyomeishusei2015.02036.1
-服	福	8	kyomeishusei2015.02036.1
-服	力	8	kyomeishusei2015.02036.1
-服	極	8	kyomeishusei2015.02036.1
-息	復	8	kyomeishusei2015.02036.1
-息	孰	8	kyomeishusei2015.02036.1
-息	德	8	kyomeishusei2015.02036.1
-息	福	8	kyomeishusei2015.02036.1
-息	力	8	kyomeishusei2015.02036.1
-息	極	8	kyomeishusei2015.02036.1
-復	孰	8	kyomeishusei2015.02036.1
-復	德	8	kyomeishusei2015.02036.1
-復	福	8	kyomeishusei2015.02036.1
-復	力	8	kyomeishusei2015.02036.1
-復	極	8	kyomeishusei2015.02036.1
-孰	德	8	kyomeishusei2015.02036.1
-孰	福	8	kyomeishusei2015.02036.1
-孰	力	8	kyomeishusei2015.02036.1
-孰	極	8	kyomeishusei2015.02036.1
-德	福	8	kyomeishusei2015.02036.1
-德	力	8	kyomeishusei2015.02036.1
-德	極	8	kyomeishusei2015.02036.1
-福	力	8	kyomeishusei2015.02036.1
-福	極	8	kyomeishusei2015.02036.1
-力	極	8	kyomeishusei2015.02036.1
 好	1	眞大好
 老	1	不知老
 棗	1	飢食棗
@@ -12659,46 +11104,7 @@
 復	享	5	kyomeishusei2015.02050.1
 復	得	5	kyomeishusei2015.02050.1
 享	得	5	kyomeishusei2015.02050.1
-德	1	流信德
-乕	1	靑龍白乕
-母	1	東王公西母
-自	1	葯禾自
-女	1	則昌女
-里	1	□□□里
-德	乕	6	kyomeishusei2015.02051.1
-德	母	6	kyomeishusei2015.02051.1
-德	自	6	kyomeishusei2015.02051.1
-德	女	6	kyomeishusei2015.02051.1
-德	里	6	kyomeishusei2015.02051.1
-乕	母	6	kyomeishusei2015.02051.1
-乕	自	6	kyomeishusei2015.02051.1
-乕	女	6	kyomeishusei2015.02051.1
-乕	里	6	kyomeishusei2015.02051.1
-母	自	6	kyomeishusei2015.02051.1
-母	女	6	kyomeishusei2015.02051.1
-母	里	6	kyomeishusei2015.02051.1
-自	女	6	kyomeishusei2015.02051.1
-自	里	6	kyomeishusei2015.02051.1
-女	里	6	kyomeishusei2015.02051.1
-商	1	幽煉三商
-疆	1	□□萬疆
-容	1	眾神見容
-從	1	福祿定從
-字	1	□師□ 長12 方格×4 字
-商	疆	5	kyomeishusei2015.02054.1
-商	容	5	kyomeishusei2015.02054.1
-商	從	5	kyomeishusei2015.02054.1
-商	字	5	kyomeishusei2015.02054.1
-疆	容	5	kyomeishusei2015.02054.1
-疆	從	5	kyomeishusei2015.02054.1
-疆	字	5	kyomeishusei2015.02054.1
-容	從	5	kyomeishusei2015.02054.1
-容	字	5	kyomeishusei2015.02054.1
-從	字	5	kyomeishusei2015.02054.1
 竟	1	吾明竟
-竟	1	陰氏作竟
-字	1	其師受11 方格×1 字
-竟	字	2	kyomeishusei2015.02056.1
 羊	1	家有五馬千頭羊
 年	1	章和元年
 日	1	廿日
@@ -12710,16 +11116,6 @@
 造	用	2	kyomeishusei2015.02059.1
 年	1	熹平元年
 月	1	建安廿四年三月
-王	1	冝來王
-羊	1	千頭羊
-出	1	車丞出
-莫	1	當莫
-王	羊	4	kyomeishusei2015.02062.1
-王	出	4	kyomeishusei2015.02062.1
-王	莫	4	kyomeishusei2015.02062.1
-羊	出	4	kyomeishusei2015.02062.1
-羊	莫	4	kyomeishusei2015.02062.1
-出	莫	4	kyomeishusei2015.02062.1
 竟	1	百煉明竟
 王	1	冝矦王
 竟	王	2	kyomeishusei2015.02063.1
@@ -12886,27 +11282,6 @@
 竟	1	靑羊作竟
 市	1	利古市
 竟	市	2	kyomeishusei2015.02099.1
-兌	1	吳娃之兌
-月	1	好如日月
-絕	1	世不絕
-驩	1	心中驩
-年	1	永始二年
-五	1	屚上五
-兌	月	6	kyomeishusei2015.02101.1
-兌	絕	6	kyomeishusei2015.02101.1
-兌	驩	6	kyomeishusei2015.02101.1
-兌	年	6	kyomeishusei2015.02101.1
-兌	五	6	kyomeishusei2015.02101.1
-月	絕	6	kyomeishusei2015.02101.1
-月	驩	6	kyomeishusei2015.02101.1
-月	年	6	kyomeishusei2015.02101.1
-月	五	6	kyomeishusei2015.02101.1
-絕	驩	6	kyomeishusei2015.02101.1
-絕	年	6	kyomeishusei2015.02101.1
-絕	五	6	kyomeishusei2015.02101.1
-驩	年	6	kyomeishusei2015.02101.1
-驩	五	6	kyomeishusei2015.02101.1
-年	五	6	kyomeishusei2015.02101.1
 巧	1	眞大巧
 老	1	不知老
 棗	1	飢食棗
@@ -12923,42 +11298,6 @@
 老	棗	4	kyomeishusei2015.02103.1
 老	海	4	kyomeishusei2015.02103.1
 棗	海	4	kyomeishusei2015.02103.1
-傷	1	大毌傷
-明	1	淸而明
-章	1	成文章
-羊	1	辟不羊
-陽	1	順陰陽
-央	1	居中央
-昌	1	樂富昌
-王	1	如矦王
-傷	明	8	kyomeishusei2015.02104.1
-傷	章	8	kyomeishusei2015.02104.1
-傷	羊	8	kyomeishusei2015.02104.1
-傷	陽	8	kyomeishusei2015.02104.1
-傷	央	8	kyomeishusei2015.02104.1
-傷	昌	8	kyomeishusei2015.02104.1
-傷	王	8	kyomeishusei2015.02104.1
-明	章	8	kyomeishusei2015.02104.1
-明	羊	8	kyomeishusei2015.02104.1
-明	陽	8	kyomeishusei2015.02104.1
-明	央	8	kyomeishusei2015.02104.1
-明	昌	8	kyomeishusei2015.02104.1
-明	王	8	kyomeishusei2015.02104.1
-章	羊	8	kyomeishusei2015.02104.1
-章	陽	8	kyomeishusei2015.02104.1
-章	央	8	kyomeishusei2015.02104.1
-章	昌	8	kyomeishusei2015.02104.1
-章	王	8	kyomeishusei2015.02104.1
-羊	陽	8	kyomeishusei2015.02104.1
-羊	央	8	kyomeishusei2015.02104.1
-羊	昌	8	kyomeishusei2015.02104.1
-羊	王	8	kyomeishusei2015.02104.1
-陽	央	8	kyomeishusei2015.02104.1
-陽	昌	8	kyomeishusei2015.02104.1
-陽	王	8	kyomeishusei2015.02104.1
-央	昌	8	kyomeishusei2015.02104.1
-央	王	8	kyomeishusei2015.02104.1
-昌	王	8	kyomeishusei2015.02104.1
 巧	1	眞大巧
 老	1	不知老
 棗	1	飢食棗
@@ -13024,24 +11363,6 @@
 巧	1	眞大巧
 老	1	不知老
 巧	老	2	kyomeishusei2015.02127.1
-商	1	幽湅三商
-字	1	陳佰寶11 方格×1 字
-商	字	2	kyomeishusei2015.02128.1
-昌	1	子孫富昌
-長	1	其師命長
-直	1	□女氏直
-利	1	同□□利
-修	1	眾生主 修
-昌	長	5	kyomeishusei2015.02129.1
-昌	直	5	kyomeishusei2015.02129.1
-昌	利	5	kyomeishusei2015.02129.1
-昌	修	5	kyomeishusei2015.02129.1
-長	直	5	kyomeishusei2015.02129.1
-長	利	5	kyomeishusei2015.02129.1
-長	修	5	kyomeishusei2015.02129.1
-直	利	5	kyomeishusei2015.02129.1
-直	修	5	kyomeishusei2015.02129.1
-利	修	5	kyomeishusei2015.02129.1
 好	1	佳且好
 有	1	世少有
 在	1	悉皆在
@@ -13071,9 +11392,6 @@
 冝	1	君冝
 公	1	位至三公
 官	1	冝官冝官
-明	1	不明
-字	1	12 方格×4 字
-明	字	2	kyomeishusei2015.02151.1
 貴	1	大樂富貴
 食	1	冝酒食
 貴	食	2	kyomeishusei2015.02152.1
@@ -13316,21 +11634,6 @@
 棗	海	5	kyomeishusei2015.02205.1
 棗	草	5	kyomeishusei2015.02205.1
 海	草	5	kyomeishusei2015.02205.1
-人	1	見神人
-金	1	＊1 澧金
-孫	1	葆子孫
-昌	1	富貴昌
-龍	1	駕非龍
-人	金	5	kyomeishusei2015.02206.1
-人	孫	5	kyomeishusei2015.02206.1
-人	昌	5	kyomeishusei2015.02206.1
-人	龍	5	kyomeishusei2015.02206.1
-金	孫	5	kyomeishusei2015.02206.1
-金	昌	5	kyomeishusei2015.02206.1
-金	龍	5	kyomeishusei2015.02206.1
-孫	昌	5	kyomeishusei2015.02206.1
-孫	龍	5	kyomeishusei2015.02206.1
-昌	龍	5	kyomeishusei2015.02206.1
 請	1	知人請
 生	1	樂長生
 靑	1	明而靑
@@ -13384,27 +11687,6 @@
 海	保	6	kyomeishusei2015.02214.1
 海	左	6	kyomeishusei2015.02214.1
 保	左	6	kyomeishusei2015.02214.1
-好	1	眞獨好
-老	1	不知老
-棗	1	飢＊1 棗
-海	1	＊2 四海
-葆	1	爲國葆
-左	1	家尚左
-好	老	6	kyomeishusei2015.02215.1
-好	棗	6	kyomeishusei2015.02215.1
-好	海	6	kyomeishusei2015.02215.1
-好	葆	6	kyomeishusei2015.02215.1
-好	左	6	kyomeishusei2015.02215.1
-老	棗	6	kyomeishusei2015.02215.1
-老	海	6	kyomeishusei2015.02215.1
-老	葆	6	kyomeishusei2015.02215.1
-老	左	6	kyomeishusei2015.02215.1
-棗	海	6	kyomeishusei2015.02215.1
-棗	葆	6	kyomeishusei2015.02215.1
-棗	左	6	kyomeishusei2015.02215.1
-海	葆	6	kyomeishusei2015.02215.1
-海	左	6	kyomeishusei2015.02215.1
-葆	左	6	kyomeishusei2015.02215.1
 好	1	眞大好
 老	1	不知老
 棗	1	飢食棗
@@ -13465,34 +11747,6 @@
 好	老	2	kyomeishusei2015.02229.1
 傷	1	大毋傷
 章	1	成文章
-佯	1	除不佯
-偒	1	順陰偒
-央	1	樂未央
-昌	1	富貴昌
-央	1	居中央
-傷	章	7	kyomeishusei2015.02230.1
-傷	佯	7	kyomeishusei2015.02230.1
-傷	偒	7	kyomeishusei2015.02230.1
-傷	央	7	kyomeishusei2015.02230.1
-傷	昌	7	kyomeishusei2015.02230.1
-傷	央	7	kyomeishusei2015.02230.1
-章	佯	7	kyomeishusei2015.02230.1
-章	偒	7	kyomeishusei2015.02230.1
-章	央	7	kyomeishusei2015.02230.1
-章	昌	7	kyomeishusei2015.02230.1
-章	央	7	kyomeishusei2015.02230.1
-佯	偒	7	kyomeishusei2015.02230.1
-佯	央	7	kyomeishusei2015.02230.1
-佯	昌	7	kyomeishusei2015.02230.1
-佯	央	7	kyomeishusei2015.02230.1
-偒	央	7	kyomeishusei2015.02230.1
-偒	昌	7	kyomeishusei2015.02230.1
-偒	央	7	kyomeishusei2015.02230.1
-央	昌	7	kyomeishusei2015.02230.1
-央	央	7	kyomeishusei2015.02230.1
-昌	央	7	kyomeishusei2015.02230.1
-傷	1	大毋傷
-章	1	成文章
 不	1	辟不
 陽	1	順陰陽
 央	1	居中央
@@ -13521,12 +11775,6 @@
 明	陽	5	kyomeishusei2015.02232.1
 明	央	5	kyomeishusei2015.02232.1
 陽	央	5	kyomeishusei2015.02232.1
-記	1	自記
-子	1	利兒子
-海	1	之四海
-記	子	3	kyomeishusei2015.02233.1
-記	海	3	kyomeishusei2015.02233.1
-子	海	3	kyomeishusei2015.02233.1
 傷	1	大無傷
 陽	1	出丹陽
 央	1	樂未央
@@ -13703,12 +11951,6 @@
 息	復	4	kyomeishusei2015.02250.1
 息	孰	4	kyomeishusei2015.02250.1
 復	孰	4	kyomeishusei2015.02250.1
-傷	1	大毋傷
-方	1	□1 四方
-吉	1	大吉
-傷	方	3	kyomeishusei2015.02252.1
-傷	吉	3	kyomeishusei2015.02252.1
-方	吉	3	kyomeishusei2015.02252.1
 央	1	樂未央兮
 孫	1	冝子孫
 央	1	樂未央
@@ -13834,9 +12076,6 @@
 紀	1	自有紀
 母	1	西王母
 紀	母	2	kyomeishusei2015.02279.1
-鏡	1	潘維(?)作鏡
-字	1	壽命益長12 方格×1 字
-鏡	字	2	kyomeishusei2015.02280.1
 公	1	位至三公
 公	1	位至三公
 公	1	位至三公
@@ -13944,42 +12183,6 @@
 官	1	君冝高官
 石	1	生如山石
 官	石	2	kyomeishusei2015.02312.1
-商	1	幽涷三商
-道	1	競從序道
-祀	1	周刻典祀
-陽	1	眾事主陽
-樂	1	富貴安樂
-富	1	矦王長 富
-顯	1	賢者高顯
-長	1	與師命長
-商	道	8	kyomeishusei2015.02313.1
-商	祀	8	kyomeishusei2015.02313.1
-商	陽	8	kyomeishusei2015.02313.1
-商	樂	8	kyomeishusei2015.02313.1
-商	富	8	kyomeishusei2015.02313.1
-商	顯	8	kyomeishusei2015.02313.1
-商	長	8	kyomeishusei2015.02313.1
-道	祀	8	kyomeishusei2015.02313.1
-道	陽	8	kyomeishusei2015.02313.1
-道	樂	8	kyomeishusei2015.02313.1
-道	富	8	kyomeishusei2015.02313.1
-道	顯	8	kyomeishusei2015.02313.1
-道	長	8	kyomeishusei2015.02313.1
-祀	陽	8	kyomeishusei2015.02313.1
-祀	樂	8	kyomeishusei2015.02313.1
-祀	富	8	kyomeishusei2015.02313.1
-祀	顯	8	kyomeishusei2015.02313.1
-祀	長	8	kyomeishusei2015.02313.1
-陽	樂	8	kyomeishusei2015.02313.1
-陽	富	8	kyomeishusei2015.02313.1
-陽	顯	8	kyomeishusei2015.02313.1
-陽	長	8	kyomeishusei2015.02313.1
-樂	富	8	kyomeishusei2015.02313.1
-樂	顯	8	kyomeishusei2015.02313.1
-樂	長	8	kyomeishusei2015.02313.1
-富	顯	8	kyomeishusei2015.02313.1
-富	長	8	kyomeishusei2015.02313.1
-顯	長	8	kyomeishusei2015.02313.1
 王	1	日月天王
 王	1	日月天王
 王	王	2	kyomeishusei2015.02316.1
@@ -14100,27 +12303,6 @@
 日	央	3	kyomeishusei2015.02353.1
 日	長	3	kyomeishusei2015.02353.1
 央	長	3	kyomeishusei2015.02353.1
-竟	1	作明竟
-商	1	幽湅三商
-父	1	上有東王父
-石	1	生如山石
-里	1	東西八千萬里
-央	1	樂未 央
-竟	商	6	kyomeishusei2015.02354.1
-竟	父	6	kyomeishusei2015.02354.1
-竟	石	6	kyomeishusei2015.02354.1
-竟	里	6	kyomeishusei2015.02354.1
-竟	央	6	kyomeishusei2015.02354.1
-商	父	6	kyomeishusei2015.02354.1
-商	石	6	kyomeishusei2015.02354.1
-商	里	6	kyomeishusei2015.02354.1
-商	央	6	kyomeishusei2015.02354.1
-父	石	6	kyomeishusei2015.02354.1
-父	里	6	kyomeishusei2015.02354.1
-父	央	6	kyomeishusei2015.02354.1
-石	里	6	kyomeishusei2015.02354.1
-石	央	6	kyomeishusei2015.02354.1
-里	央	6	kyomeishusei2015.02354.1
 官	1	君冝官
 羊	1	大吉羊
 官	羊	2	kyomeishusei2015.02355.1
@@ -14183,34 +12365,6 @@
 紀	市	3	kyomeishusei2015.02375.1
 紀	母	3	kyomeishusei2015.02375.1
 市	母	3	kyomeishusei2015.02375.1
-傷	1	大毋傷
-章	1	成文章
-祥	1	辟不祥
-陽	1	順陰陽
-央	1	居中央
-昌	1	永富昌
-王	1	如矦王兮
-傷	章	7	kyomeishusei2015.02376.1
-傷	祥	7	kyomeishusei2015.02376.1
-傷	陽	7	kyomeishusei2015.02376.1
-傷	央	7	kyomeishusei2015.02376.1
-傷	昌	7	kyomeishusei2015.02376.1
-傷	王	7	kyomeishusei2015.02376.1
-章	祥	7	kyomeishusei2015.02376.1
-章	陽	7	kyomeishusei2015.02376.1
-章	央	7	kyomeishusei2015.02376.1
-章	昌	7	kyomeishusei2015.02376.1
-章	王	7	kyomeishusei2015.02376.1
-祥	陽	7	kyomeishusei2015.02376.1
-祥	央	7	kyomeishusei2015.02376.1
-祥	昌	7	kyomeishusei2015.02376.1
-祥	王	7	kyomeishusei2015.02376.1
-陽	央	7	kyomeishusei2015.02376.1
-陽	昌	7	kyomeishusei2015.02376.1
-陽	王	7	kyomeishusei2015.02376.1
-央	昌	7	kyomeishusei2015.02376.1
-央	王	7	kyomeishusei2015.02376.1
-昌	王	7	kyomeishusei2015.02376.1
 商	1	幽湅三商
 承	1	後人相承
 長	1	工命吉長
@@ -14286,27 +12440,6 @@
 好	有	2	kyomeishusei2015.02389.1
 竟	1	吾作竟
 吉	1	宮吉
-鏡	1	王作明鏡
-祥	1	除去不祥
-利	1	大吉利
-月	1	天王日月
-母	1	西王母
-里	1	冝西北萬里
-鏡	祥	6	kyomeishusei2015.02394.1
-鏡	利	6	kyomeishusei2015.02394.1
-鏡	月	6	kyomeishusei2015.02394.1
-鏡	母	6	kyomeishusei2015.02394.1
-鏡	里	6	kyomeishusei2015.02394.1
-祥	利	6	kyomeishusei2015.02394.1
-祥	月	6	kyomeishusei2015.02394.1
-祥	母	6	kyomeishusei2015.02394.1
-祥	里	6	kyomeishusei2015.02394.1
-利	月	6	kyomeishusei2015.02394.1
-利	母	6	kyomeishusei2015.02394.1
-利	里	6	kyomeishusei2015.02394.1
-月	母	6	kyomeishusei2015.02394.1
-月	里	6	kyomeishusei2015.02394.1
-母	里	6	kyomeishusei2015.02394.1
 月	1	天王日月
 月	1	天王日月
 月	月	2	kyomeishusei2015.02396.1
@@ -14351,9 +12484,6 @@
 疆	日	4	kyomeishusei2015.02406.1
 疆	玄	4	kyomeishusei2015.02406.1
 日	玄	4	kyomeishusei2015.02406.1
-明	1	不明
-字	1	14 方格×1 字
-明	字	2	kyomeishusei2015.02407.1
 竟	1	吾□明竟
 長	1	其師命長
 竟	長	2	kyomeishusei2015.02410.1
@@ -14363,16 +12493,6 @@
 極	樂	3	kyomeishusei2015.02411.1
 極	昌	3	kyomeishusei2015.02411.1
 樂	昌	3	kyomeishusei2015.02411.1
-商	1	幽湅三商
-樂	1	白牙奏樂
-字	1	吉羊命長12 方格×2 字
-商	樂	3	kyomeishusei2015.02412.1
-商	字	3	kyomeishusei2015.02412.1
-樂	字	3	kyomeishusei2015.02412.1
-竟	1	天下作竟
-字	1	服者冝先皇12 方格×1 字
-竟	字	2	kyomeishusei2015.02418.1
-字	1	里釘12 方格×1 字
 商	1	幽湅宮商
 皇	1	五帝天皇
 凶	1	黃帝除凶
@@ -14532,34 +12652,6 @@
 人	先	5	kyomeishusei2015.02435.1
 人	公	5	kyomeishusei2015.02435.1
 先	公	5	kyomeishusei2015.02435.1
-朔	1	四戊午朔
-作	1	會稽所作
-千	1	一千也
-仙	1	千萬年長仙
-羊	1	吉羊
-馬	1	家有五馬
-子	1	羊□女子
-朔	作	7	kyomeishusei2015.02437.1
-朔	千	7	kyomeishusei2015.02437.1
-朔	仙	7	kyomeishusei2015.02437.1
-朔	羊	7	kyomeishusei2015.02437.1
-朔	馬	7	kyomeishusei2015.02437.1
-朔	子	7	kyomeishusei2015.02437.1
-作	千	7	kyomeishusei2015.02437.1
-作	仙	7	kyomeishusei2015.02437.1
-作	羊	7	kyomeishusei2015.02437.1
-作	馬	7	kyomeishusei2015.02437.1
-作	子	7	kyomeishusei2015.02437.1
-千	仙	7	kyomeishusei2015.02437.1
-千	羊	7	kyomeishusei2015.02437.1
-千	馬	7	kyomeishusei2015.02437.1
-千	子	7	kyomeishusei2015.02437.1
-仙	羊	7	kyomeishusei2015.02437.1
-仙	馬	7	kyomeishusei2015.02437.1
-仙	子	7	kyomeishusei2015.02437.1
-羊	馬	7	kyomeishusei2015.02437.1
-羊	子	7	kyomeishusei2015.02437.1
-馬	子	7	kyomeishusei2015.02437.1
 酉	1	十月丁酉
 言	1	天下有之人言
 東	1	巳□天東
@@ -14993,9 +13085,6 @@
 商	虹	3	kyomeishusei2015.02530.1
 商	凶	3	kyomeishusei2015.02530.1
 虹	凶	3	kyomeishusei2015.02530.1
-明	1	不明
-字	1	11 方格×2 字
-明	字	2	kyomeishusei2015.02531.1
 鏡	1	造作明鏡
 仁	1	師大朱仁
 朔	1	□□王孫朔
@@ -15123,27 +13212,6 @@
 熟	力	6	kyomeishusei2015.02548.1
 熟	極	6	kyomeishusei2015.02548.1
 力	極	6	kyomeishusei2015.02548.1
-服	1	四夷服
-息	1	人民息
-復	1	天下復
-孰	1	五穀孰
-力	1	得天力
-極	1	樂 無極
-服	息	6	kyomeishusei2015.02549.1
-服	復	6	kyomeishusei2015.02549.1
-服	孰	6	kyomeishusei2015.02549.1
-服	力	6	kyomeishusei2015.02549.1
-服	極	6	kyomeishusei2015.02549.1
-息	復	6	kyomeishusei2015.02549.1
-息	孰	6	kyomeishusei2015.02549.1
-息	力	6	kyomeishusei2015.02549.1
-息	極	6	kyomeishusei2015.02549.1
-復	孰	6	kyomeishusei2015.02549.1
-復	力	6	kyomeishusei2015.02549.1
-復	極	6	kyomeishusei2015.02549.1
-孰	力	6	kyomeishusei2015.02549.1
-孰	極	6	kyomeishusei2015.02549.1
-力	極	6	kyomeishusei2015.02549.1
 夷	1	四夷
 息	1	人民息
 覆	1	天下覆
@@ -15195,18 +13263,6 @@
 月	月	3	kyomeishusei2015.02556.1
 月	月	3	kyomeishusei2015.02556.1
 月	月	3	kyomeishusei2015.02556.1
-鏡	1	吾作明鏡
-字	1	其師命長12 方格×4 字
-鏡	字	2	kyomeishusei2015.02560.1
-商	1	幽湅三商
-長	1	利□命長
-明	1	百師12 方格×4 字 48 字24 文字不明
-商	長	3	kyomeishusei2015.02561.1
-商	明	3	kyomeishusei2015.02561.1
-長	明	3	kyomeishusei2015.02561.1
-鏡	1	吾作明鏡
-字	1	周刻無極12 方格×1 字
-鏡	字	2	kyomeishusei2015.02562.1
 商	1	幽湅三商
 道	1	統德序道
 利	1	千秋日利
@@ -15523,52 +13579,6 @@
 老	1	不□老
 巧	老	2	kyomeishusei2015.02605.1
 商	1	幽湅三商
-康	1	□□□康
-商	1	眾神貴商
-天	1	福祿自天
-昌	1	爲富貴番昌
-昌	1	子 孫蕃昌
-長	1	其師命長
-商	康	7	kyomeishusei2015.02606.1
-商	商	7	kyomeishusei2015.02606.1
-商	天	7	kyomeishusei2015.02606.1
-商	昌	7	kyomeishusei2015.02606.1
-商	昌	7	kyomeishusei2015.02606.1
-商	長	7	kyomeishusei2015.02606.1
-康	商	7	kyomeishusei2015.02606.1
-康	天	7	kyomeishusei2015.02606.1
-康	昌	7	kyomeishusei2015.02606.1
-康	昌	7	kyomeishusei2015.02606.1
-康	長	7	kyomeishusei2015.02606.1
-商	天	7	kyomeishusei2015.02606.1
-商	昌	7	kyomeishusei2015.02606.1
-商	昌	7	kyomeishusei2015.02606.1
-商	長	7	kyomeishusei2015.02606.1
-天	昌	7	kyomeishusei2015.02606.1
-天	昌	7	kyomeishusei2015.02606.1
-天	長	7	kyomeishusei2015.02606.1
-昌	昌	7	kyomeishusei2015.02606.1
-昌	長	7	kyomeishusei2015.02606.1
-昌	長	7	kyomeishusei2015.02606.1
-年	1	中平四年
-字	1	五月13 方格×4 字
-年	字	2	kyomeishusei2015.02607.1
-商	1	幽湅三商
-元	1	四氣象元
-字	1	其師命長12 方格×2 字
-商	元	3	kyomeishusei2015.02608.1
-商	字	3	kyomeishusei2015.02608.1
-元	字	3	kyomeishusei2015.02608.1
-鏡	1	吾作明鏡
-字	1	大吉兮11 方格×1 字
-鏡	字	2	kyomeishusei2015.02609.1
-紀	1	自有紀
-字	1	冝古市14 方格×1 字
-紀	字	2	kyomeishusei2015.02611.1
-鏡	1	吾自作明鏡
-字	1	周刻無12 方格×1 字
-鏡	字	2	kyomeishusei2015.02612.1
-商	1	幽湅三商
 疆	1	刻萬疆
 空	1	通＊虛空
 興	1	祇靈是興
@@ -15588,12 +13598,6 @@
 別	親	4	kyomeishusei2015.02614.1
 別	存	4	kyomeishusei2015.02614.1
 親	存	4	kyomeishusei2015.02614.1
-三	1	幽湅商三
-靑	1	四夷＊靑
-長	1	其師命長
-三	靑	3	kyomeishusei2015.02615.1
-三	長	3	kyomeishusei2015.02615.1
-靑	長	3	kyomeishusei2015.02615.1
 工	1	變巧名工
 銅	1	伐石索銅
 商	1	幽湅三商
@@ -15647,27 +13651,6 @@
 竟	壽	4	kyomeishusei2015.02620.1
 竟	吉	4	kyomeishusei2015.02620.1
 壽	吉	4	kyomeishusei2015.02620.1
-商	1	幽湅三商
-疆	1	配像萬疆
-容	1	眾神見容
-從	1	福祿是從
-昌	1	子孫番昌
-白	1	三千萬 白
-商	疆	6	kyomeishusei2015.02621.1
-商	容	6	kyomeishusei2015.02621.1
-商	從	6	kyomeishusei2015.02621.1
-商	昌	6	kyomeishusei2015.02621.1
-商	白	6	kyomeishusei2015.02621.1
-疆	容	6	kyomeishusei2015.02621.1
-疆	從	6	kyomeishusei2015.02621.1
-疆	昌	6	kyomeishusei2015.02621.1
-疆	白	6	kyomeishusei2015.02621.1
-容	從	6	kyomeishusei2015.02621.1
-容	昌	6	kyomeishusei2015.02621.1
-容	白	6	kyomeishusei2015.02621.1
-從	昌	6	kyomeishusei2015.02621.1
-從	白	6	kyomeishusei2015.02621.1
-昌	白	6	kyomeishusei2015.02621.1
 朔	1	六月辛巳朔
 鏡	1	吾作明鏡
 朔	鏡	2	kyomeishusei2015.02626.1
@@ -15895,34 +13878,6 @@
 天	年	6	kyomeishusei2015.02667.1
 天	孫	6	kyomeishusei2015.02667.1
 年	孫	6	kyomeishusei2015.02667.1
-傷	1	大毋傷
-章	1	成文章
-詳	1	辟不詳
-陽	1	調陰陽
-央	1	居中央
-昌	1	樂不昌
-王	1	如矦王兮
-傷	章	7	kyomeishusei2015.02668.1
-傷	詳	7	kyomeishusei2015.02668.1
-傷	陽	7	kyomeishusei2015.02668.1
-傷	央	7	kyomeishusei2015.02668.1
-傷	昌	7	kyomeishusei2015.02668.1
-傷	王	7	kyomeishusei2015.02668.1
-章	詳	7	kyomeishusei2015.02668.1
-章	陽	7	kyomeishusei2015.02668.1
-章	央	7	kyomeishusei2015.02668.1
-章	昌	7	kyomeishusei2015.02668.1
-章	王	7	kyomeishusei2015.02668.1
-詳	陽	7	kyomeishusei2015.02668.1
-詳	央	7	kyomeishusei2015.02668.1
-詳	昌	7	kyomeishusei2015.02668.1
-詳	王	7	kyomeishusei2015.02668.1
-陽	央	7	kyomeishusei2015.02668.1
-陽	昌	7	kyomeishusei2015.02668.1
-陽	王	7	kyomeishusei2015.02668.1
-央	昌	7	kyomeishusei2015.02668.1
-央	王	7	kyomeishusei2015.02668.1
-昌	王	7	kyomeishusei2015.02668.1
 人	1	見神人
 泉	1	飮澧泉
 雲	1	乘浮雲
@@ -15985,27 +13940,6 @@
 服	息	3	kyomeishusei2015.02683.1
 服	力	3	kyomeishusei2015.02683.1
 息	力	3	kyomeishusei2015.02683.1
-紀	1	自有紀
-右	1	居左右
-子	1	赤松子
-始	1	法古始
-子	1	冝孫子
-母	1	利父母
-紀	右	6	kyomeishusei2015.02685.1
-紀	子	6	kyomeishusei2015.02685.1
-紀	始	6	kyomeishusei2015.02685.1
-紀	子	6	kyomeishusei2015.02685.1
-紀	母	6	kyomeishusei2015.02685.1
-右	子	6	kyomeishusei2015.02685.1
-右	始	6	kyomeishusei2015.02685.1
-右	子	6	kyomeishusei2015.02685.1
-右	母	6	kyomeishusei2015.02685.1
-子	始	6	kyomeishusei2015.02685.1
-子	子	6	kyomeishusei2015.02685.1
-子	母	6	kyomeishusei2015.02685.1
-始	子	6	kyomeishusei2015.02685.1
-始	母	6	kyomeishusei2015.02685.1
-子	母	6	kyomeishusei2015.02685.1
 巧	1	眞大巧
 右	1	白乕居右
 老	1	不知老
@@ -16067,12 +14001,6 @@
 商	公	5	kyomeishusei2015.02694.1
 商	羊	5	kyomeishusei2015.02694.1
 公	羊	5	kyomeishusei2015.02694.1
-紀	1	自有紀
-字	1	方古12 方格×1 字
-紀	字	2	kyomeishusei2015.02695.1
-商	1	幽湅三商
-字	1	吉羊12 方格×1 字
-商	字	2	kyomeishusei2015.02696.1
 年	1	泰始十年
 月	1	二月
 年	月	2	kyomeishusei2015.02697.1
@@ -16117,27 +14045,6 @@
 酉	鏡	3	kyomeishusei2015.02703.1
 酉	歲	3	kyomeishusei2015.02703.1
 鏡	歲	3	kyomeishusei2015.02703.1
-商	1	幽三湅商
-道	1	統德序道
-貴	1	安寧富貴
-富	1	矦王長 富
-顯	1	賢者高顯
-師	1	命長興師
-商	道	6	kyomeishusei2015.02705.1
-商	貴	6	kyomeishusei2015.02705.1
-商	富	6	kyomeishusei2015.02705.1
-商	顯	6	kyomeishusei2015.02705.1
-商	師	6	kyomeishusei2015.02705.1
-道	貴	6	kyomeishusei2015.02705.1
-道	富	6	kyomeishusei2015.02705.1
-道	顯	6	kyomeishusei2015.02705.1
-道	師	6	kyomeishusei2015.02705.1
-貴	富	6	kyomeishusei2015.02705.1
-貴	顯	6	kyomeishusei2015.02705.1
-貴	師	6	kyomeishusei2015.02705.1
-富	顯	6	kyomeishusei2015.02705.1
-富	師	6	kyomeishusei2015.02705.1
-顯	師	6	kyomeishusei2015.02705.1
 作	1	武昌元作
 昌	1	乃而淸昌
 作	昌	2	kyomeishusei2015.02706.1
@@ -16239,27 +14146,6 @@
 好	1	得所好
 壽	1	延年益壽
 好	壽	2	kyomeishusei2015.02721.1
-服	1	亖夷服
-息	1	民息
-復	1	天下復
-孰	1	五穀孰
-力	1	子孫力
-食	1	蒙祿食
-服	息	6	kyomeishusei2015.02722.1
-服	復	6	kyomeishusei2015.02722.1
-服	孰	6	kyomeishusei2015.02722.1
-服	力	6	kyomeishusei2015.02722.1
-服	食	6	kyomeishusei2015.02722.1
-息	復	6	kyomeishusei2015.02722.1
-息	孰	6	kyomeishusei2015.02722.1
-息	力	6	kyomeishusei2015.02722.1
-息	食	6	kyomeishusei2015.02722.1
-復	孰	6	kyomeishusei2015.02722.1
-復	力	6	kyomeishusei2015.02722.1
-復	食	6	kyomeishusei2015.02722.1
-孰	力	6	kyomeishusei2015.02722.1
-孰	食	6	kyomeishusei2015.02722.1
-力	食	6	kyomeishusei2015.02722.1
 人	1	見神人
 泉	1	飮澧泉
 雲	1	乘浮雲
@@ -16420,27 +14306,6 @@
 兇	龍	5	kyomeishusei2015.02742.1
 兇	孫	5	kyomeishusei2015.02742.1
 龍	孫	5	kyomeishusei2015.02742.1
-子	1	五月壬子
-鍊	1	造作三鍊
-候	1	冝王且候
-歲	1	皆壽歲
-卿	1	悉爲公卿
-竟	1	□□□□刻 文／吳將軍士張興竟
-子	鍊	6	kyomeishusei2015.02743.1
-子	候	6	kyomeishusei2015.02743.1
-子	歲	6	kyomeishusei2015.02743.1
-子	卿	6	kyomeishusei2015.02743.1
-子	竟	6	kyomeishusei2015.02743.1
-鍊	候	6	kyomeishusei2015.02743.1
-鍊	歲	6	kyomeishusei2015.02743.1
-鍊	卿	6	kyomeishusei2015.02743.1
-鍊	竟	6	kyomeishusei2015.02743.1
-候	歲	6	kyomeishusei2015.02743.1
-候	卿	6	kyomeishusei2015.02743.1
-候	竟	6	kyomeishusei2015.02743.1
-歲	卿	6	kyomeishusei2015.02743.1
-歲	竟	6	kyomeishusei2015.02743.1
-卿	竟	6	kyomeishusei2015.02743.1
 酉	1	太歲在己酉
 子	1	十三日甲子
 鏡	1	三湅明鏡
@@ -16466,60 +14331,9 @@
 剛	長	5	kyomeishusei2015.02746.1
 剛	壽	5	kyomeishusei2015.02746.1
 長	壽	5	kyomeishusei2015.02746.1
-竟	1	吾□明竟
-字	1	服者大吉12 方格×1 字
-竟	字	2	kyomeishusei2015.02747.1
-己	1	自有己
-字	1	冝古市14 方格×1 字
-己	字	2	kyomeishusei2015.02748.1
-岡	1	幽東三岡
-祉	1	周亥典祉
-王	1	□事□王
-樂	1	富貴□樂
-升	1	王□高 升
-字	1	用□大吉14 方格×4 字
-岡	祉	6	kyomeishusei2015.02749.1
-岡	王	6	kyomeishusei2015.02749.1
-岡	樂	6	kyomeishusei2015.02749.1
-岡	升	6	kyomeishusei2015.02749.1
-岡	字	6	kyomeishusei2015.02749.1
-祉	王	6	kyomeishusei2015.02749.1
-祉	樂	6	kyomeishusei2015.02749.1
-祉	升	6	kyomeishusei2015.02749.1
-祉	字	6	kyomeishusei2015.02749.1
-王	樂	6	kyomeishusei2015.02749.1
-王	升	6	kyomeishusei2015.02749.1
-王	字	6	kyomeishusei2015.02749.1
-樂	升	6	kyomeishusei2015.02749.1
-樂	字	6	kyomeishusei2015.02749.1
-升	字	6	kyomeishusei2015.02749.1
 堂	1	常滿堂
 央	1	長樂未央
 堂	央	2	kyomeishusei2015.02750.1
-日	1	三月七日
-大	1	同竟□大
-作	1	泰九年作
-東	1	光上有東
-士	1	如金石 士
-字	1	世公矦王14 方格×4 字
-日	大	6	kyomeishusei2015.02751.1
-日	作	6	kyomeishusei2015.02751.1
-日	東	6	kyomeishusei2015.02751.1
-日	士	6	kyomeishusei2015.02751.1
-日	字	6	kyomeishusei2015.02751.1
-大	作	6	kyomeishusei2015.02751.1
-大	東	6	kyomeishusei2015.02751.1
-大	士	6	kyomeishusei2015.02751.1
-大	字	6	kyomeishusei2015.02751.1
-作	東	6	kyomeishusei2015.02751.1
-作	士	6	kyomeishusei2015.02751.1
-作	字	6	kyomeishusei2015.02751.1
-東	士	6	kyomeishusei2015.02751.1
-東	字	6	kyomeishusei2015.02751.1
-士	字	6	kyomeishusei2015.02751.1
-官	1	君冝高官
-字	1	生如山石12 方格×1 字
-官	字	2	kyomeishusei2015.02752.1
 服	1	四夷服
 息	1	人民息
 復	1	天下復
@@ -16542,12 +14356,6 @@
 孰	亟	6	kyomeishusei2015.02754.1
 力	亟	6	kyomeishusei2015.02754.1
 公	1	位至三公
-東	1	□周家東
-命	1	晉 候册命
-字	1	其師命□14 方格×4 字
-東	命	3	kyomeishusei2015.02756.1
-東	字	3	kyomeishusei2015.02756.1
-命	字	3	kyomeishusei2015.02756.1
 紀	1	自有紀
 市	1	冝古市
 母	1	西王母
@@ -16558,21 +14366,6 @@
 市	母	4	kyomeishusei2015.02757.1
 市	子	4	kyomeishusei2015.02757.1
 母	子	4	kyomeishusei2015.02757.1
-朔	1	二月辛丑朔
-鏡	1	師□□□□□□□作明鏡
-言	1	晶淸不可言
-二	1	高昇二
-部	1	郡督部
-朔	鏡	5	kyomeishusei2015.02760.1
-朔	言	5	kyomeishusei2015.02760.1
-朔	二	5	kyomeishusei2015.02760.1
-朔	部	5	kyomeishusei2015.02760.1
-鏡	言	5	kyomeishusei2015.02760.1
-鏡	二	5	kyomeishusei2015.02760.1
-鏡	部	5	kyomeishusei2015.02760.1
-言	二	5	kyomeishusei2015.02760.1
-言	部	5	kyomeishusei2015.02760.1
-二	部	5	kyomeishusei2015.02760.1
 日	1	四月廿六日
 士	1	冝於吏史士
 羊	1	服之吉羊
@@ -16624,27 +14417,6 @@
 公	1	東王公
 作	1	王女朱師作兮
 公	作	2	kyomeishusei2015.02768.1
-商	1	幽湅三商
-靈	1	周刻萬靈
-設	1	六合設
-母	1	西王母
-道	1	統得序道
-樂	1	自苧倲樂
-商	靈	6	kyomeishusei2015.02769.1
-商	設	6	kyomeishusei2015.02769.1
-商	母	6	kyomeishusei2015.02769.1
-商	道	6	kyomeishusei2015.02769.1
-商	樂	6	kyomeishusei2015.02769.1
-靈	設	6	kyomeishusei2015.02769.1
-靈	母	6	kyomeishusei2015.02769.1
-靈	道	6	kyomeishusei2015.02769.1
-靈	樂	6	kyomeishusei2015.02769.1
-設	母	6	kyomeishusei2015.02769.1
-設	道	6	kyomeishusei2015.02769.1
-設	樂	6	kyomeishusei2015.02769.1
-母	道	6	kyomeishusei2015.02769.1
-母	樂	6	kyomeishusei2015.02769.1
-道	樂	6	kyomeishusei2015.02769.1
 巧	1	莫大巧
 老	1	不知老
 棗	1	飢食棗
@@ -16893,106 +14665,6 @@
 彭	陽	5	kyomeishusei2015.02800.1
 彭	云	5	kyomeishusei2015.02800.1
 陽	云	5	kyomeishusei2015.02800.1
-服	1	亖夷服
-息	1	人民息
-復	1	天下復
-孰	1	五糓孰
-食	1	蒙祿食
-力	1	子孫力
-非	1	樂毋非
-昌	1	大富昌
-服	息	8	kyomeishusei2015.02801.1
-服	復	8	kyomeishusei2015.02801.1
-服	孰	8	kyomeishusei2015.02801.1
-服	食	8	kyomeishusei2015.02801.1
-服	力	8	kyomeishusei2015.02801.1
-服	非	8	kyomeishusei2015.02801.1
-服	昌	8	kyomeishusei2015.02801.1
-息	復	8	kyomeishusei2015.02801.1
-息	孰	8	kyomeishusei2015.02801.1
-息	食	8	kyomeishusei2015.02801.1
-息	力	8	kyomeishusei2015.02801.1
-息	非	8	kyomeishusei2015.02801.1
-息	昌	8	kyomeishusei2015.02801.1
-復	孰	8	kyomeishusei2015.02801.1
-復	食	8	kyomeishusei2015.02801.1
-復	力	8	kyomeishusei2015.02801.1
-復	非	8	kyomeishusei2015.02801.1
-復	昌	8	kyomeishusei2015.02801.1
-孰	食	8	kyomeishusei2015.02801.1
-孰	力	8	kyomeishusei2015.02801.1
-孰	非	8	kyomeishusei2015.02801.1
-孰	昌	8	kyomeishusei2015.02801.1
-食	力	8	kyomeishusei2015.02801.1
-食	非	8	kyomeishusei2015.02801.1
-食	昌	8	kyomeishusei2015.02801.1
-力	非	8	kyomeishusei2015.02801.1
-力	昌	8	kyomeishusei2015.02801.1
-非	昌	8	kyomeishusei2015.02801.1
-傷	1	莫毋傷
-章	1	成文章
-詳	1	辟不詳
-陽	1	調陰陽
-央	1	居中央
-常	1	以爲常
-昌	1	樂富昌
-王	1	矦王
-傷	章	8	kyomeishusei2015.02802.1
-傷	詳	8	kyomeishusei2015.02802.1
-傷	陽	8	kyomeishusei2015.02802.1
-傷	央	8	kyomeishusei2015.02802.1
-傷	常	8	kyomeishusei2015.02802.1
-傷	昌	8	kyomeishusei2015.02802.1
-傷	王	8	kyomeishusei2015.02802.1
-章	詳	8	kyomeishusei2015.02802.1
-章	陽	8	kyomeishusei2015.02802.1
-章	央	8	kyomeishusei2015.02802.1
-章	常	8	kyomeishusei2015.02802.1
-章	昌	8	kyomeishusei2015.02802.1
-章	王	8	kyomeishusei2015.02802.1
-詳	陽	8	kyomeishusei2015.02802.1
-詳	央	8	kyomeishusei2015.02802.1
-詳	常	8	kyomeishusei2015.02802.1
-詳	昌	8	kyomeishusei2015.02802.1
-詳	王	8	kyomeishusei2015.02802.1
-陽	央	8	kyomeishusei2015.02802.1
-陽	常	8	kyomeishusei2015.02802.1
-陽	昌	8	kyomeishusei2015.02802.1
-陽	王	8	kyomeishusei2015.02802.1
-央	常	8	kyomeishusei2015.02802.1
-央	昌	8	kyomeishusei2015.02802.1
-央	王	8	kyomeishusei2015.02802.1
-常	昌	8	kyomeishusei2015.02802.1
-常	王	8	kyomeishusei2015.02802.1
-昌	王	8	kyomeishusei2015.02802.1
-傷	1	大毋傷
-明	1	淸而明
-章	1	成文章
-羊	1	辟不羊
-陽	1	順陰陽
-央	1	居中央
-昌	1	樂富昌
-傷	明	7	kyomeishusei2015.02803.1
-傷	章	7	kyomeishusei2015.02803.1
-傷	羊	7	kyomeishusei2015.02803.1
-傷	陽	7	kyomeishusei2015.02803.1
-傷	央	7	kyomeishusei2015.02803.1
-傷	昌	7	kyomeishusei2015.02803.1
-明	章	7	kyomeishusei2015.02803.1
-明	羊	7	kyomeishusei2015.02803.1
-明	陽	7	kyomeishusei2015.02803.1
-明	央	7	kyomeishusei2015.02803.1
-明	昌	7	kyomeishusei2015.02803.1
-章	羊	7	kyomeishusei2015.02803.1
-章	陽	7	kyomeishusei2015.02803.1
-章	央	7	kyomeishusei2015.02803.1
-章	昌	7	kyomeishusei2015.02803.1
-羊	陽	7	kyomeishusei2015.02803.1
-羊	央	7	kyomeishusei2015.02803.1
-羊	昌	7	kyomeishusei2015.02803.1
-陽	央	7	kyomeishusei2015.02803.1
-陽	昌	7	kyomeishusei2015.02803.1
-央	昌	7	kyomeishusei2015.02803.1
 紀	1	自有紀
 宰	1	去異宰
 市	1	冝古市
@@ -17070,9 +14742,6 @@
 母	右	4	kyomeishusei2015.02824.1
 母	子	4	kyomeishusei2015.02824.1
 右	子	4	kyomeishusei2015.02824.1
-者	1	買竟者
-字	1	十男五女12 方格×1 字
-者	字	2	kyomeishusei2015.02825.1
 異	1	與眾異
 王	1	冝矦王
 昌	1	子孫番昌
@@ -17128,9 +14797,6 @@
 五	已	6	kyomeishusei2015.02831.1
 食	已	6	kyomeishusei2015.02831.1
 紀	1	自有紀
-字	1	吉12 方格×1 字
-紀	字	2	kyomeishusei2015.02832.1
-紀	1	自有紀
 市	1	冝古市
 老	1	不知老
 子	1	九子
@@ -17158,42 +14824,6 @@
 己	銅	3	kyomeishusei2015.02835.1
 己	央	3	kyomeishusei2015.02835.1
 銅	央	3	kyomeishusei2015.02835.1
-竟	1	吾作明竟
-字	1	□□10 方格×1 字
-竟	字	2	kyomeishusei2015.02836.1
-商	1	幽湅三商
-王	1	冝矦王
-字	1	未位至三公12 方格×2 字
-商	王	3	kyomeishusei2015.02838.1
-商	字	3	kyomeishusei2015.02838.1
-王	字	3	kyomeishusei2015.02838.1
-商	1	幽湅三商
-疆	1	□萬疆
-容	1	眾神見容
-從	1	□祿□從
-壽	1	曾年益壽
-羊	1	大吉羊
-商	疆	6	kyomeishusei2015.02839.1
-商	容	6	kyomeishusei2015.02839.1
-商	從	6	kyomeishusei2015.02839.1
-商	壽	6	kyomeishusei2015.02839.1
-商	羊	6	kyomeishusei2015.02839.1
-疆	容	6	kyomeishusei2015.02839.1
-疆	從	6	kyomeishusei2015.02839.1
-疆	壽	6	kyomeishusei2015.02839.1
-疆	羊	6	kyomeishusei2015.02839.1
-容	從	6	kyomeishusei2015.02839.1
-容	壽	6	kyomeishusei2015.02839.1
-容	羊	6	kyomeishusei2015.02839.1
-從	壽	6	kyomeishusei2015.02839.1
-從	羊	6	kyomeishusei2015.02839.1
-壽	羊	6	kyomeishusei2015.02839.1
-月	1	天王日月
-字	1	13 方格×4 字
-月	字	2	kyomeishusei2015.02840.1
-己	1	自有己
-字	1	冝孫子14 方格×1 字
-己	字	2	kyomeishusei2015.02841.1
 好	1	得所好
 壽	1	延年益壽
 好	壽	2	kyomeishusei2015.02843.1
@@ -17461,69 +15091,6 @@
 龍	昌	6	kyomeishusei2015.02870.1
 龍	吉	6	kyomeishusei2015.02870.1
 昌	吉	6	kyomeishusei2015.02870.1
-商	1	幽湅宮商
-皇	1	五帝三皇
-兇	1	黃帝除兇
-武	1	朱鳥玄武
-年	1	建安十年
-孫	1	冝子孫
-商	皇	6	kyomeishusei2015.02871.1
-商	兇	6	kyomeishusei2015.02871.1
-商	武	6	kyomeishusei2015.02871.1
-商	年	6	kyomeishusei2015.02871.1
-商	孫	6	kyomeishusei2015.02871.1
-皇	兇	6	kyomeishusei2015.02871.1
-皇	武	6	kyomeishusei2015.02871.1
-皇	年	6	kyomeishusei2015.02871.1
-皇	孫	6	kyomeishusei2015.02871.1
-兇	武	6	kyomeishusei2015.02871.1
-兇	年	6	kyomeishusei2015.02871.1
-兇	孫	6	kyomeishusei2015.02871.1
-武	年	6	kyomeishusei2015.02871.1
-武	孫	6	kyomeishusei2015.02871.1
-年	孫	6	kyomeishusei2015.02871.1
-商	1	幽湅宮商
-皇	1	五帝三皇
-兇	1	黃帝除兇
-武	1	朱鳥玄武
-年	1	建安十年
-孫	1	冝子孫
-商	皇	6	kyomeishusei2015.02872.1
-商	兇	6	kyomeishusei2015.02872.1
-商	武	6	kyomeishusei2015.02872.1
-商	年	6	kyomeishusei2015.02872.1
-商	孫	6	kyomeishusei2015.02872.1
-皇	兇	6	kyomeishusei2015.02872.1
-皇	武	6	kyomeishusei2015.02872.1
-皇	年	6	kyomeishusei2015.02872.1
-皇	孫	6	kyomeishusei2015.02872.1
-兇	武	6	kyomeishusei2015.02872.1
-兇	年	6	kyomeishusei2015.02872.1
-兇	孫	6	kyomeishusei2015.02872.1
-武	年	6	kyomeishusei2015.02872.1
-武	孫	6	kyomeishusei2015.02872.1
-年	孫	6	kyomeishusei2015.02872.1
-商	1	幽湅宮商
-皇	1	五帝三皇
-兇	1	黃帝除兇
-武	1	朱鳥玄武
-年	1	建安十年
-孫	1	冝子孫
-商	皇	6	kyomeishusei2015.02873.1
-商	兇	6	kyomeishusei2015.02873.1
-商	武	6	kyomeishusei2015.02873.1
-商	年	6	kyomeishusei2015.02873.1
-商	孫	6	kyomeishusei2015.02873.1
-皇	兇	6	kyomeishusei2015.02873.1
-皇	武	6	kyomeishusei2015.02873.1
-皇	年	6	kyomeishusei2015.02873.1
-皇	孫	6	kyomeishusei2015.02873.1
-兇	武	6	kyomeishusei2015.02873.1
-兇	年	6	kyomeishusei2015.02873.1
-兇	孫	6	kyomeishusei2015.02873.1
-武	年	6	kyomeishusei2015.02873.1
-武	孫	6	kyomeishusei2015.02873.1
-年	孫	6	kyomeishusei2015.02873.1
 月	1	三月
 日	1	十四日
 月	日	2	kyomeishusei2015.02874.1
@@ -17630,27 +15197,6 @@
 人	孫	5	kyomeishusei2015.02893.1
 人	年	5	kyomeishusei2015.02893.1
 孫	年	5	kyomeishusei2015.02893.1
-羊	1	出丹羊
-明	1	淸而明
-央	1	治中央
-人	1	見神人
-室	1	飮澧□室
-孫	1	保子孫
-羊	明	6	kyomeishusei2015.02894.1
-羊	央	6	kyomeishusei2015.02894.1
-羊	人	6	kyomeishusei2015.02894.1
-羊	室	6	kyomeishusei2015.02894.1
-羊	孫	6	kyomeishusei2015.02894.1
-明	央	6	kyomeishusei2015.02894.1
-明	人	6	kyomeishusei2015.02894.1
-明	室	6	kyomeishusei2015.02894.1
-明	孫	6	kyomeishusei2015.02894.1
-央	人	6	kyomeishusei2015.02894.1
-央	室	6	kyomeishusei2015.02894.1
-央	孫	6	kyomeishusei2015.02894.1
-人	室	6	kyomeishusei2015.02894.1
-人	孫	6	kyomeishusei2015.02894.1
-室	孫	6	kyomeishusei2015.02894.1
 陽	1	出丹陽
 明	1	淸且明
 彭	1	主亖彭
@@ -17666,27 +15212,6 @@
 彭	陽	5	kyomeishusei2015.02895.1
 彭	央	5	kyomeishusei2015.02895.1
 陽	央	5	kyomeishusei2015.02895.1
-好	1	眞大好
-老	1	不知老
-棗	1	汎食棗
-海	1	敖亖海
-草	1	采芝草
-保	1	之天保
-好	老	6	kyomeishusei2015.02896.1
-好	棗	6	kyomeishusei2015.02896.1
-好	海	6	kyomeishusei2015.02896.1
-好	草	6	kyomeishusei2015.02896.1
-好	保	6	kyomeishusei2015.02896.1
-老	棗	6	kyomeishusei2015.02896.1
-老	海	6	kyomeishusei2015.02896.1
-老	草	6	kyomeishusei2015.02896.1
-老	保	6	kyomeishusei2015.02896.1
-棗	海	6	kyomeishusei2015.02896.1
-棗	草	6	kyomeishusei2015.02896.1
-棗	保	6	kyomeishusei2015.02896.1
-海	草	6	kyomeishusei2015.02896.1
-海	保	6	kyomeishusei2015.02896.1
-草	保	6	kyomeishusei2015.02896.1
 好	1	眞大好
 老	1	不知老
 棗	1	汎食棗
@@ -17772,12 +15297,6 @@
 老	棗	3	kyomeishusei2015.02906.1
 巧	1	眞大巧
 老	1	不知老
-棗	1	汎食棗兮
-巧	老	3	kyomeishusei2015.02907.1
-巧	棗	3	kyomeishusei2015.02907.1
-老	棗	3	kyomeishusei2015.02907.1
-巧	1	眞大巧
-老	1	不知老
 巧	老	2	kyomeishusei2015.02908.1
 巧	1	眞大巧
 老	1	不知老
@@ -17835,27 +15354,6 @@
 陽	央	5	kyomeishusei2015.02917.1
 陽	昌	5	kyomeishusei2015.02917.1
 央	昌	5	kyomeishusei2015.02917.1
-傷	1	眞大毋傷
-章	1	成文章
-羊	1	辟不羊
-陽	1	順陰陽
-央	1	居中央
-昌	1	樂富昌
-傷	章	6	kyomeishusei2015.02918.1
-傷	羊	6	kyomeishusei2015.02918.1
-傷	陽	6	kyomeishusei2015.02918.1
-傷	央	6	kyomeishusei2015.02918.1
-傷	昌	6	kyomeishusei2015.02918.1
-章	羊	6	kyomeishusei2015.02918.1
-章	陽	6	kyomeishusei2015.02918.1
-章	央	6	kyomeishusei2015.02918.1
-章	昌	6	kyomeishusei2015.02918.1
-羊	陽	6	kyomeishusei2015.02918.1
-羊	央	6	kyomeishusei2015.02918.1
-羊	昌	6	kyomeishusei2015.02918.1
-陽	央	6	kyomeishusei2015.02918.1
-陽	昌	6	kyomeishusei2015.02918.1
-央	昌	6	kyomeishusei2015.02918.1
 傷	1	大毋傷
 文	1	成文兮
 傷	文	2	kyomeishusei2015.02919.1
@@ -17880,34 +15378,6 @@
 陽	1	順陰陽
 央	1	居中央
 昌	1	樂富昌
-草	1	采神草
-王	1	如矦王
-傷	羊	7	kyomeishusei2015.02922.1
-傷	陽	7	kyomeishusei2015.02922.1
-傷	央	7	kyomeishusei2015.02922.1
-傷	昌	7	kyomeishusei2015.02922.1
-傷	草	7	kyomeishusei2015.02922.1
-傷	王	7	kyomeishusei2015.02922.1
-羊	陽	7	kyomeishusei2015.02922.1
-羊	央	7	kyomeishusei2015.02922.1
-羊	昌	7	kyomeishusei2015.02922.1
-羊	草	7	kyomeishusei2015.02922.1
-羊	王	7	kyomeishusei2015.02922.1
-陽	央	7	kyomeishusei2015.02922.1
-陽	昌	7	kyomeishusei2015.02922.1
-陽	草	7	kyomeishusei2015.02922.1
-陽	王	7	kyomeishusei2015.02922.1
-央	昌	7	kyomeishusei2015.02922.1
-央	草	7	kyomeishusei2015.02922.1
-央	王	7	kyomeishusei2015.02922.1
-昌	草	7	kyomeishusei2015.02922.1
-昌	王	7	kyomeishusei2015.02922.1
-草	王	7	kyomeishusei2015.02922.1
-傷	1	大毋傷
-羊	1	辟不羊
-陽	1	順陰陽
-央	1	居中央
-昌	1	樂富昌
 王	1	如矦王
 傷	羊	6	kyomeishusei2015.02923.1
 傷	陽	6	kyomeishusei2015.02923.1
@@ -17924,42 +15394,6 @@
 央	昌	6	kyomeishusei2015.02923.1
 央	王	6	kyomeishusei2015.02923.1
 昌	王	6	kyomeishusei2015.02923.1
-傷	1	眞毋傷
-章	1	成文章
-詳	1	辟不詳
-陽	1	調陰陽
-央	1	居中央
-常	1	以爲常
-昌	1	樂富昌
-王	1	矦王
-傷	章	8	kyomeishusei2015.02924.1
-傷	詳	8	kyomeishusei2015.02924.1
-傷	陽	8	kyomeishusei2015.02924.1
-傷	央	8	kyomeishusei2015.02924.1
-傷	常	8	kyomeishusei2015.02924.1
-傷	昌	8	kyomeishusei2015.02924.1
-傷	王	8	kyomeishusei2015.02924.1
-章	詳	8	kyomeishusei2015.02924.1
-章	陽	8	kyomeishusei2015.02924.1
-章	央	8	kyomeishusei2015.02924.1
-章	常	8	kyomeishusei2015.02924.1
-章	昌	8	kyomeishusei2015.02924.1
-章	王	8	kyomeishusei2015.02924.1
-詳	陽	8	kyomeishusei2015.02924.1
-詳	央	8	kyomeishusei2015.02924.1
-詳	常	8	kyomeishusei2015.02924.1
-詳	昌	8	kyomeishusei2015.02924.1
-詳	王	8	kyomeishusei2015.02924.1
-陽	央	8	kyomeishusei2015.02924.1
-陽	常	8	kyomeishusei2015.02924.1
-陽	昌	8	kyomeishusei2015.02924.1
-陽	王	8	kyomeishusei2015.02924.1
-央	常	8	kyomeishusei2015.02924.1
-央	昌	8	kyomeishusei2015.02924.1
-央	王	8	kyomeishusei2015.02924.1
-常	昌	8	kyomeishusei2015.02924.1
-常	王	8	kyomeishusei2015.02924.1
-昌	王	8	kyomeishusei2015.02924.1
 傷	1	大毋傷
 羊	1	辟不羊
 陽	1	順陰陽
@@ -18076,16 +15510,6 @@
 老	棗	4	kyomeishusei2015.02930.1
 老	海	4	kyomeishusei2015.02930.1
 棗	海	4	kyomeishusei2015.02930.1
-好	1	眞大好
-老	1	不知老
-棗	1	汎食棗
-保	1	如國保兮
-好	老	4	kyomeishusei2015.02931.1
-好	棗	4	kyomeishusei2015.02931.1
-好	保	4	kyomeishusei2015.02931.1
-老	棗	4	kyomeishusei2015.02931.1
-老	保	4	kyomeishusei2015.02931.1
-棗	保	4	kyomeishusei2015.02931.1
 好	1	眞大好
 老	1	不知老
 棗	1	飢食棗
@@ -18747,50 +16171,12 @@
 母	老	8	kyomeishusei2015.02988.1
 母	章	8	kyomeishusei2015.02988.1
 老	章	8	kyomeishusei2015.02988.1
-意	1	自有意
-錫	1	采取銅錫
-尊	1	服□必尊
-具	1	子孫備具
-卿	1	士至公卿
-迫	1	辟命迫之
-日	1	擇時日
-意	錫	7	kyomeishusei2015.02989.1
-意	尊	7	kyomeishusei2015.02989.1
-意	具	7	kyomeishusei2015.02989.1
-意	卿	7	kyomeishusei2015.02989.1
-意	迫	7	kyomeishusei2015.02989.1
-意	日	7	kyomeishusei2015.02989.1
-錫	尊	7	kyomeishusei2015.02989.1
-錫	具	7	kyomeishusei2015.02989.1
-錫	卿	7	kyomeishusei2015.02989.1
-錫	迫	7	kyomeishusei2015.02989.1
-錫	日	7	kyomeishusei2015.02989.1
-尊	具	7	kyomeishusei2015.02989.1
-尊	卿	7	kyomeishusei2015.02989.1
-尊	迫	7	kyomeishusei2015.02989.1
-尊	日	7	kyomeishusei2015.02989.1
-具	卿	7	kyomeishusei2015.02989.1
-具	迫	7	kyomeishusei2015.02989.1
-具	日	7	kyomeishusei2015.02989.1
-卿	迫	7	kyomeishusei2015.02989.1
-卿	日	7	kyomeishusei2015.02989.1
-迫	日	7	kyomeishusei2015.02989.1
 意	1	善有意
 富	1	家大富
 侍	1	中常侍
 意	富	3	kyomeishusei2015.02990.1
 意	侍	3	kyomeishusei2015.02990.1
 富	侍	3	kyomeishusei2015.02990.1
-服	1	四夷服
-息	1	人民息
-復	1	天下復
-五	1	五
-服	息	4	kyomeishusei2015.02991.1
-服	復	4	kyomeishusei2015.02991.1
-服	五	4	kyomeishusei2015.02991.1
-息	復	4	kyomeishusei2015.02991.1
-息	五	4	kyomeishusei2015.02991.1
-復	五	4	kyomeishusei2015.02991.1
 意	1	自有意
 富	1	家大富
 喜	1	各有喜
@@ -19100,36 +16486,6 @@
 王	1	冝矦王
 公	王	2	kyomeishusei2015.03037.1
 商	1	幽湅三商
-彊	1	配象萬彊
-容	1	眾神□容
-昌	1	子孫蕃昌
-長	1	其師命 長
-商	彊	5	kyomeishusei2015.03041.1
-商	容	5	kyomeishusei2015.03041.1
-商	昌	5	kyomeishusei2015.03041.1
-商	長	5	kyomeishusei2015.03041.1
-彊	容	5	kyomeishusei2015.03041.1
-彊	昌	5	kyomeishusei2015.03041.1
-彊	長	5	kyomeishusei2015.03041.1
-容	昌	5	kyomeishusei2015.03041.1
-容	長	5	kyomeishusei2015.03041.1
-昌	長	5	kyomeishusei2015.03041.1
-商	1	幽湅三商
-彊	1	配象萬彊
-容	1	眾神□容
-昌	1	子孫蕃昌
-長	1	其師命 長
-商	彊	5	kyomeishusei2015.03042.1
-商	容	5	kyomeishusei2015.03042.1
-商	昌	5	kyomeishusei2015.03042.1
-商	長	5	kyomeishusei2015.03042.1
-彊	容	5	kyomeishusei2015.03042.1
-彊	昌	5	kyomeishusei2015.03042.1
-彊	長	5	kyomeishusei2015.03042.1
-容	昌	5	kyomeishusei2015.03042.1
-容	長	5	kyomeishusei2015.03042.1
-昌	長	5	kyomeishusei2015.03042.1
-商	1	幽湅三商
 皇	1	五帝天皇
 兇	1	黃帝除兇
 龍	1	白乕靑龍
@@ -19307,21 +16663,6 @@
 老	棗	4	kyomeishusei2015.03081.1
 老	保	4	kyomeishusei2015.03081.1
 棗	保	4	kyomeishusei2015.03081.1
-好	1	眞大好
-老	1	不知老
-棗	1	飢食棗
-海	1	＊亖海
-道	1	辟除道
-好	老	5	kyomeishusei2015.03082.1
-好	棗	5	kyomeishusei2015.03082.1
-好	海	5	kyomeishusei2015.03082.1
-好	道	5	kyomeishusei2015.03082.1
-老	棗	5	kyomeishusei2015.03082.1
-老	海	5	kyomeishusei2015.03082.1
-老	道	5	kyomeishusei2015.03082.1
-棗	海	5	kyomeishusei2015.03082.1
-棗	道	5	kyomeishusei2015.03082.1
-海	道	5	kyomeishusei2015.03082.1
 好	1	眞大好
 老	1	不知老
 棗	1	飢食棗
@@ -20050,27 +17391,6 @@
 君	王	3	kyomeishusei2015.03372.1
 君	吏	3	kyomeishusei2015.03372.1
 王	吏	3	kyomeishusei2015.03372.1
-尊	1	新家尊
-恩	1	大多恩
-官	1	□□官
-安	1	天下安
-恩	1	得蒙恩
-孫	1	葆子孫
-尊	恩	6	kyomeishusei2015.03376.1
-尊	官	6	kyomeishusei2015.03376.1
-尊	安	6	kyomeishusei2015.03376.1
-尊	恩	6	kyomeishusei2015.03376.1
-尊	孫	6	kyomeishusei2015.03376.1
-恩	官	6	kyomeishusei2015.03376.1
-恩	安	6	kyomeishusei2015.03376.1
-恩	恩	6	kyomeishusei2015.03376.1
-恩	孫	6	kyomeishusei2015.03376.1
-官	安	6	kyomeishusei2015.03376.1
-官	恩	6	kyomeishusei2015.03376.1
-官	孫	6	kyomeishusei2015.03376.1
-安	恩	6	kyomeishusei2015.03376.1
-安	孫	6	kyomeishusei2015.03376.1
-恩	孫	6	kyomeishusei2015.03376.1
 堂	1	建明堂
 王	1	列矦王
 堂	王	2	kyomeishusei2015.03377.1
@@ -20156,42 +17476,6 @@
 泉	1	泉泉
 泉	1	泉泉
 泉	泉	2	kyomeishusei2015.03390.1
-服	1	亖夷服
-息	1	人民息
-復	1	天下復
-孰	1	五穀孰
-食	1	蒙祿食
-力	1	子孫力
-極	1	樂無極
-昌	1	大富昌
-服	息	8	kyomeishusei2015.03391.1
-服	復	8	kyomeishusei2015.03391.1
-服	孰	8	kyomeishusei2015.03391.1
-服	食	8	kyomeishusei2015.03391.1
-服	力	8	kyomeishusei2015.03391.1
-服	極	8	kyomeishusei2015.03391.1
-服	昌	8	kyomeishusei2015.03391.1
-息	復	8	kyomeishusei2015.03391.1
-息	孰	8	kyomeishusei2015.03391.1
-息	食	8	kyomeishusei2015.03391.1
-息	力	8	kyomeishusei2015.03391.1
-息	極	8	kyomeishusei2015.03391.1
-息	昌	8	kyomeishusei2015.03391.1
-復	孰	8	kyomeishusei2015.03391.1
-復	食	8	kyomeishusei2015.03391.1
-復	力	8	kyomeishusei2015.03391.1
-復	極	8	kyomeishusei2015.03391.1
-復	昌	8	kyomeishusei2015.03391.1
-孰	食	8	kyomeishusei2015.03391.1
-孰	力	8	kyomeishusei2015.03391.1
-孰	極	8	kyomeishusei2015.03391.1
-孰	昌	8	kyomeishusei2015.03391.1
-食	力	8	kyomeishusei2015.03391.1
-食	極	8	kyomeishusei2015.03391.1
-食	昌	8	kyomeishusei2015.03391.1
-力	極	8	kyomeishusei2015.03391.1
-力	昌	8	kyomeishusei2015.03391.1
-極	昌	8	kyomeishusei2015.03391.1
 服	1	亖夷服
 息	1	人民息
 復	1	天下復
@@ -20330,34 +17614,6 @@
 竟	1	造作明竟
 壽	1	服者老壽
 竟	壽	2	kyomeishusei2015.03407.1
-巳	1	大歲己巳
-鏡	1	造作明鏡
-宿	1	上應列宿
-官	1	服者高官
-人	1	女冝夫人
-道	1	亦 冝遮道
-未	1	樂未
-巳	鏡	7	kyomeishusei2015.03408.1
-巳	宿	7	kyomeishusei2015.03408.1
-巳	官	7	kyomeishusei2015.03408.1
-巳	人	7	kyomeishusei2015.03408.1
-巳	道	7	kyomeishusei2015.03408.1
-巳	未	7	kyomeishusei2015.03408.1
-鏡	宿	7	kyomeishusei2015.03408.1
-鏡	官	7	kyomeishusei2015.03408.1
-鏡	人	7	kyomeishusei2015.03408.1
-鏡	道	7	kyomeishusei2015.03408.1
-鏡	未	7	kyomeishusei2015.03408.1
-宿	官	7	kyomeishusei2015.03408.1
-宿	人	7	kyomeishusei2015.03408.1
-宿	道	7	kyomeishusei2015.03408.1
-宿	未	7	kyomeishusei2015.03408.1
-官	人	7	kyomeishusei2015.03408.1
-官	道	7	kyomeishusei2015.03408.1
-官	未	7	kyomeishusei2015.03408.1
-人	道	7	kyomeishusei2015.03408.1
-人	未	7	kyomeishusei2015.03408.1
-道	未	7	kyomeishusei2015.03408.1
 湅	1	百湅
 卿	1	冝公卿
 湅	卿	2	kyomeishusei2015.03409.1
@@ -20580,34 +17836,6 @@
 傷	1	大毋傷
 文	1	成文
 傷	文	2	kyomeishusei2015.03450.1
-神	1	有精神
-人	1	見仙人
-道	1	語吾道兮
-保	1	自保
-道	1	主除道兮
-親	1	保二親
-昌	1	富 貴昌
-神	人	7	kyomeishusei2015.03454.1
-神	道	7	kyomeishusei2015.03454.1
-神	保	7	kyomeishusei2015.03454.1
-神	道	7	kyomeishusei2015.03454.1
-神	親	7	kyomeishusei2015.03454.1
-神	昌	7	kyomeishusei2015.03454.1
-人	道	7	kyomeishusei2015.03454.1
-人	保	7	kyomeishusei2015.03454.1
-人	道	7	kyomeishusei2015.03454.1
-人	親	7	kyomeishusei2015.03454.1
-人	昌	7	kyomeishusei2015.03454.1
-道	保	7	kyomeishusei2015.03454.1
-道	道	7	kyomeishusei2015.03454.1
-道	親	7	kyomeishusei2015.03454.1
-道	昌	7	kyomeishusei2015.03454.1
-保	道	7	kyomeishusei2015.03454.1
-保	親	7	kyomeishusei2015.03454.1
-保	昌	7	kyomeishusei2015.03454.1
-道	親	7	kyomeishusei2015.03454.1
-道	昌	7	kyomeishusei2015.03454.1
-親	昌	7	kyomeishusei2015.03454.1
 紀	1	自有紀
 市	1	冝古市
 母	1	西王母兮
@@ -20856,42 +18084,6 @@
 雲	孫	5	kyomeishusei2015.03513.1
 雲	央	5	kyomeishusei2015.03513.1
 孫	央	5	kyomeishusei2015.03513.1
-傷	1	眞毋傷
-章	1	成文章
-詳	1	辟不詳
-陽	1	調陰陽
-央	1	居中央
-常	1	以爲常
-昌	1	樂富昌
-王	1	矦王
-傷	章	8	kyomeishusei2015.03514.1
-傷	詳	8	kyomeishusei2015.03514.1
-傷	陽	8	kyomeishusei2015.03514.1
-傷	央	8	kyomeishusei2015.03514.1
-傷	常	8	kyomeishusei2015.03514.1
-傷	昌	8	kyomeishusei2015.03514.1
-傷	王	8	kyomeishusei2015.03514.1
-章	詳	8	kyomeishusei2015.03514.1
-章	陽	8	kyomeishusei2015.03514.1
-章	央	8	kyomeishusei2015.03514.1
-章	常	8	kyomeishusei2015.03514.1
-章	昌	8	kyomeishusei2015.03514.1
-章	王	8	kyomeishusei2015.03514.1
-詳	陽	8	kyomeishusei2015.03514.1
-詳	央	8	kyomeishusei2015.03514.1
-詳	常	8	kyomeishusei2015.03514.1
-詳	昌	8	kyomeishusei2015.03514.1
-詳	王	8	kyomeishusei2015.03514.1
-陽	央	8	kyomeishusei2015.03514.1
-陽	常	8	kyomeishusei2015.03514.1
-陽	昌	8	kyomeishusei2015.03514.1
-陽	王	8	kyomeishusei2015.03514.1
-央	常	8	kyomeishusei2015.03514.1
-央	昌	8	kyomeishusei2015.03514.1
-央	王	8	kyomeishusei2015.03514.1
-常	昌	8	kyomeishusei2015.03514.1
-常	王	8	kyomeishusei2015.03514.1
-昌	王	8	kyomeishusei2015.03514.1
 陽	1	出丹陽
 明	1	淸且明
 陽	明	2	kyomeishusei2015.03517.1
@@ -21266,34 +18458,6 @@
 羊	昌	5	kyomeishusei2015.03572.1
 陽	昌	5	kyomeishusei2015.03572.1
 傷	1	大毋傷
-章	1	成文章
-羊	1	辟不羊
-陽	1	順陰陽
-央	1	居中央
-昌	1	樂富昌
-王	1	如矦王
-傷	章	7	kyomeishusei2015.03574.1
-傷	羊	7	kyomeishusei2015.03574.1
-傷	陽	7	kyomeishusei2015.03574.1
-傷	央	7	kyomeishusei2015.03574.1
-傷	昌	7	kyomeishusei2015.03574.1
-傷	王	7	kyomeishusei2015.03574.1
-章	羊	7	kyomeishusei2015.03574.1
-章	陽	7	kyomeishusei2015.03574.1
-章	央	7	kyomeishusei2015.03574.1
-章	昌	7	kyomeishusei2015.03574.1
-章	王	7	kyomeishusei2015.03574.1
-羊	陽	7	kyomeishusei2015.03574.1
-羊	央	7	kyomeishusei2015.03574.1
-羊	昌	7	kyomeishusei2015.03574.1
-羊	王	7	kyomeishusei2015.03574.1
-陽	央	7	kyomeishusei2015.03574.1
-陽	昌	7	kyomeishusei2015.03574.1
-陽	王	7	kyomeishusei2015.03574.1
-央	昌	7	kyomeishusei2015.03574.1
-央	王	7	kyomeishusei2015.03574.1
-昌	王	7	kyomeishusei2015.03574.1
-傷	1	大毋傷
 章	1	□□章
 央	1	居中央
 好	1	佳自好
@@ -21328,34 +18492,6 @@
 力	竟	4	kyomeishusei2015.03578.1
 力	極	4	kyomeishusei2015.03578.1
 竟	極	4	kyomeishusei2015.03578.1
-傷	1	大毋傷
-章	1	成文章
-羊	1	辟不羊
-陽	1	順陰陽
-央	1	居中央
-昌	1	樂富昌
-王	1	如矦王
-傷	章	7	kyomeishusei2015.03579.1
-傷	羊	7	kyomeishusei2015.03579.1
-傷	陽	7	kyomeishusei2015.03579.1
-傷	央	7	kyomeishusei2015.03579.1
-傷	昌	7	kyomeishusei2015.03579.1
-傷	王	7	kyomeishusei2015.03579.1
-章	羊	7	kyomeishusei2015.03579.1
-章	陽	7	kyomeishusei2015.03579.1
-章	央	7	kyomeishusei2015.03579.1
-章	昌	7	kyomeishusei2015.03579.1
-章	王	7	kyomeishusei2015.03579.1
-羊	陽	7	kyomeishusei2015.03579.1
-羊	央	7	kyomeishusei2015.03579.1
-羊	昌	7	kyomeishusei2015.03579.1
-羊	王	7	kyomeishusei2015.03579.1
-陽	央	7	kyomeishusei2015.03579.1
-陽	昌	7	kyomeishusei2015.03579.1
-陽	王	7	kyomeishusei2015.03579.1
-央	昌	7	kyomeishusei2015.03579.1
-央	王	7	kyomeishusei2015.03579.1
-昌	王	7	kyomeishusei2015.03579.1
 商	1	幽練三商
 彊	1	配像萬彊
 昌	1	富貴番昌
@@ -21446,12 +18582,6 @@
 己	1	□□巳己
 央	1	長樂未央
 己	央	2	kyomeishusei2015.03605.1
-日	1	正月□日
-竟	1	吳 1 刑明竟
-吉	1	服者得吉
-日	竟	3	kyomeishusei2015.03606.1
-日	吉	3	kyomeishusei2015.03606.1
-竟	吉	3	kyomeishusei2015.03606.1
 日	1	五月九日
 銅	1	百涷靑銅
 日	銅	2	kyomeishusei2015.03607.1
@@ -21470,27 +18600,6 @@
 公	貴	5	kyomeishusei2015.03609.1
 公	平	5	kyomeishusei2015.03609.1
 貴	平	5	kyomeishusei2015.03609.1
-商	1	幽涷宮商
-皇	1	五帝三皇
-兇	1	黃帝除兇
-武	1	朱鳥玄武
-年	1	建安十年
-孫	1	冝子孫
-商	皇	6	kyomeishusei2015.03611.1
-商	兇	6	kyomeishusei2015.03611.1
-商	武	6	kyomeishusei2015.03611.1
-商	年	6	kyomeishusei2015.03611.1
-商	孫	6	kyomeishusei2015.03611.1
-皇	兇	6	kyomeishusei2015.03611.1
-皇	武	6	kyomeishusei2015.03611.1
-皇	年	6	kyomeishusei2015.03611.1
-皇	孫	6	kyomeishusei2015.03611.1
-兇	武	6	kyomeishusei2015.03611.1
-兇	年	6	kyomeishusei2015.03611.1
-兇	孫	6	kyomeishusei2015.03611.1
-武	年	6	kyomeishusei2015.03611.1
-武	孫	6	kyomeishusei2015.03611.1
-年	孫	6	kyomeishusei2015.03611.1
 商	1	幽涷宮商
 皇	1	五帝三皇
 兇	1	黃帝除兇
@@ -21548,34 +18657,6 @@
 兇	羊	4	kyomeishusei2015.03617.1
 乕	羊	4	kyomeishusei2015.03617.1
 竟	1	吾作明竟
-巳	1	太歲己巳
-竟	1	造作明竟
-宿	1	上應列宿
-官	1	服者高官
-人	1	女冝夫人
-道	1	亦 冝遮道
-未	1	樂未
-巳	竟	7	kyomeishusei2015.03619.1
-巳	宿	7	kyomeishusei2015.03619.1
-巳	官	7	kyomeishusei2015.03619.1
-巳	人	7	kyomeishusei2015.03619.1
-巳	道	7	kyomeishusei2015.03619.1
-巳	未	7	kyomeishusei2015.03619.1
-竟	宿	7	kyomeishusei2015.03619.1
-竟	官	7	kyomeishusei2015.03619.1
-竟	人	7	kyomeishusei2015.03619.1
-竟	道	7	kyomeishusei2015.03619.1
-竟	未	7	kyomeishusei2015.03619.1
-宿	官	7	kyomeishusei2015.03619.1
-宿	人	7	kyomeishusei2015.03619.1
-宿	道	7	kyomeishusei2015.03619.1
-宿	未	7	kyomeishusei2015.03619.1
-官	人	7	kyomeishusei2015.03619.1
-官	道	7	kyomeishusei2015.03619.1
-官	未	7	kyomeishusei2015.03619.1
-人	道	7	kyomeishusei2015.03619.1
-人	未	7	kyomeishusei2015.03619.1
-道	未	7	kyomeishusei2015.03619.1
 日	1	正月十五日
 竟	1	靑同之竟
 貴	1	百富萬貴
@@ -21601,145 +18682,12 @@
 者	1	買竟者
 女	1	十男五女
 者	女	2	kyomeishusei2015.03625.1
-商	1	幽涷三商
-道	1	競從序道
-祀	1	周刻典祀
-陽	1	眾事主陽
-樂	1	富貴安樂
-顯	1	賢者高 顯
-長	1	與師命長
-商	道	7	kyomeishusei2015.03628.1
-商	祀	7	kyomeishusei2015.03628.1
-商	陽	7	kyomeishusei2015.03628.1
-商	樂	7	kyomeishusei2015.03628.1
-商	顯	7	kyomeishusei2015.03628.1
-商	長	7	kyomeishusei2015.03628.1
-道	祀	7	kyomeishusei2015.03628.1
-道	陽	7	kyomeishusei2015.03628.1
-道	樂	7	kyomeishusei2015.03628.1
-道	顯	7	kyomeishusei2015.03628.1
-道	長	7	kyomeishusei2015.03628.1
-祀	陽	7	kyomeishusei2015.03628.1
-祀	樂	7	kyomeishusei2015.03628.1
-祀	顯	7	kyomeishusei2015.03628.1
-祀	長	7	kyomeishusei2015.03628.1
-陽	樂	7	kyomeishusei2015.03628.1
-陽	顯	7	kyomeishusei2015.03628.1
-陽	長	7	kyomeishusei2015.03628.1
-樂	顯	7	kyomeishusei2015.03628.1
-樂	長	7	kyomeishusei2015.03628.1
-顯	長	7	kyomeishusei2015.03628.1
-商	1	幽涷三商
-彊	1	配像萬彊
-良	1	敬奉賢良
-容	1	眾神見容
-久	1	福祿長久
-昌	1	富貴蕃 昌
-長	1	與師命長
-商	彊	7	kyomeishusei2015.03629.1
-商	良	7	kyomeishusei2015.03629.1
-商	容	7	kyomeishusei2015.03629.1
-商	久	7	kyomeishusei2015.03629.1
-商	昌	7	kyomeishusei2015.03629.1
-商	長	7	kyomeishusei2015.03629.1
-彊	良	7	kyomeishusei2015.03629.1
-彊	容	7	kyomeishusei2015.03629.1
-彊	久	7	kyomeishusei2015.03629.1
-彊	昌	7	kyomeishusei2015.03629.1
-彊	長	7	kyomeishusei2015.03629.1
-良	容	7	kyomeishusei2015.03629.1
-良	久	7	kyomeishusei2015.03629.1
-良	昌	7	kyomeishusei2015.03629.1
-良	長	7	kyomeishusei2015.03629.1
-容	久	7	kyomeishusei2015.03629.1
-容	昌	7	kyomeishusei2015.03629.1
-容	長	7	kyomeishusei2015.03629.1
-久	昌	7	kyomeishusei2015.03629.1
-久	長	7	kyomeishusei2015.03629.1
-昌	長	7	kyomeishusei2015.03629.1
 己	1	自有己
 古	1	冝市古
 己	古	2	kyomeishusei2015.03631.1
 竟	1	吾作明竟
 子	1	大吉冝子
 竟	子	2	kyomeishusei2015.03632.1
-日	1	三月七日
-方	1	□□安方
-作	1	泰九年作
-東	1	光上有東
-於	1	西王母於
-士	1	如金石 士
-王	1	世公矦王
-日	方	7	kyomeishusei2015.03634.1
-日	作	7	kyomeishusei2015.03634.1
-日	東	7	kyomeishusei2015.03634.1
-日	於	7	kyomeishusei2015.03634.1
-日	士	7	kyomeishusei2015.03634.1
-日	王	7	kyomeishusei2015.03634.1
-方	作	7	kyomeishusei2015.03634.1
-方	東	7	kyomeishusei2015.03634.1
-方	於	7	kyomeishusei2015.03634.1
-方	士	7	kyomeishusei2015.03634.1
-方	王	7	kyomeishusei2015.03634.1
-作	東	7	kyomeishusei2015.03634.1
-作	於	7	kyomeishusei2015.03634.1
-作	士	7	kyomeishusei2015.03634.1
-作	王	7	kyomeishusei2015.03634.1
-東	於	7	kyomeishusei2015.03634.1
-東	士	7	kyomeishusei2015.03634.1
-東	王	7	kyomeishusei2015.03634.1
-於	士	7	kyomeishusei2015.03634.1
-於	王	7	kyomeishusei2015.03634.1
-士	王	7	kyomeishusei2015.03634.1
-剛	1	幽律三剛
-陽	1	師出洛陽
-章	1	皆作文章
-明	1	淸而且明
-名	1	轉世有名
-并	1	集會 并
-孫	1	游□聞□□□冝子孫
-剛	陽	7	kyomeishusei2015.03636.1
-剛	章	7	kyomeishusei2015.03636.1
-剛	明	7	kyomeishusei2015.03636.1
-剛	名	7	kyomeishusei2015.03636.1
-剛	并	7	kyomeishusei2015.03636.1
-剛	孫	7	kyomeishusei2015.03636.1
-陽	章	7	kyomeishusei2015.03636.1
-陽	明	7	kyomeishusei2015.03636.1
-陽	名	7	kyomeishusei2015.03636.1
-陽	并	7	kyomeishusei2015.03636.1
-陽	孫	7	kyomeishusei2015.03636.1
-章	明	7	kyomeishusei2015.03636.1
-章	名	7	kyomeishusei2015.03636.1
-章	并	7	kyomeishusei2015.03636.1
-章	孫	7	kyomeishusei2015.03636.1
-明	名	7	kyomeishusei2015.03636.1
-明	并	7	kyomeishusei2015.03636.1
-明	孫	7	kyomeishusei2015.03636.1
-名	并	7	kyomeishusei2015.03636.1
-名	孫	7	kyomeishusei2015.03636.1
-并	孫	7	kyomeishusei2015.03636.1
-剛	1	幽律三剛
-明	1	淸而且明
-陽	1	師出洛陽
-章	1	皆作文章
-名	1	師子有名
-孫	1	長冝 子孫
-剛	明	6	kyomeishusei2015.03637.1
-剛	陽	6	kyomeishusei2015.03637.1
-剛	章	6	kyomeishusei2015.03637.1
-剛	名	6	kyomeishusei2015.03637.1
-剛	孫	6	kyomeishusei2015.03637.1
-明	陽	6	kyomeishusei2015.03637.1
-明	章	6	kyomeishusei2015.03637.1
-明	名	6	kyomeishusei2015.03637.1
-明	孫	6	kyomeishusei2015.03637.1
-陽	章	6	kyomeishusei2015.03637.1
-陽	名	6	kyomeishusei2015.03637.1
-陽	孫	6	kyomeishusei2015.03637.1
-章	名	6	kyomeishusei2015.03637.1
-章	孫	6	kyomeishusei2015.03637.1
-名	孫	6	kyomeishusei2015.03637.1
 剛	1	幽律三剛
 章	1	彫鏤文章
 明	1	淸而且明
@@ -21931,42 +18879,6 @@
 巧	1	眞大巧
 老	1	不知老
 巧	老	2	kyomeishusei2015.03683.1
-夷	1	四夷
-息	1	人民息
-復	1	天下復
-熟	1	五穀熟
-力	1	得天力
-咸	1	樂無咸
-馬	1	參賀四馬
-子	1	冝孫子
-夷	息	8	kyomeishusei2015.03684.1
-夷	復	8	kyomeishusei2015.03684.1
-夷	熟	8	kyomeishusei2015.03684.1
-夷	力	8	kyomeishusei2015.03684.1
-夷	咸	8	kyomeishusei2015.03684.1
-夷	馬	8	kyomeishusei2015.03684.1
-夷	子	8	kyomeishusei2015.03684.1
-息	復	8	kyomeishusei2015.03684.1
-息	熟	8	kyomeishusei2015.03684.1
-息	力	8	kyomeishusei2015.03684.1
-息	咸	8	kyomeishusei2015.03684.1
-息	馬	8	kyomeishusei2015.03684.1
-息	子	8	kyomeishusei2015.03684.1
-復	熟	8	kyomeishusei2015.03684.1
-復	力	8	kyomeishusei2015.03684.1
-復	咸	8	kyomeishusei2015.03684.1
-復	馬	8	kyomeishusei2015.03684.1
-復	子	8	kyomeishusei2015.03684.1
-熟	力	8	kyomeishusei2015.03684.1
-熟	咸	8	kyomeishusei2015.03684.1
-熟	馬	8	kyomeishusei2015.03684.1
-熟	子	8	kyomeishusei2015.03684.1
-力	咸	8	kyomeishusei2015.03684.1
-力	馬	8	kyomeishusei2015.03684.1
-力	子	8	kyomeishusei2015.03684.1
-咸	馬	8	kyomeishusei2015.03684.1
-咸	子	8	kyomeishusei2015.03684.1
-馬	子	8	kyomeishusei2015.03684.1
 巧	1	眞大巧
 老	1	不知老
 巧	老	2	kyomeishusei2015.03685.1
@@ -22353,42 +19265,6 @@
 海	草	6	kyomeishusei2015.03777.1
 海	保	6	kyomeishusei2015.03777.1
 草	保	6	kyomeishusei2015.03777.1
-傷	1	眞毋傷
-章	1	成文章
-詳	1	辟不詳
-陽	1	調陰陽
-央	1	居中央
-常	1	人爲常
-昌	1	樂富昌
-王	1	矦王
-傷	章	8	kyomeishusei2015.03778.1
-傷	詳	8	kyomeishusei2015.03778.1
-傷	陽	8	kyomeishusei2015.03778.1
-傷	央	8	kyomeishusei2015.03778.1
-傷	常	8	kyomeishusei2015.03778.1
-傷	昌	8	kyomeishusei2015.03778.1
-傷	王	8	kyomeishusei2015.03778.1
-章	詳	8	kyomeishusei2015.03778.1
-章	陽	8	kyomeishusei2015.03778.1
-章	央	8	kyomeishusei2015.03778.1
-章	常	8	kyomeishusei2015.03778.1
-章	昌	8	kyomeishusei2015.03778.1
-章	王	8	kyomeishusei2015.03778.1
-詳	陽	8	kyomeishusei2015.03778.1
-詳	央	8	kyomeishusei2015.03778.1
-詳	常	8	kyomeishusei2015.03778.1
-詳	昌	8	kyomeishusei2015.03778.1
-詳	王	8	kyomeishusei2015.03778.1
-陽	央	8	kyomeishusei2015.03778.1
-陽	常	8	kyomeishusei2015.03778.1
-陽	昌	8	kyomeishusei2015.03778.1
-陽	王	8	kyomeishusei2015.03778.1
-央	常	8	kyomeishusei2015.03778.1
-央	昌	8	kyomeishusei2015.03778.1
-央	王	8	kyomeishusei2015.03778.1
-常	昌	8	kyomeishusei2015.03778.1
-常	王	8	kyomeishusei2015.03778.1
-昌	王	8	kyomeishusei2015.03778.1
 巧	1	眞大巧
 老	1	不知老
 道	1	所除道
@@ -22447,44 +19323,6 @@
 棗	海	5	kyomeishusei2015.03783.1
 棗	保	5	kyomeishusei2015.03783.1
 海	保	5	kyomeishusei2015.03783.1
-傷	1	大毋傷
-章	1	成文章
-詳	1	辟不詳
-陽	1	調陰陽
-央	1	居中央
-昌	1	樂富昌
-矦	1	如矦兮
-傷	章	7	kyomeishusei2015.03784.1
-傷	詳	7	kyomeishusei2015.03784.1
-傷	陽	7	kyomeishusei2015.03784.1
-傷	央	7	kyomeishusei2015.03784.1
-傷	昌	7	kyomeishusei2015.03784.1
-傷	矦	7	kyomeishusei2015.03784.1
-章	詳	7	kyomeishusei2015.03784.1
-章	陽	7	kyomeishusei2015.03784.1
-章	央	7	kyomeishusei2015.03784.1
-章	昌	7	kyomeishusei2015.03784.1
-章	矦	7	kyomeishusei2015.03784.1
-詳	陽	7	kyomeishusei2015.03784.1
-詳	央	7	kyomeishusei2015.03784.1
-詳	昌	7	kyomeishusei2015.03784.1
-詳	矦	7	kyomeishusei2015.03784.1
-陽	央	7	kyomeishusei2015.03784.1
-陽	昌	7	kyomeishusei2015.03784.1
-陽	矦	7	kyomeishusei2015.03784.1
-央	昌	7	kyomeishusei2015.03784.1
-央	矦	7	kyomeishusei2015.03784.1
-昌	矦	7	kyomeishusei2015.03784.1
-準	1	佳精準
-山	1	上大山
-侖	1	名山□昆 侖
-門	1	入金門
-準	山	4	kyomeishusei2015.03785.1
-準	侖	4	kyomeishusei2015.03785.1
-準	門	4	kyomeishusei2015.03785.1
-山	侖	4	kyomeishusei2015.03785.1
-山	門	4	kyomeishusei2015.03785.1
-侖	門	4	kyomeishusei2015.03785.1
 紀	1	自有紀
 宰	1	去無宰
 市	1	冝古市
@@ -22737,12 +19575,6 @@
 官	1	君冝高官
 利	1	大吉利
 官	利	2	kyomeishusei2015.03831.1
-明	1	不明
-字	1	9 方格×1 字
-明	字	2	kyomeishusei2015.03832.1
-明	1	不明
-字	1	10 方格×2 字
-明	字	2	kyomeishusei2015.03833.1
 商	1	幽湅三商
 極	1	周□無極
 良	1	敬奉臣良
@@ -22826,88 +19658,12 @@
 菁	淸	3	kyomeishusei2015.03845.1
 菁	生	3	kyomeishusei2015.03845.1
 淸	生	3	kyomeishusei2015.03845.1
-竟	1	黃羊作竟
-字	1	明而大好8 方格×1 字
-竟	字	2	kyomeishusei2015.03847.1
 鏡	1	吾造作明鏡
 壽	1	服者老壽
 卿	1	冝公卿
 鏡	壽	3	kyomeishusei2015.03848.1
 鏡	卿	3	kyomeishusei2015.03848.1
 壽	卿	3	kyomeishusei2015.03848.1
-日	1	五月丙午日
-作	1	廣漢造作
-商	1	幽湅三商
-明	1	世得光明
-昌	1	富且昌
-長	1	師命長
-公	1	位至三公
-母	1	西王母
-矦	1	立至公矦
-日	作	9	kyomeishusei2015.03849.1
-日	商	9	kyomeishusei2015.03849.1
-日	明	9	kyomeishusei2015.03849.1
-日	昌	9	kyomeishusei2015.03849.1
-日	長	9	kyomeishusei2015.03849.1
-日	公	9	kyomeishusei2015.03849.1
-日	母	9	kyomeishusei2015.03849.1
-日	矦	9	kyomeishusei2015.03849.1
-作	商	9	kyomeishusei2015.03849.1
-作	明	9	kyomeishusei2015.03849.1
-作	昌	9	kyomeishusei2015.03849.1
-作	長	9	kyomeishusei2015.03849.1
-作	公	9	kyomeishusei2015.03849.1
-作	母	9	kyomeishusei2015.03849.1
-作	矦	9	kyomeishusei2015.03849.1
-商	明	9	kyomeishusei2015.03849.1
-商	昌	9	kyomeishusei2015.03849.1
-商	長	9	kyomeishusei2015.03849.1
-商	公	9	kyomeishusei2015.03849.1
-商	母	9	kyomeishusei2015.03849.1
-商	矦	9	kyomeishusei2015.03849.1
-明	昌	9	kyomeishusei2015.03849.1
-明	長	9	kyomeishusei2015.03849.1
-明	公	9	kyomeishusei2015.03849.1
-明	母	9	kyomeishusei2015.03849.1
-明	矦	9	kyomeishusei2015.03849.1
-昌	長	9	kyomeishusei2015.03849.1
-昌	公	9	kyomeishusei2015.03849.1
-昌	母	9	kyomeishusei2015.03849.1
-昌	矦	9	kyomeishusei2015.03849.1
-長	公	9	kyomeishusei2015.03849.1
-長	母	9	kyomeishusei2015.03849.1
-長	矦	9	kyomeishusei2015.03849.1
-公	母	9	kyomeishusei2015.03849.1
-公	矦	9	kyomeishusei2015.03849.1
-母	矦	9	kyomeishusei2015.03849.1
-日	1	三月七日
-大	1	同竟甚大
-作	1	泰九年作
-東	1	光上有東
-尊	1	西王母尊
-位	1	如金石 位
-王	1	世公公矦王
-日	大	7	kyomeishusei2015.03850.1
-日	作	7	kyomeishusei2015.03850.1
-日	東	7	kyomeishusei2015.03850.1
-日	尊	7	kyomeishusei2015.03850.1
-日	位	7	kyomeishusei2015.03850.1
-日	王	7	kyomeishusei2015.03850.1
-大	作	7	kyomeishusei2015.03850.1
-大	東	7	kyomeishusei2015.03850.1
-大	尊	7	kyomeishusei2015.03850.1
-大	位	7	kyomeishusei2015.03850.1
-大	王	7	kyomeishusei2015.03850.1
-作	東	7	kyomeishusei2015.03850.1
-作	尊	7	kyomeishusei2015.03850.1
-作	位	7	kyomeishusei2015.03850.1
-作	王	7	kyomeishusei2015.03850.1
-東	尊	7	kyomeishusei2015.03850.1
-東	位	7	kyomeishusei2015.03850.1
-東	王	7	kyomeishusei2015.03850.1
-尊	位	7	kyomeishusei2015.03850.1
-尊	王	7	kyomeishusei2015.03850.1
-位	王	7	kyomeishusei2015.03850.1
 日	1	三月三日
 巧	1	三工立巧
 卿	1	三公九卿
@@ -22923,45 +19679,12 @@
 卿	太	5	kyomeishusei2015.03851.1
 卿	之	5	kyomeishusei2015.03851.1
 太	之	5	kyomeishusei2015.03851.1
-日	1	正月丙午日
-作	1	早作
-昌	1	買者大富且昌
-長	1	延壽命長
-母	1	西王母
-矦	1	立至公 矦
-日	作	6	kyomeishusei2015.03852.1
-日	昌	6	kyomeishusei2015.03852.1
-日	長	6	kyomeishusei2015.03852.1
-日	母	6	kyomeishusei2015.03852.1
-日	矦	6	kyomeishusei2015.03852.1
-作	昌	6	kyomeishusei2015.03852.1
-作	長	6	kyomeishusei2015.03852.1
-作	母	6	kyomeishusei2015.03852.1
-作	矦	6	kyomeishusei2015.03852.1
-昌	長	6	kyomeishusei2015.03852.1
-昌	母	6	kyomeishusei2015.03852.1
-昌	矦	6	kyomeishusei2015.03852.1
-長	母	6	kyomeishusei2015.03852.1
-長	矦	6	kyomeishusei2015.03852.1
-母	矦	6	kyomeishusei2015.03852.1
-道	1	自有道
-字	1	九卿□□15 方格×1 字
-道	字	2	kyomeishusei2015.03853.1
 商	1	幽湅三商
 福	1	配像萬福
 貴	1	□年益壽富貴
 商	福	3	kyomeishusei2015.03854.1
 商	貴	3	kyomeishusei2015.03854.1
 福	貴	3	kyomeishusei2015.03854.1
-官	1	君冝高官
-字	1	生如山石12 方格×1 字
-官	字	2	kyomeishusei2015.03860.1
-明	1	不明
-字	1	12 方格×1 字
-明	字	2	kyomeishusei2015.03863.1
-卿	1	君冝高官位至公卿
-字	1	4 方格×2 字
-卿	字	2	kyomeishusei2015.03864.1
 方	1	自有方
 吉	1	＊去不羊吉
 方	吉	2	kyomeishusei2015.03865.1
@@ -23355,70 +20078,6 @@
 道	草	5	kyomeishusei2015.03943.1
 道	保	5	kyomeishusei2015.03943.1
 草	保	5	kyomeishusei2015.03943.1
-傷	1	大毋傷
-章	1	成文章
-詳	1	辟不詳
-陽	1	調陰陽
-央	1	居中央
-昌	1	樂富昌
-王	1	如矦王兮
-傷	章	7	kyomeishusei2015.03944.1
-傷	詳	7	kyomeishusei2015.03944.1
-傷	陽	7	kyomeishusei2015.03944.1
-傷	央	7	kyomeishusei2015.03944.1
-傷	昌	7	kyomeishusei2015.03944.1
-傷	王	7	kyomeishusei2015.03944.1
-章	詳	7	kyomeishusei2015.03944.1
-章	陽	7	kyomeishusei2015.03944.1
-章	央	7	kyomeishusei2015.03944.1
-章	昌	7	kyomeishusei2015.03944.1
-章	王	7	kyomeishusei2015.03944.1
-詳	陽	7	kyomeishusei2015.03944.1
-詳	央	7	kyomeishusei2015.03944.1
-詳	昌	7	kyomeishusei2015.03944.1
-詳	王	7	kyomeishusei2015.03944.1
-陽	央	7	kyomeishusei2015.03944.1
-陽	昌	7	kyomeishusei2015.03944.1
-陽	王	7	kyomeishusei2015.03944.1
-央	昌	7	kyomeishusei2015.03944.1
-央	王	7	kyomeishusei2015.03944.1
-昌	王	7	kyomeishusei2015.03944.1
-傷	1	莫毋傷
-章	1	成文章
-詳	1	辟不詳
-陽	1	調陰陽
-央	1	居中央
-常	1	以爲常
-昌	1	樂富昌
-王	1	矦王
-傷	章	8	kyomeishusei2015.03945.1
-傷	詳	8	kyomeishusei2015.03945.1
-傷	陽	8	kyomeishusei2015.03945.1
-傷	央	8	kyomeishusei2015.03945.1
-傷	常	8	kyomeishusei2015.03945.1
-傷	昌	8	kyomeishusei2015.03945.1
-傷	王	8	kyomeishusei2015.03945.1
-章	詳	8	kyomeishusei2015.03945.1
-章	陽	8	kyomeishusei2015.03945.1
-章	央	8	kyomeishusei2015.03945.1
-章	常	8	kyomeishusei2015.03945.1
-章	昌	8	kyomeishusei2015.03945.1
-章	王	8	kyomeishusei2015.03945.1
-詳	陽	8	kyomeishusei2015.03945.1
-詳	央	8	kyomeishusei2015.03945.1
-詳	常	8	kyomeishusei2015.03945.1
-詳	昌	8	kyomeishusei2015.03945.1
-詳	王	8	kyomeishusei2015.03945.1
-陽	央	8	kyomeishusei2015.03945.1
-陽	常	8	kyomeishusei2015.03945.1
-陽	昌	8	kyomeishusei2015.03945.1
-陽	王	8	kyomeishusei2015.03945.1
-央	常	8	kyomeishusei2015.03945.1
-央	昌	8	kyomeishusei2015.03945.1
-央	王	8	kyomeishusei2015.03945.1
-常	昌	8	kyomeishusei2015.03945.1
-常	王	8	kyomeishusei2015.03945.1
-昌	王	8	kyomeishusei2015.03945.1
 好	1	佳且好
 保	1	長相保
 好	保	2	kyomeishusei2015.03947.1
@@ -23828,27 +20487,6 @@
 見	1	□慾見
 絕	1	相思願毋絕
 見	絕	2	kyomeishusei2015.03999.1
-日	1	正月丙午日
-作	1	早作
-昌	1	買者大富且昌
-長	1	延壽命長
-母	1	西王母
-矦	1	立至公 矦
-日	作	6	kyomeishusei2015.04000.1
-日	昌	6	kyomeishusei2015.04000.1
-日	長	6	kyomeishusei2015.04000.1
-日	母	6	kyomeishusei2015.04000.1
-日	矦	6	kyomeishusei2015.04000.1
-作	昌	6	kyomeishusei2015.04000.1
-作	長	6	kyomeishusei2015.04000.1
-作	母	6	kyomeishusei2015.04000.1
-作	矦	6	kyomeishusei2015.04000.1
-昌	長	6	kyomeishusei2015.04000.1
-昌	母	6	kyomeishusei2015.04000.1
-昌	矦	6	kyomeishusei2015.04000.1
-長	母	6	kyomeishusei2015.04000.1
-長	矦	6	kyomeishusei2015.04000.1
-母	矦	6	kyomeishusei2015.04000.1
 剛	1	幽湅三剛
 良	1	敬奉臣良
 陽	1	眾華主陽
@@ -23880,16 +20518,6 @@
 疆	剛	4	kyomeishusei2015.04003.1
 疆	長	4	kyomeishusei2015.04003.1
 剛	長	4	kyomeishusei2015.04003.1
-剛	1	幽湅三剛
-祉	1	周刻無祉
-公	1	位至三公
-長	1	自師命 長
-剛	祉	4	kyomeishusei2015.04004.1
-剛	公	4	kyomeishusei2015.04004.1
-剛	長	4	kyomeishusei2015.04004.1
-祉	公	4	kyomeishusei2015.04004.1
-祉	長	4	kyomeishusei2015.04004.1
-公	長	4	kyomeishusei2015.04004.1
 商	1	幽湅三商
 疆	1	配像萬疆
 剛	1	銜侍維剛
@@ -23900,51 +20528,6 @@
 疆	剛	4	kyomeishusei2015.04006.1
 疆	壽	4	kyomeishusei2015.04006.1
 剛	壽	4	kyomeishusei2015.04006.1
-日	1	五月丙午日
-作	1	□□□作
-商	1	幽湅三商
-明	1	世得光明
-昌	1	富且昌
-長	1	師命長
-公	1	位至三公
-母	1	西王母
-矦	1	立至公矦
-日	作	9	kyomeishusei2015.04007.1
-日	商	9	kyomeishusei2015.04007.1
-日	明	9	kyomeishusei2015.04007.1
-日	昌	9	kyomeishusei2015.04007.1
-日	長	9	kyomeishusei2015.04007.1
-日	公	9	kyomeishusei2015.04007.1
-日	母	9	kyomeishusei2015.04007.1
-日	矦	9	kyomeishusei2015.04007.1
-作	商	9	kyomeishusei2015.04007.1
-作	明	9	kyomeishusei2015.04007.1
-作	昌	9	kyomeishusei2015.04007.1
-作	長	9	kyomeishusei2015.04007.1
-作	公	9	kyomeishusei2015.04007.1
-作	母	9	kyomeishusei2015.04007.1
-作	矦	9	kyomeishusei2015.04007.1
-商	明	9	kyomeishusei2015.04007.1
-商	昌	9	kyomeishusei2015.04007.1
-商	長	9	kyomeishusei2015.04007.1
-商	公	9	kyomeishusei2015.04007.1
-商	母	9	kyomeishusei2015.04007.1
-商	矦	9	kyomeishusei2015.04007.1
-明	昌	9	kyomeishusei2015.04007.1
-明	長	9	kyomeishusei2015.04007.1
-明	公	9	kyomeishusei2015.04007.1
-明	母	9	kyomeishusei2015.04007.1
-明	矦	9	kyomeishusei2015.04007.1
-昌	長	9	kyomeishusei2015.04007.1
-昌	公	9	kyomeishusei2015.04007.1
-昌	母	9	kyomeishusei2015.04007.1
-昌	矦	9	kyomeishusei2015.04007.1
-長	公	9	kyomeishusei2015.04007.1
-長	母	9	kyomeishusei2015.04007.1
-長	矦	9	kyomeishusei2015.04007.1
-公	母	9	kyomeishusei2015.04007.1
-公	矦	9	kyomeishusei2015.04007.1
-母	矦	9	kyomeishusei2015.04007.1
 石	1	生如山石
 公	1	位至三公
 石	公	2	kyomeishusei2015.04008.1
@@ -24110,21 +20693,6 @@
 皚	絕	7	kyomeishusei2015.04058.1
 說	絕	7	kyomeishusei2015.04058.1
 明	1	淸而明
-章	1	冝文章
-祥	1	去不祥
-光	1	如日月光
-央	1	長樂未央
-明	章	5	kyomeishusei2015.04059.1
-明	祥	5	kyomeishusei2015.04059.1
-明	光	5	kyomeishusei2015.04059.1
-明	央	5	kyomeishusei2015.04059.1
-章	祥	5	kyomeishusei2015.04059.1
-章	光	5	kyomeishusei2015.04059.1
-章	央	5	kyomeishusei2015.04059.1
-祥	光	5	kyomeishusei2015.04059.1
-祥	央	5	kyomeishusei2015.04059.1
-光	央	5	kyomeishusei2015.04059.1
-明	1	淸而明
 章	1	而冝文章
 祥	1	而去不祥
 光	1	而日月光
@@ -24146,34 +20714,6 @@
 陽	明	3	kyomeishusei2015.04064.1
 陽	旁	3	kyomeishusei2015.04064.1
 明	旁	3	kyomeishusei2015.04064.1
-傷	1	大毋傷
-章	1	成文章
-祥	1	辟不祥
-陽	1	順陰陽
-央	1	居中央
-昌	1	樂富昌
-王	1	如矦王
-傷	章	7	kyomeishusei2015.04068.1
-傷	祥	7	kyomeishusei2015.04068.1
-傷	陽	7	kyomeishusei2015.04068.1
-傷	央	7	kyomeishusei2015.04068.1
-傷	昌	7	kyomeishusei2015.04068.1
-傷	王	7	kyomeishusei2015.04068.1
-章	祥	7	kyomeishusei2015.04068.1
-章	陽	7	kyomeishusei2015.04068.1
-章	央	7	kyomeishusei2015.04068.1
-章	昌	7	kyomeishusei2015.04068.1
-章	王	7	kyomeishusei2015.04068.1
-祥	陽	7	kyomeishusei2015.04068.1
-祥	央	7	kyomeishusei2015.04068.1
-祥	昌	7	kyomeishusei2015.04068.1
-祥	王	7	kyomeishusei2015.04068.1
-陽	央	7	kyomeishusei2015.04068.1
-陽	昌	7	kyomeishusei2015.04068.1
-陽	王	7	kyomeishusei2015.04068.1
-央	昌	7	kyomeishusei2015.04068.1
-央	王	7	kyomeishusei2015.04068.1
-昌	王	7	kyomeishusei2015.04068.1
 傷	1	大毋傷
 羊	1	辟不羊
 陽	1	順陰陽
@@ -24361,9 +20901,6 @@
 月	忠	4	kyomeishusei2015.04104.1
 月	泄	4	kyomeishusei2015.04104.1
 忠	泄	4	kyomeishusei2015.04104.1
-鏡	1	吾作鏡
-字	1	貴壽延長11 方格×1 字
-鏡	字	2	kyomeishusei2015.04105.1
 母	1	西王母
 右	1	白乕居右
 公	1	位至三公
@@ -25071,9 +21608,6 @@
 疆	富	4	kyomeishusei2015.04322.1
 疆	長	4	kyomeishusei2015.04322.1
 富	長	4	kyomeishusei2015.04322.1
-月	1	天王日月
-格	1	×11 方格
-月	格	2	kyomeishusei2015.04324.1
 明	1	吾鏡淸明
 長	1	其師命長
 明	長	2	kyomeishusei2015.04325.1
@@ -25201,16 +21735,6 @@
 好	左	3	kyomeishusei2015.04353.1
 有	左	3	kyomeishusei2015.04353.1
 秩	1	冝官秩
-秩	1	與天秩
-慾	1	各得所慾
-秩	1	益官秩
-足	1	金財足兮
-秩	慾	4	kyomeishusei2015.04356.1
-秩	秩	4	kyomeishusei2015.04356.1
-秩	足	4	kyomeishusei2015.04356.1
-慾	秩	4	kyomeishusei2015.04356.1
-慾	足	4	kyomeishusei2015.04356.1
-秩	足	4	kyomeishusei2015.04356.1
 慾	1	各得所慾
 作	1	胡氏作
 慾	作	2	kyomeishusei2015.04357.1
@@ -25218,12 +21742,6 @@
 傷	1	大無傷
 王	1	冝矦王
 傷	王	2	kyomeishusei2015.04360.1
-昌	1	大富昌
-央	1	樂未央
-昌	央	2	kyomeishusei2015.04365.1
-昌	1	富貴益昌
-字	1	其師命長4 方格×2 字
-昌	字	2	kyomeishusei2015.04366.1
 思	1	得相思
 央	1	長樂未央
 思	央	2	kyomeishusei2015.04367.1
@@ -25615,9 +22133,6 @@
 章	羊	4	kyomeishusei2015.04434.1
 章	光	4	kyomeishusei2015.04434.1
 羊	光	4	kyomeishusei2015.04434.1
-明	1	不明
-字	1	12 方格×4 字
-明	字	2	kyomeishusei2015.04435.1
 巧	1	眞大巧
 老	1	不知老
 棗	1	飢食棗
@@ -25951,24 +22466,6 @@
 好	母	3	kyomeishusei2015.04520.1
 好	貴	3	kyomeishusei2015.04520.1
 母	貴	3	kyomeishusei2015.04520.1
-鏡	1	吾作明鏡
-字	1	幽湅三商8 方格×1 字
-鏡	字	2	kyomeishusei2015.04521.1
-鏡	1	吾作明鏡
-字	1	天王日月11 方格×1 字
-鏡	字	2	kyomeishusei2015.04522.1
-工	1	上方百工
-字	1	天王日月12 方格×1 字
-工	字	2	kyomeishusei2015.04523.1
-商	1	”三、商”
-字	1	12 方格×1 字
-商	字	2	kyomeishusei2015.04524.1
-明	1	銘文不明
-格	1	12 方格
-明	格	2	kyomeishusei2015.04525.1
-明	1	銘文不明
-字	1	13 方格×4 字
-明	字	2	kyomeishusei2015.04526.1
 服	1	四夷服
 息	1	人民息
 復	1	天下復
@@ -26277,9 +22774,6 @@
 母	右	4	kyomeishusei2015.04647.1
 母	容	4	kyomeishusei2015.04647.1
 右	容	4	kyomeishusei2015.04647.1
-鏡	1	張氏作鏡
-字	1	幽湅金闕□□□11 方格×1 字
-鏡	字	2	kyomeishusei2015.04655.1
 服	1	四夷服
 息	1	人民息
 復	1	天下復
@@ -26465,12 +22959,6 @@
 老	食	3	kyomeishusei2015.04705.1
 公	1	位至三公
 昌	1	服者富昌
-作	1	劉氏作
-字	1	其師命長10 方格×1 字
-作	字	2	kyomeishusei2015.04714.1
-竟	1	吾作明竟
-字	1	師命長11 方格×1 字
-竟	字	2	kyomeishusei2015.04715.1
 明	1	以照明
 月	1	夫日月
 忠	1	而願忠
@@ -26640,42 +23128,6 @@
 山	鮮	6	kyomeishusei2015.04737.1
 山	年	6	kyomeishusei2015.04737.1
 鮮	年	6	kyomeishusei2015.04737.1
-堂	1	建明堂
-王	1	列矦王
-行	1	民戶行
-黃	1	見靑黃
-方	1	在北方
-皇	1	并共皇
-彭	1	主四彭
-央	1	治中央
-堂	王	8	kyomeishusei2015.04738.1
-堂	行	8	kyomeishusei2015.04738.1
-堂	黃	8	kyomeishusei2015.04738.1
-堂	方	8	kyomeishusei2015.04738.1
-堂	皇	8	kyomeishusei2015.04738.1
-堂	彭	8	kyomeishusei2015.04738.1
-堂	央	8	kyomeishusei2015.04738.1
-王	行	8	kyomeishusei2015.04738.1
-王	黃	8	kyomeishusei2015.04738.1
-王	方	8	kyomeishusei2015.04738.1
-王	皇	8	kyomeishusei2015.04738.1
-王	彭	8	kyomeishusei2015.04738.1
-王	央	8	kyomeishusei2015.04738.1
-行	黃	8	kyomeishusei2015.04738.1
-行	方	8	kyomeishusei2015.04738.1
-行	皇	8	kyomeishusei2015.04738.1
-行	彭	8	kyomeishusei2015.04738.1
-行	央	8	kyomeishusei2015.04738.1
-黃	方	8	kyomeishusei2015.04738.1
-黃	皇	8	kyomeishusei2015.04738.1
-黃	彭	8	kyomeishusei2015.04738.1
-黃	央	8	kyomeishusei2015.04738.1
-方	皇	8	kyomeishusei2015.04738.1
-方	彭	8	kyomeishusei2015.04738.1
-方	央	8	kyomeishusei2015.04738.1
-皇	彭	8	kyomeishusei2015.04738.1
-皇	央	8	kyomeishusei2015.04738.1
-彭	央	8	kyomeishusei2015.04738.1
 雍	1	新興辟雍
 然	1	然
 雍	然	2	kyomeishusei2015.04739.1
@@ -26715,34 +23167,6 @@
 方	皇	6	kyomeishusei2015.04741.1
 方	央	6	kyomeishusei2015.04741.1
 皇	央	6	kyomeishusei2015.04741.1
-傷	1	大毌傷
-旁	1	掌亖旁
-陽	1	順陰陽
-羊	1	高敖羊
-央	1	居中央
-昌	1	樂富昌
-王	1	爲矦王
-傷	旁	7	kyomeishusei2015.04742.1
-傷	陽	7	kyomeishusei2015.04742.1
-傷	羊	7	kyomeishusei2015.04742.1
-傷	央	7	kyomeishusei2015.04742.1
-傷	昌	7	kyomeishusei2015.04742.1
-傷	王	7	kyomeishusei2015.04742.1
-旁	陽	7	kyomeishusei2015.04742.1
-旁	羊	7	kyomeishusei2015.04742.1
-旁	央	7	kyomeishusei2015.04742.1
-旁	昌	7	kyomeishusei2015.04742.1
-旁	王	7	kyomeishusei2015.04742.1
-陽	羊	7	kyomeishusei2015.04742.1
-陽	央	7	kyomeishusei2015.04742.1
-陽	昌	7	kyomeishusei2015.04742.1
-陽	王	7	kyomeishusei2015.04742.1
-羊	央	7	kyomeishusei2015.04742.1
-羊	昌	7	kyomeishusei2015.04742.1
-羊	王	7	kyomeishusei2015.04742.1
-央	昌	7	kyomeishusei2015.04742.1
-央	王	7	kyomeishusei2015.04742.1
-昌	王	7	kyomeishusei2015.04742.1
 好	1	眞大好
 老	1	不知老
 棗	1	飢食棗
@@ -27194,34 +23618,6 @@
 皇	長	5	kyomeishusei2015.04799.1
 皇	羊	5	kyomeishusei2015.04799.1
 長	羊	5	kyomeishusei2015.04799.1
-日	1	正月丙午日
-銅	1	幽湅白銅
-央	1	樂未央
-王	1	冝矦王
-父	1	上有東王父
-官	1	君冝 高官
-石	1	主如山石
-日	銅	7	kyomeishusei2015.04800.1
-日	央	7	kyomeishusei2015.04800.1
-日	王	7	kyomeishusei2015.04800.1
-日	父	7	kyomeishusei2015.04800.1
-日	官	7	kyomeishusei2015.04800.1
-日	石	7	kyomeishusei2015.04800.1
-銅	央	7	kyomeishusei2015.04800.1
-銅	王	7	kyomeishusei2015.04800.1
-銅	父	7	kyomeishusei2015.04800.1
-銅	官	7	kyomeishusei2015.04800.1
-銅	石	7	kyomeishusei2015.04800.1
-央	王	7	kyomeishusei2015.04800.1
-央	父	7	kyomeishusei2015.04800.1
-央	官	7	kyomeishusei2015.04800.1
-央	石	7	kyomeishusei2015.04800.1
-王	父	7	kyomeishusei2015.04800.1
-王	官	7	kyomeishusei2015.04800.1
-王	石	7	kyomeishusei2015.04800.1
-父	官	7	kyomeishusei2015.04800.1
-父	石	7	kyomeishusei2015.04800.1
-官	石	7	kyomeishusei2015.04800.1
 商	1	湅宮商
 皇	1	三五帝天皇
 凶	1	皇帝除凶
@@ -27264,34 +23660,6 @@
 龍	昌	6	kyomeishusei2015.04802.1
 龍	吉	6	kyomeishusei2015.04802.1
 昌	吉	6	kyomeishusei2015.04802.1
-工	1	眞大工
-章	1	成文章
-祿	1	與天祿
-明	1	大淸明
-王	1	冝矦王
-央	1	居中央
-英	1	樂未英
-工	章	7	kyomeishusei2015.04804.1
-工	祿	7	kyomeishusei2015.04804.1
-工	明	7	kyomeishusei2015.04804.1
-工	王	7	kyomeishusei2015.04804.1
-工	央	7	kyomeishusei2015.04804.1
-工	英	7	kyomeishusei2015.04804.1
-章	祿	7	kyomeishusei2015.04804.1
-章	明	7	kyomeishusei2015.04804.1
-章	王	7	kyomeishusei2015.04804.1
-章	央	7	kyomeishusei2015.04804.1
-章	英	7	kyomeishusei2015.04804.1
-祿	明	7	kyomeishusei2015.04804.1
-祿	王	7	kyomeishusei2015.04804.1
-祿	央	7	kyomeishusei2015.04804.1
-祿	英	7	kyomeishusei2015.04804.1
-明	王	7	kyomeishusei2015.04804.1
-明	央	7	kyomeishusei2015.04804.1
-明	英	7	kyomeishusei2015.04804.1
-王	央	7	kyomeishusei2015.04804.1
-王	英	7	kyomeishusei2015.04804.1
-央	英	7	kyomeishusei2015.04804.1
 服	1	四夷服
 息	1	人民息
 復	1	天下復
@@ -27365,104 +23733,12 @@
 保	道	4	kyomeishusei2015.04810.1
 保	得	4	kyomeishusei2015.04810.1
 道	得	4	kyomeishusei2015.04810.1
-華	1	湅五斛英華
-耶	1	上有辟耶
-子	1	冝孫保子兮
-服	1	吏人服之
-服	1	白衣服之
-服	1	小 人服
-氏	1	胡氏
-華	耶	7	kyomeishusei2015.04811.1
-華	子	7	kyomeishusei2015.04811.1
-華	服	7	kyomeishusei2015.04811.1
-華	服	7	kyomeishusei2015.04811.1
-華	服	7	kyomeishusei2015.04811.1
-華	氏	7	kyomeishusei2015.04811.1
-耶	子	7	kyomeishusei2015.04811.1
-耶	服	7	kyomeishusei2015.04811.1
-耶	服	7	kyomeishusei2015.04811.1
-耶	服	7	kyomeishusei2015.04811.1
-耶	氏	7	kyomeishusei2015.04811.1
-子	服	7	kyomeishusei2015.04811.1
-子	服	7	kyomeishusei2015.04811.1
-子	服	7	kyomeishusei2015.04811.1
-子	氏	7	kyomeishusei2015.04811.1
-服	服	7	kyomeishusei2015.04811.1
-服	服	7	kyomeishusei2015.04811.1
-服	氏	7	kyomeishusei2015.04811.1
-服	服	7	kyomeishusei2015.04811.1
-服	氏	7	kyomeishusei2015.04811.1
-服	氏	7	kyomeishusei2015.04811.1
-服	1	四夷服
-息	1	人民息
-復	1	天下復
-孰	1	五穀孰
-力	1	得天力
-極	1	樂無極
-作	1	九月六日作
-卿	1	服者公卿
-服	息	8	kyomeishusei2015.04813.1
-服	復	8	kyomeishusei2015.04813.1
-服	孰	8	kyomeishusei2015.04813.1
-服	力	8	kyomeishusei2015.04813.1
-服	極	8	kyomeishusei2015.04813.1
-服	作	8	kyomeishusei2015.04813.1
-服	卿	8	kyomeishusei2015.04813.1
-息	復	8	kyomeishusei2015.04813.1
-息	孰	8	kyomeishusei2015.04813.1
-息	力	8	kyomeishusei2015.04813.1
-息	極	8	kyomeishusei2015.04813.1
-息	作	8	kyomeishusei2015.04813.1
-息	卿	8	kyomeishusei2015.04813.1
-復	孰	8	kyomeishusei2015.04813.1
-復	力	8	kyomeishusei2015.04813.1
-復	極	8	kyomeishusei2015.04813.1
-復	作	8	kyomeishusei2015.04813.1
-復	卿	8	kyomeishusei2015.04813.1
-孰	力	8	kyomeishusei2015.04813.1
-孰	極	8	kyomeishusei2015.04813.1
-孰	作	8	kyomeishusei2015.04813.1
-孰	卿	8	kyomeishusei2015.04813.1
-力	極	8	kyomeishusei2015.04813.1
-力	作	8	kyomeishusei2015.04813.1
-力	卿	8	kyomeishusei2015.04813.1
-極	作	8	kyomeishusei2015.04813.1
-極	卿	8	kyomeishusei2015.04813.1
-作	卿	8	kyomeishusei2015.04813.1
 鏡	1	李氏作鏡
 父	1	東王父
 橋	1	先人子橋
 鏡	父	3	kyomeishusei2015.04814.1
 鏡	橋	3	kyomeishusei2015.04814.1
 父	橋	3	kyomeishusei2015.04814.1
-服	1	四夷服
-盒	1	蒙祿盒
-孰	1	五穀孰
-畫	1	刻畫兮
-龍	1	參駕神龍
-出	1	奇守竝 來出兮
-石	1	壽金石兮
-服	盒	7	kyomeishusei2015.04815.1
-服	孰	7	kyomeishusei2015.04815.1
-服	畫	7	kyomeishusei2015.04815.1
-服	龍	7	kyomeishusei2015.04815.1
-服	出	7	kyomeishusei2015.04815.1
-服	石	7	kyomeishusei2015.04815.1
-盒	孰	7	kyomeishusei2015.04815.1
-盒	畫	7	kyomeishusei2015.04815.1
-盒	龍	7	kyomeishusei2015.04815.1
-盒	出	7	kyomeishusei2015.04815.1
-盒	石	7	kyomeishusei2015.04815.1
-孰	畫	7	kyomeishusei2015.04815.1
-孰	龍	7	kyomeishusei2015.04815.1
-孰	出	7	kyomeishusei2015.04815.1
-孰	石	7	kyomeishusei2015.04815.1
-畫	龍	7	kyomeishusei2015.04815.1
-畫	出	7	kyomeishusei2015.04815.1
-畫	石	7	kyomeishusei2015.04815.1
-龍	出	7	kyomeishusei2015.04815.1
-龍	石	7	kyomeishusei2015.04815.1
-出	石	7	kyomeishusei2015.04815.1
 服	1	四夷服
 息	1	人民息
 復	1	天下復
@@ -27474,40 +23750,9 @@
 息	孰	4	kyomeishusei2015.04816.1
 復	孰	4	kyomeishusei2015.04816.1
 孫	1	長冝子孫
-字	1	樂無極兮8 方格×2 字
-孫	字	2	kyomeishusei2015.04817.1
-孫	1	長冝子孫
 遠	1	富貴高遠
 孫	遠	2	kyomeishusei2015.04818.1
 鏡	1	五月十日作鏡
-日	1	五月丙午日
-作	1	廣漢造作
-商	1	幽鍊三商
-明	1	世傳光明
-昌	1	富且昌
-長	1	師命長
-父	1	壽如東王父
-日	作	7	kyomeishusei2015.04821.1
-日	商	7	kyomeishusei2015.04821.1
-日	明	7	kyomeishusei2015.04821.1
-日	昌	7	kyomeishusei2015.04821.1
-日	長	7	kyomeishusei2015.04821.1
-日	父	7	kyomeishusei2015.04821.1
-作	商	7	kyomeishusei2015.04821.1
-作	明	7	kyomeishusei2015.04821.1
-作	昌	7	kyomeishusei2015.04821.1
-作	長	7	kyomeishusei2015.04821.1
-作	父	7	kyomeishusei2015.04821.1
-商	明	7	kyomeishusei2015.04821.1
-商	昌	7	kyomeishusei2015.04821.1
-商	長	7	kyomeishusei2015.04821.1
-商	父	7	kyomeishusei2015.04821.1
-明	昌	7	kyomeishusei2015.04821.1
-明	長	7	kyomeishusei2015.04821.1
-明	父	7	kyomeishusei2015.04821.1
-昌	長	7	kyomeishusei2015.04821.1
-昌	父	7	kyomeishusei2015.04821.1
-長	父	7	kyomeishusei2015.04821.1
 明	1	不明
 日	1	□月□日
 吉	1	□□□□吉
@@ -27548,16 +23793,6 @@
 央	昌	8	kyomeishusei2015.04826.1
 央	王	8	kyomeishusei2015.04826.1
 昌	王	8	kyomeishusei2015.04826.1
-服	1	四夷服
-息	1	人民息
-復	1	天下復
-五	1	五
-服	息	4	kyomeishusei2015.04827.1
-服	復	4	kyomeishusei2015.04827.1
-服	五	4	kyomeishusei2015.04827.1
-息	復	4	kyomeishusei2015.04827.1
-息	五	4	kyomeishusei2015.04827.1
-復	五	4	kyomeishusei2015.04827.1
 服	1	四夷服
 息	1	人民息
 復	1	天下復
@@ -27682,9 +23917,6 @@
 公	1	明淸公
 王	1	冝矦王
 公	王	2	kyomeishusei2015.04839.1
-明	1	不明
-格	1	13 方格
-明	格	2	kyomeishusei2015.04840.1
 竟	1	吾作明竟
 長	1	命長
 竟	長	2	kyomeishusei2015.04841.1
@@ -27935,9 +24167,6 @@
 陽	明	3	kyomeishusei2015.04879.1
 陽	彭	3	kyomeishusei2015.04879.1
 明	彭	3	kyomeishusei2015.04879.1
-竟	1	餘造明竟
-字	1	服者□□4 方格×2 字
-竟	字	2	kyomeishusei2015.04880.1
 竟	1	吾作明竟
 竟	1	□作竟
 孫	1	長冝子孫
@@ -27958,9 +24187,6 @@
 富	意	5	kyomeishusei2015.04887.1
 壽	1	□年益壽
 官	1	君冝高官
-官	1	□冝高官
-字	1	4 方格×1 字
-官	字	2	kyomeishusei2015.04896.1
 官	1	高官
 公	1	位至三公
 公	1	□□三公
@@ -28589,51 +24815,6 @@
 光	1	見日之光
 明	1	天下大明
 光	明	2	kyomeishusei2015.05179.1
-陽	1	出丹陽
-明	1	淸而明
-傷	1	大毌傷
-章	1	成文章
-羊	1	辟不羊
-陽	1	順陰陽
-央	1	居中央
-昌	1	樂富昌
-王	1	如矦王兮
-陽	明	9	kyomeishusei2015.05180.1
-陽	傷	9	kyomeishusei2015.05180.1
-陽	章	9	kyomeishusei2015.05180.1
-陽	羊	9	kyomeishusei2015.05180.1
-陽	陽	9	kyomeishusei2015.05180.1
-陽	央	9	kyomeishusei2015.05180.1
-陽	昌	9	kyomeishusei2015.05180.1
-陽	王	9	kyomeishusei2015.05180.1
-明	傷	9	kyomeishusei2015.05180.1
-明	章	9	kyomeishusei2015.05180.1
-明	羊	9	kyomeishusei2015.05180.1
-明	陽	9	kyomeishusei2015.05180.1
-明	央	9	kyomeishusei2015.05180.1
-明	昌	9	kyomeishusei2015.05180.1
-明	王	9	kyomeishusei2015.05180.1
-傷	章	9	kyomeishusei2015.05180.1
-傷	羊	9	kyomeishusei2015.05180.1
-傷	陽	9	kyomeishusei2015.05180.1
-傷	央	9	kyomeishusei2015.05180.1
-傷	昌	9	kyomeishusei2015.05180.1
-傷	王	9	kyomeishusei2015.05180.1
-章	羊	9	kyomeishusei2015.05180.1
-章	陽	9	kyomeishusei2015.05180.1
-章	央	9	kyomeishusei2015.05180.1
-章	昌	9	kyomeishusei2015.05180.1
-章	王	9	kyomeishusei2015.05180.1
-羊	陽	9	kyomeishusei2015.05180.1
-羊	央	9	kyomeishusei2015.05180.1
-羊	昌	9	kyomeishusei2015.05180.1
-羊	王	9	kyomeishusei2015.05180.1
-陽	央	9	kyomeishusei2015.05180.1
-陽	昌	9	kyomeishusei2015.05180.1
-陽	王	9	kyomeishusei2015.05180.1
-央	昌	9	kyomeishusei2015.05180.1
-央	王	9	kyomeishusei2015.05180.1
-昌	王	9	kyomeishusei2015.05180.1
 好	1	眞大好
 老	1	不知老
 棗	1	飢食棗
@@ -28739,9 +24920,6 @@
 巧	1	眞大巧
 田	1	□□田
 巧	田	2	kyomeishusei2015.05217.1
-明	1	不明
-字	1	12 方格×4 字
-明	字	2	kyomeishusei2015.05218.1
 淵	1	弟子顏淵
 吉	1	出門大吉
 好	1	得所好
@@ -28806,34 +24984,6 @@
 作	願	5	kyomeishusei2015.05249.1
 作	寧	5	kyomeishusei2015.05249.1
 願	寧	5	kyomeishusei2015.05249.1
-從	1	福祿是從
-長	1	其師命長
-昌	1	子孫番昌
-良	1	敬奉賢良
-商	1	幽涷金商
-願	1	咸得祈 願
-寧	1	富貴安寧
-從	長	7	kyomeishusei2015.05250.1
-從	昌	7	kyomeishusei2015.05250.1
-從	良	7	kyomeishusei2015.05250.1
-從	商	7	kyomeishusei2015.05250.1
-從	願	7	kyomeishusei2015.05250.1
-從	寧	7	kyomeishusei2015.05250.1
-長	昌	7	kyomeishusei2015.05250.1
-長	良	7	kyomeishusei2015.05250.1
-長	商	7	kyomeishusei2015.05250.1
-長	願	7	kyomeishusei2015.05250.1
-長	寧	7	kyomeishusei2015.05250.1
-昌	良	7	kyomeishusei2015.05250.1
-昌	商	7	kyomeishusei2015.05250.1
-昌	願	7	kyomeishusei2015.05250.1
-昌	寧	7	kyomeishusei2015.05250.1
-良	商	7	kyomeishusei2015.05250.1
-良	願	7	kyomeishusei2015.05250.1
-良	寧	7	kyomeishusei2015.05250.1
-商	願	7	kyomeishusei2015.05250.1
-商	寧	7	kyomeishusei2015.05250.1
-願	寧	7	kyomeishusei2015.05250.1
 日	1	”日”
 已	1	”三已”
 日	已	2	kyomeishusei2015.05251.1
@@ -28859,34 +25009,6 @@
 月	1	天王日月
 王	1	天王
 月	王	2	kyomeishusei2015.05255.1
-月	1	天王日月
-格	1	×12 方格
-月	格	2	kyomeishusei2015.05256.1
-商	1	幽涷三商
-疆	1	配象萬疆
-容	1	眾神見容
-從	1	福祿自從
-長	1	其師命 長
-商	疆	5	kyomeishusei2015.05257.1
-商	容	5	kyomeishusei2015.05257.1
-商	從	5	kyomeishusei2015.05257.1
-商	長	5	kyomeishusei2015.05257.1
-疆	容	5	kyomeishusei2015.05257.1
-疆	從	5	kyomeishusei2015.05257.1
-疆	長	5	kyomeishusei2015.05257.1
-容	從	5	kyomeishusei2015.05257.1
-容	長	5	kyomeishusei2015.05257.1
-從	長	5	kyomeishusei2015.05257.1
-周	1	本出涷周
-光	1	□月同光
-蜀	1	來木西蜀
-公	1	土至三公
-周	光	4	kyomeishusei2015.05259.1
-周	蜀	4	kyomeishusei2015.05259.1
-周	公	4	kyomeishusei2015.05259.1
-光	蜀	4	kyomeishusei2015.05259.1
-光	公	4	kyomeishusei2015.05259.1
-蜀	公	4	kyomeishusei2015.05259.1
 商	1	幽涷三商
 畫	1	萬畫
 容	1	眾神見容
@@ -28979,34 +25101,6 @@
 章	剛	6	kyomeishusei2015.05275.1
 章	祥	6	kyomeishusei2015.05275.1
 剛	祥	6	kyomeishusei2015.05275.1
-尊	1	新家尊
-恩	1	大多恩
-田	1	不躬嗇田
-官	1	治校官
-安	1	天下大安
-恩	1	得蒙恩
-孫	1	葆子孫
-尊	恩	7	kyomeishusei2015.05276.1
-尊	田	7	kyomeishusei2015.05276.1
-尊	官	7	kyomeishusei2015.05276.1
-尊	安	7	kyomeishusei2015.05276.1
-尊	恩	7	kyomeishusei2015.05276.1
-尊	孫	7	kyomeishusei2015.05276.1
-恩	田	7	kyomeishusei2015.05276.1
-恩	官	7	kyomeishusei2015.05276.1
-恩	安	7	kyomeishusei2015.05276.1
-恩	恩	7	kyomeishusei2015.05276.1
-恩	孫	7	kyomeishusei2015.05276.1
-田	官	7	kyomeishusei2015.05276.1
-田	安	7	kyomeishusei2015.05276.1
-田	恩	7	kyomeishusei2015.05276.1
-田	孫	7	kyomeishusei2015.05276.1
-官	安	7	kyomeishusei2015.05276.1
-官	恩	7	kyomeishusei2015.05276.1
-官	孫	7	kyomeishusei2015.05276.1
-安	恩	7	kyomeishusei2015.05276.1
-安	孫	7	kyomeishusei2015.05276.1
-恩	孫	7	kyomeishusei2015.05276.1
 鏡	1	作好鏡
 上	1	莊君上
 子	1	及妻子
@@ -29056,34 +25150,6 @@
 龍	昌	6	kyomeishusei2015.05284.1
 龍	吉	6	kyomeishusei2015.05284.1
 昌	吉	6	kyomeishusei2015.05284.1
-陽	1	出丹陽
-明	1	淸且明
-彭	1	主四彭
-陽	1	順陰陽
-央	1	治中央
-陽	1	起羨陽
-矦	1	冝矦
-陽	明	7	kyomeishusei2015.05285.1
-陽	彭	7	kyomeishusei2015.05285.1
-陽	陽	7	kyomeishusei2015.05285.1
-陽	央	7	kyomeishusei2015.05285.1
-陽	陽	7	kyomeishusei2015.05285.1
-陽	矦	7	kyomeishusei2015.05285.1
-明	彭	7	kyomeishusei2015.05285.1
-明	陽	7	kyomeishusei2015.05285.1
-明	央	7	kyomeishusei2015.05285.1
-明	陽	7	kyomeishusei2015.05285.1
-明	矦	7	kyomeishusei2015.05285.1
-彭	陽	7	kyomeishusei2015.05285.1
-彭	央	7	kyomeishusei2015.05285.1
-彭	陽	7	kyomeishusei2015.05285.1
-彭	矦	7	kyomeishusei2015.05285.1
-陽	央	7	kyomeishusei2015.05285.1
-陽	陽	7	kyomeishusei2015.05285.1
-陽	矦	7	kyomeishusei2015.05285.1
-央	陽	7	kyomeishusei2015.05285.1
-央	矦	7	kyomeishusei2015.05285.1
-陽	矦	7	kyomeishusei2015.05285.1
 工	1	眞大工
 老	1	不知老
 棗	1	飢食棗
@@ -29156,9 +25222,6 @@
 息	復	4	kyomeishusei2015.05295.1
 息	熟	4	kyomeishusei2015.05295.1
 復	熟	4	kyomeishusei2015.05295.1
-月	1	天王日月
-格	1	×12 方格
-月	格	2	kyomeishusei2015.05299.1
 岡	1	幽煉川岡
 文	1	□文
 昌	1	吉昌
@@ -29335,42 +25398,6 @@
 明	月	3	kyomeishusei2015.05360.1
 明	已	3	kyomeishusei2015.05360.1
 月	已	3	kyomeishusei2015.05360.1
-陽	1	出丹陽
-明	1	淸而明
-章	1	成文章
-彭	1	掌四彭
-陽	1	順陰陽
-央	1	居中央
-王	1	如矦王
-央	1	樂未央
-陽	明	8	kyomeishusei2015.05365.1
-陽	章	8	kyomeishusei2015.05365.1
-陽	彭	8	kyomeishusei2015.05365.1
-陽	陽	8	kyomeishusei2015.05365.1
-陽	央	8	kyomeishusei2015.05365.1
-陽	王	8	kyomeishusei2015.05365.1
-陽	央	8	kyomeishusei2015.05365.1
-明	章	8	kyomeishusei2015.05365.1
-明	彭	8	kyomeishusei2015.05365.1
-明	陽	8	kyomeishusei2015.05365.1
-明	央	8	kyomeishusei2015.05365.1
-明	王	8	kyomeishusei2015.05365.1
-明	央	8	kyomeishusei2015.05365.1
-章	彭	8	kyomeishusei2015.05365.1
-章	陽	8	kyomeishusei2015.05365.1
-章	央	8	kyomeishusei2015.05365.1
-章	王	8	kyomeishusei2015.05365.1
-章	央	8	kyomeishusei2015.05365.1
-彭	陽	8	kyomeishusei2015.05365.1
-彭	央	8	kyomeishusei2015.05365.1
-彭	王	8	kyomeishusei2015.05365.1
-彭	央	8	kyomeishusei2015.05365.1
-陽	央	8	kyomeishusei2015.05365.1
-陽	王	8	kyomeishusei2015.05365.1
-陽	央	8	kyomeishusei2015.05365.1
-央	王	8	kyomeishusei2015.05365.1
-央	央	8	kyomeishusei2015.05365.1
-王	央	8	kyomeishusei2015.05365.1
 悲	1	愁思悲
 說	1	君不說
 悲	說	2	kyomeishusei2015.05366.1
@@ -29572,9 +25599,6 @@
 酉	子	3	kyomeishusei2015.05407.1
 酉	者	3	kyomeishusei2015.05407.1
 子	者	3	kyomeishusei2015.05407.1
-明	1	不明
-字	1	12 方格×4 字
-明	字	2	kyomeishusei2015.05409.1
 光	1	明如日光
 竟	1	潘氏作竟
 富	1	大樂貴富
@@ -29873,21 +25897,6 @@
 在	子	5	kyomeishusei2015.05457.1
 在	子	5	kyomeishusei2015.05457.1
 子	子	5	kyomeishusei2015.05457.1
-商	1	幽湅三商
-疆	1	配象萬疆
-容	1	眾神見容
-申	1	見示巨申
-羊	1	其市 吉羊
-商	疆	5	kyomeishusei2015.05458.1
-商	容	5	kyomeishusei2015.05458.1
-商	申	5	kyomeishusei2015.05458.1
-商	羊	5	kyomeishusei2015.05458.1
-疆	容	5	kyomeishusei2015.05458.1
-疆	申	5	kyomeishusei2015.05458.1
-疆	羊	5	kyomeishusei2015.05458.1
-容	申	5	kyomeishusei2015.05458.1
-容	羊	5	kyomeishusei2015.05458.1
-申	羊	5	kyomeishusei2015.05458.1
 竟	1	尚方作竟
 傷	1	善毋傷
 明	1	淸且明
@@ -30032,7 +26041,6 @@
 竟	1	吾作明竟
 吉	1	大吉兮
 竟	吉	2	kyomeishusei2015.05495.1
-岡	1	幽柬三岡
 鏡	1	吾作明鏡
 子	1	吉長冝子
 鏡	子	2	kyomeishusei2015.05497.1
@@ -30139,9 +26147,6 @@
 巧	1	眞大巧
 老	1	不知老
 巧	老	2	kyomeishusei2015.05516.1
-淸	1	文字不淸
-格	1	×14 方格
-淸	格	2	kyomeishusei2015.05520.1
 商	1	幽煉三商
 樂	1	白牙樂
 存	1	天禽并存
@@ -30165,12 +26170,6 @@
 鏡	1	吾作明鏡
 吉	1	大吉兮
 鏡	吉	2	kyomeishusei2015.05523.1
-月	1	天王日月
-格	1	×14 方格
-月	格	2	kyomeishusei2015.05524.1
-月	1	天王日月
-格	1	×14 方格
-月	格	2	kyomeishusei2015.05525.1
 年	1	建衡二年
 有	1	車馬□□□□□□□□未有
 公	1	位至三公
@@ -30257,17 +26256,8 @@
 光	1	見日之光
 明	1	天下大明
 光	明	2	kyomeishusei2015.05548.1
-熹	1	日有熹
-福	1	貴豪富□□細守名目冶左有靑龍來福
-勝	1	居前□貴風□爲□□異□□□象□□造工 勝
-熹	福	3	kyomeishusei2015.05549.1
-熹	勝	3	kyomeishusei2015.05549.1
-福	勝	3	kyomeishusei2015.05549.1
 孫	1	長冝子孫
 公	1	君位至公
-十	1	三十三十
-格	1	×4 方格
-十	格	2	kyomeishusei2015.05562.1
 好	1	佳且好
 有	1	世少有
 左	1	悉皆左
@@ -30667,9 +26657,6 @@
 紀	1	自有紀
 市	1	冝古市
 紀	市	2	kyomeishusei2015.05653.1
-鏡	1	作此鏡
-字	1	皆食大倉12 方格×1 字
-鏡	字	2	kyomeishusei2015.05657.1
 紀	1	自有紀
 母	1	西王母
 孫	1	冝子孫
@@ -30683,42 +26670,6 @@
 好	1	佳且好
 有	1	世少有
 好	有	2	kyomeishusei2015.05659.1
-君	1	而事君
-明	1	之弇明
-澤	1	之流澤
-忘	1	而日忘
-皚	1	之窮皚
-兌	1	之可兌
-泉	1	于靈泉
-絕	1	而毋絕
-君	明	8	kyomeishusei2015.05661.1
-君	澤	8	kyomeishusei2015.05661.1
-君	忘	8	kyomeishusei2015.05661.1
-君	皚	8	kyomeishusei2015.05661.1
-君	兌	8	kyomeishusei2015.05661.1
-君	泉	8	kyomeishusei2015.05661.1
-君	絕	8	kyomeishusei2015.05661.1
-明	澤	8	kyomeishusei2015.05661.1
-明	忘	8	kyomeishusei2015.05661.1
-明	皚	8	kyomeishusei2015.05661.1
-明	兌	8	kyomeishusei2015.05661.1
-明	泉	8	kyomeishusei2015.05661.1
-明	絕	8	kyomeishusei2015.05661.1
-澤	忘	8	kyomeishusei2015.05661.1
-澤	皚	8	kyomeishusei2015.05661.1
-澤	兌	8	kyomeishusei2015.05661.1
-澤	泉	8	kyomeishusei2015.05661.1
-澤	絕	8	kyomeishusei2015.05661.1
-忘	皚	8	kyomeishusei2015.05661.1
-忘	兌	8	kyomeishusei2015.05661.1
-忘	泉	8	kyomeishusei2015.05661.1
-忘	絕	8	kyomeishusei2015.05661.1
-皚	兌	8	kyomeishusei2015.05661.1
-皚	泉	8	kyomeishusei2015.05661.1
-皚	絕	8	kyomeishusei2015.05661.1
-兌	泉	8	kyomeishusei2015.05661.1
-兌	絕	8	kyomeishusei2015.05661.1
-泉	絕	8	kyomeishusei2015.05661.1
 鏡	1	以爲鏡
 貎	1	觀容貎
 信	1	以爲信
@@ -30878,37 +26829,6 @@
 王	公	8	kyomeishusei2015.05683.1
 王	長	8	kyomeishusei2015.05683.1
 公	長	8	kyomeishusei2015.05683.1
-鏡	1	吾作明鏡
-字	1	周年吉年12 方格×1 字
-鏡	字	2	kyomeishusei2015.05685.1
-傷	1	大毋傷
-章	1	成文章
-羊	1	辟不羊
-陽	1	順陰陽
-央	1	居中央
-昌	1	樂富昌
-王	1	如矦王
-傷	章	7	kyomeishusei2015.05686.1
-傷	羊	7	kyomeishusei2015.05686.1
-傷	陽	7	kyomeishusei2015.05686.1
-傷	央	7	kyomeishusei2015.05686.1
-傷	昌	7	kyomeishusei2015.05686.1
-傷	王	7	kyomeishusei2015.05686.1
-章	羊	7	kyomeishusei2015.05686.1
-章	陽	7	kyomeishusei2015.05686.1
-章	央	7	kyomeishusei2015.05686.1
-章	昌	7	kyomeishusei2015.05686.1
-章	王	7	kyomeishusei2015.05686.1
-羊	陽	7	kyomeishusei2015.05686.1
-羊	央	7	kyomeishusei2015.05686.1
-羊	昌	7	kyomeishusei2015.05686.1
-羊	王	7	kyomeishusei2015.05686.1
-陽	央	7	kyomeishusei2015.05686.1
-陽	昌	7	kyomeishusei2015.05686.1
-陽	王	7	kyomeishusei2015.05686.1
-央	昌	7	kyomeishusei2015.05686.1
-央	王	7	kyomeishusei2015.05686.1
-昌	王	7	kyomeishusei2015.05686.1
 憙	1	日有憙
 富	1	常貴富
 憙	富	2	kyomeishusei2015.05688.1
@@ -31200,34 +27120,6 @@
 服	息	3	kyomeishusei2015.05759.1
 服	服	3	kyomeishusei2015.05759.1
 息	服	3	kyomeishusei2015.05759.1
-湅	1	三陽山湅
-毋	1	＊象萬毋
-容	1	眾神見容
-父	1	東王父
-人	1	仙人
-卿	1	三公九卿
-長	1	異師命長
-湅	毋	7	kyomeishusei2015.05761.1
-湅	容	7	kyomeishusei2015.05761.1
-湅	父	7	kyomeishusei2015.05761.1
-湅	人	7	kyomeishusei2015.05761.1
-湅	卿	7	kyomeishusei2015.05761.1
-湅	長	7	kyomeishusei2015.05761.1
-毋	容	7	kyomeishusei2015.05761.1
-毋	父	7	kyomeishusei2015.05761.1
-毋	人	7	kyomeishusei2015.05761.1
-毋	卿	7	kyomeishusei2015.05761.1
-毋	長	7	kyomeishusei2015.05761.1
-容	父	7	kyomeishusei2015.05761.1
-容	人	7	kyomeishusei2015.05761.1
-容	卿	7	kyomeishusei2015.05761.1
-容	長	7	kyomeishusei2015.05761.1
-父	人	7	kyomeishusei2015.05761.1
-父	卿	7	kyomeishusei2015.05761.1
-父	長	7	kyomeishusei2015.05761.1
-人	卿	7	kyomeishusei2015.05761.1
-人	長	7	kyomeishusei2015.05761.1
-卿	長	7	kyomeishusei2015.05761.1
 光	1	見日之光
 忘	1	長毋相忘
 光	忘	2	kyomeishusei2015.05762.1
@@ -31250,9 +27142,6 @@
 孫	1	長冝子孫
 竟	1	劉氏作竟
 孫	竟	2	kyomeishusei2015.05765.1
-孫	1	長冝子孫
-個	1	五銖錢文×4 個
-孫	個	2	kyomeishusei2015.05766.1
 傷	1	大毋傷
 章	1	成文章
 央	1	居中央
@@ -31402,11 +27291,6 @@
 福	力	6	kyomeishusei2015.05797.1
 官	1	君冝高官
 公	1	位至三公
-昌	1	服老富昌
-字	1	其師命長4 方格×4 字
-昌	字	2	kyomeishusei2015.05807.1
-明	1	不明
-明	1	不明
 服	1	四夷服
 息	1	□息
 復	1	天下復
@@ -32140,9 +28024,6 @@
 孰	力	6	kyomeishusei2015.05992.1
 孰	極	6	kyomeishusei2015.05992.1
 力	極	6	kyomeishusei2015.05992.1
-月	1	天王日月
-格	1	×14 方格
-月	格	2	kyomeishusei2015.05994.1
 竟	1	吾作明竟
 王	1	天王
 竟	王	2	kyomeishusei2015.05995.1
@@ -32198,9 +28079,6 @@
 者	結	4	kyomeishusei2015.06003.1
 者	巳	4	kyomeishusei2015.06003.1
 結	巳	4	kyomeishusei2015.06003.1
-官	1	君冝高官
-字	1	至作三公12 方格×1 字
-官	字	2	kyomeishusei2015.06006.1
 商	1	幽湅三商
 疆	1	配像萬疆
 首	1	天禽四首
@@ -32217,9 +28095,6 @@
 有	1	世少有
 乕	1	白乕
 有	乕	2	kyomeishusei2015.06011.1
-鏡	1	□作明鏡
-字	1	周□□11 方格×1 字
-鏡	字	2	kyomeishusei2015.06012.1
 公	1	東王公
 人	1	玉女二人
 公	人	2	kyomeishusei2015.06015.1
@@ -32329,9 +28204,6 @@
 乕	武	4	kyomeishusei2015.06035.1
 乕	老	4	kyomeishusei2015.06035.1
 武	老	4	kyomeishusei2015.06035.1
-利	1	大吉利兮
-字	1	□□□□4 方格×4 字
-利	字	2	kyomeishusei2015.06039.1
 好	1	甚大好
 老	1	不知老
 棗	1	飢食棗
@@ -32350,55 +28222,6 @@
 月	1	光似日月
 絕	1	子孫不絕
 月	絕	2	kyomeishusei2015.06041.1
-堂	1	建明堂
-王	1	列矦王
-行	1	民戶行
-方	1	在北方
-央	1	治中央
-彭	1	主四彭
-堂	王	6	kyomeishusei2015.06042.1
-堂	行	6	kyomeishusei2015.06042.1
-堂	方	6	kyomeishusei2015.06042.1
-堂	央	6	kyomeishusei2015.06042.1
-堂	彭	6	kyomeishusei2015.06042.1
-王	行	6	kyomeishusei2015.06042.1
-王	方	6	kyomeishusei2015.06042.1
-王	央	6	kyomeishusei2015.06042.1
-王	彭	6	kyomeishusei2015.06042.1
-行	方	6	kyomeishusei2015.06042.1
-行	央	6	kyomeishusei2015.06042.1
-行	彭	6	kyomeishusei2015.06042.1
-方	央	6	kyomeishusei2015.06042.1
-方	彭	6	kyomeishusei2015.06042.1
-央	彭	6	kyomeishusei2015.06042.1
-陽	1	出丹陽
-明	1	淸而明
-傷	1	大毋傷
-羊	1	辟不羊
-陽	1	順陰陽
-央	1	居中央
-王	1	如矦王
-陽	明	7	kyomeishusei2015.06043.1
-陽	傷	7	kyomeishusei2015.06043.1
-陽	羊	7	kyomeishusei2015.06043.1
-陽	陽	7	kyomeishusei2015.06043.1
-陽	央	7	kyomeishusei2015.06043.1
-陽	王	7	kyomeishusei2015.06043.1
-明	傷	7	kyomeishusei2015.06043.1
-明	羊	7	kyomeishusei2015.06043.1
-明	陽	7	kyomeishusei2015.06043.1
-明	央	7	kyomeishusei2015.06043.1
-明	王	7	kyomeishusei2015.06043.1
-傷	羊	7	kyomeishusei2015.06043.1
-傷	陽	7	kyomeishusei2015.06043.1
-傷	央	7	kyomeishusei2015.06043.1
-傷	王	7	kyomeishusei2015.06043.1
-羊	陽	7	kyomeishusei2015.06043.1
-羊	央	7	kyomeishusei2015.06043.1
-羊	王	7	kyomeishusei2015.06043.1
-陽	央	7	kyomeishusei2015.06043.1
-陽	王	7	kyomeishusei2015.06043.1
-央	王	7	kyomeishusei2015.06043.1
 陽	1	出丹陽
 明	1	淸且明
 彭	1	掌亖彭
@@ -32427,42 +28250,6 @@
 彭	陽	5	kyomeishusei2015.06046.1
 彭	王	5	kyomeishusei2015.06046.1
 陽	王	5	kyomeishusei2015.06046.1
-陽	1	出丹陽
-明	1	淸而明
-章	1	成文章
-彭	1	掌亖彭
-陽	1	順陰陽
-央	1	居中央
-王	1	如矦王
-央	1	樂未央
-陽	明	8	kyomeishusei2015.06047.1
-陽	章	8	kyomeishusei2015.06047.1
-陽	彭	8	kyomeishusei2015.06047.1
-陽	陽	8	kyomeishusei2015.06047.1
-陽	央	8	kyomeishusei2015.06047.1
-陽	王	8	kyomeishusei2015.06047.1
-陽	央	8	kyomeishusei2015.06047.1
-明	章	8	kyomeishusei2015.06047.1
-明	彭	8	kyomeishusei2015.06047.1
-明	陽	8	kyomeishusei2015.06047.1
-明	央	8	kyomeishusei2015.06047.1
-明	王	8	kyomeishusei2015.06047.1
-明	央	8	kyomeishusei2015.06047.1
-章	彭	8	kyomeishusei2015.06047.1
-章	陽	8	kyomeishusei2015.06047.1
-章	央	8	kyomeishusei2015.06047.1
-章	王	8	kyomeishusei2015.06047.1
-章	央	8	kyomeishusei2015.06047.1
-彭	陽	8	kyomeishusei2015.06047.1
-彭	央	8	kyomeishusei2015.06047.1
-彭	王	8	kyomeishusei2015.06047.1
-彭	央	8	kyomeishusei2015.06047.1
-陽	央	8	kyomeishusei2015.06047.1
-陽	王	8	kyomeishusei2015.06047.1
-陽	央	8	kyomeishusei2015.06047.1
-央	王	8	kyomeishusei2015.06047.1
-央	央	8	kyomeishusei2015.06047.1
-王	央	8	kyomeishusei2015.06047.1
 服	1	亖夷服
 息	1	人民息
 熟	1	五穀熟
@@ -32630,62 +28417,6 @@
 陽	央	5	kyomeishusei2015.06063.1
 陽	昌	5	kyomeishusei2015.06063.1
 央	昌	5	kyomeishusei2015.06063.1
-好	1	眞大好
-道	1	□餘道
-老	1	不知老
-棗	1	汎食棗
-海	1	敖亖海
-草	1	采芝草
-保	1	之天保
-好	道	7	kyomeishusei2015.06064.1
-好	老	7	kyomeishusei2015.06064.1
-好	棗	7	kyomeishusei2015.06064.1
-好	海	7	kyomeishusei2015.06064.1
-好	草	7	kyomeishusei2015.06064.1
-好	保	7	kyomeishusei2015.06064.1
-道	老	7	kyomeishusei2015.06064.1
-道	棗	7	kyomeishusei2015.06064.1
-道	海	7	kyomeishusei2015.06064.1
-道	草	7	kyomeishusei2015.06064.1
-道	保	7	kyomeishusei2015.06064.1
-老	棗	7	kyomeishusei2015.06064.1
-老	海	7	kyomeishusei2015.06064.1
-老	草	7	kyomeishusei2015.06064.1
-老	保	7	kyomeishusei2015.06064.1
-棗	海	7	kyomeishusei2015.06064.1
-棗	草	7	kyomeishusei2015.06064.1
-棗	保	7	kyomeishusei2015.06064.1
-海	草	7	kyomeishusei2015.06064.1
-海	保	7	kyomeishusei2015.06064.1
-草	保	7	kyomeishusei2015.06064.1
-好	1	眞大好
-老	1	不知老
-棗	1	汎食棗
-海	1	敖亖海
-草	1	采之草
-保	1	爲國保
-王	1	冝矦王
-好	老	7	kyomeishusei2015.06065.1
-好	棗	7	kyomeishusei2015.06065.1
-好	海	7	kyomeishusei2015.06065.1
-好	草	7	kyomeishusei2015.06065.1
-好	保	7	kyomeishusei2015.06065.1
-好	王	7	kyomeishusei2015.06065.1
-老	棗	7	kyomeishusei2015.06065.1
-老	海	7	kyomeishusei2015.06065.1
-老	草	7	kyomeishusei2015.06065.1
-老	保	7	kyomeishusei2015.06065.1
-老	王	7	kyomeishusei2015.06065.1
-棗	海	7	kyomeishusei2015.06065.1
-棗	草	7	kyomeishusei2015.06065.1
-棗	保	7	kyomeishusei2015.06065.1
-棗	王	7	kyomeishusei2015.06065.1
-海	草	7	kyomeishusei2015.06065.1
-海	保	7	kyomeishusei2015.06065.1
-海	王	7	kyomeishusei2015.06065.1
-草	保	7	kyomeishusei2015.06065.1
-草	王	7	kyomeishusei2015.06065.1
-保	王	7	kyomeishusei2015.06065.1
 巧	1	眞大巧
 老	1	下知老
 棗	1	汎食棗
@@ -32751,34 +28482,6 @@
 巧	老	3	kyomeishusei2015.06070.1
 巧	汎	3	kyomeishusei2015.06070.1
 老	汎	3	kyomeishusei2015.06070.1
-服	1	四夷服
-息	1	人民息
-復	1	天下復
-孰	1	五穀孰
-食	1	＊祿食
-力	1	子孫力
-亟	1	樂無亟
-服	息	7	kyomeishusei2015.06071.1
-服	復	7	kyomeishusei2015.06071.1
-服	孰	7	kyomeishusei2015.06071.1
-服	食	7	kyomeishusei2015.06071.1
-服	力	7	kyomeishusei2015.06071.1
-服	亟	7	kyomeishusei2015.06071.1
-息	復	7	kyomeishusei2015.06071.1
-息	孰	7	kyomeishusei2015.06071.1
-息	食	7	kyomeishusei2015.06071.1
-息	力	7	kyomeishusei2015.06071.1
-息	亟	7	kyomeishusei2015.06071.1
-復	孰	7	kyomeishusei2015.06071.1
-復	食	7	kyomeishusei2015.06071.1
-復	力	7	kyomeishusei2015.06071.1
-復	亟	7	kyomeishusei2015.06071.1
-孰	食	7	kyomeishusei2015.06071.1
-孰	力	7	kyomeishusei2015.06071.1
-孰	亟	7	kyomeishusei2015.06071.1
-食	力	7	kyomeishusei2015.06071.1
-食	亟	7	kyomeishusei2015.06071.1
-力	亟	7	kyomeishusei2015.06071.1
 服	1	亖夷服
 息	1	人民息
 孰	1	五穀孰
@@ -32858,27 +28561,6 @@
 息	1	人民息
 復	1	天下復
 熟	1	五穀熟
-食	1	蒙祿食
-力	1	子孫力
-服	息	6	kyomeishusei2015.06088.1
-服	復	6	kyomeishusei2015.06088.1
-服	熟	6	kyomeishusei2015.06088.1
-服	食	6	kyomeishusei2015.06088.1
-服	力	6	kyomeishusei2015.06088.1
-息	復	6	kyomeishusei2015.06088.1
-息	熟	6	kyomeishusei2015.06088.1
-息	食	6	kyomeishusei2015.06088.1
-息	力	6	kyomeishusei2015.06088.1
-復	熟	6	kyomeishusei2015.06088.1
-復	食	6	kyomeishusei2015.06088.1
-復	力	6	kyomeishusei2015.06088.1
-熟	食	6	kyomeishusei2015.06088.1
-熟	力	6	kyomeishusei2015.06088.1
-食	力	6	kyomeishusei2015.06088.1
-服	1	四夷服
-息	1	人民息
-復	1	天下復
-熟	1	五穀熟
 力	1	得天力
 極	1	樂無極
 服	息	6	kyomeishusei2015.06089.1
@@ -32899,21 +28581,6 @@
 乕	1	右白乕
 武	1	玄武
 乕	武	2	kyomeishusei2015.06090.1
-商	1	□□□商
-皇	1	五帝三皇
-兇	1	黃帝除兇
-武	1	朱鳥玄武
-孫	1	冝子孫
-商	皇	5	kyomeishusei2015.06091.1
-商	兇	5	kyomeishusei2015.06091.1
-商	武	5	kyomeishusei2015.06091.1
-商	孫	5	kyomeishusei2015.06091.1
-皇	兇	5	kyomeishusei2015.06091.1
-皇	武	5	kyomeishusei2015.06091.1
-皇	孫	5	kyomeishusei2015.06091.1
-兇	武	5	kyomeishusei2015.06091.1
-兇	孫	5	kyomeishusei2015.06091.1
-武	孫	5	kyomeishusei2015.06091.1
 好	1	得所好
 壽	1	延年益壽
 好	壽	2	kyomeishusei2015.06092.1
@@ -32956,9 +28623,6 @@
 道	母	3	kyomeishusei2015.06099.1
 道	子	3	kyomeishusei2015.06099.1
 母	子	3	kyomeishusei2015.06099.1
-吉	1	天王日月吉
-字	1	5 方格×1 字
-吉	字	2	kyomeishusei2015.06100.1
 好	1	得所好
 壽	1	延年益壽
 好	壽	2	kyomeishusei2015.06101.1
@@ -33034,34 +28698,6 @@
 復	顯	5	kyomeishusei2015.06108.1
 復	親	5	kyomeishusei2015.06108.1
 顯	親	5	kyomeishusei2015.06108.1
-商	1	幽湅三商
-疆	1	配像萬疆
-見	1	眾神見
-岡	1	銜持維岡
-龍	1	乘雲駕龍
-皇	1	五帝三 皇
-貴	1	常服者富貴
-商	疆	7	kyomeishusei2015.06109.1
-商	見	7	kyomeishusei2015.06109.1
-商	岡	7	kyomeishusei2015.06109.1
-商	龍	7	kyomeishusei2015.06109.1
-商	皇	7	kyomeishusei2015.06109.1
-商	貴	7	kyomeishusei2015.06109.1
-疆	見	7	kyomeishusei2015.06109.1
-疆	岡	7	kyomeishusei2015.06109.1
-疆	龍	7	kyomeishusei2015.06109.1
-疆	皇	7	kyomeishusei2015.06109.1
-疆	貴	7	kyomeishusei2015.06109.1
-見	岡	7	kyomeishusei2015.06109.1
-見	龍	7	kyomeishusei2015.06109.1
-見	皇	7	kyomeishusei2015.06109.1
-見	貴	7	kyomeishusei2015.06109.1
-岡	龍	7	kyomeishusei2015.06109.1
-岡	皇	7	kyomeishusei2015.06109.1
-岡	貴	7	kyomeishusei2015.06109.1
-龍	皇	7	kyomeishusei2015.06109.1
-龍	貴	7	kyomeishusei2015.06109.1
-皇	貴	7	kyomeishusei2015.06109.1
 好	1	佳且好
 道	1	順天道
 母	1	利父母
@@ -33073,34 +28709,6 @@
 道	子	4	kyomeishusei2015.06111.1
 母	子	4	kyomeishusei2015.06111.1
 官	1	君冝高官
-己	1	自有己
-市	1	冝古市
-子	1	冝孫子
-起	1	從是起
-福	1	未福
-凶	1	去凶
-公	1	位至 三公
-己	市	7	kyomeishusei2015.06114.1
-己	子	7	kyomeishusei2015.06114.1
-己	起	7	kyomeishusei2015.06114.1
-己	福	7	kyomeishusei2015.06114.1
-己	凶	7	kyomeishusei2015.06114.1
-己	公	7	kyomeishusei2015.06114.1
-市	子	7	kyomeishusei2015.06114.1
-市	起	7	kyomeishusei2015.06114.1
-市	福	7	kyomeishusei2015.06114.1
-市	凶	7	kyomeishusei2015.06114.1
-市	公	7	kyomeishusei2015.06114.1
-子	起	7	kyomeishusei2015.06114.1
-子	福	7	kyomeishusei2015.06114.1
-子	凶	7	kyomeishusei2015.06114.1
-子	公	7	kyomeishusei2015.06114.1
-起	福	7	kyomeishusei2015.06114.1
-起	凶	7	kyomeishusei2015.06114.1
-起	公	7	kyomeishusei2015.06114.1
-福	凶	7	kyomeishusei2015.06114.1
-福	公	7	kyomeishusei2015.06114.1
-凶	公	7	kyomeishusei2015.06114.1
 商	1	幽湅宮商
 皇	1	五帝天皇
 凶	1	□□除凶
@@ -33116,34 +28724,6 @@
 凶	龍	5	kyomeishusei2015.06116.1
 凶	昌	5	kyomeishusei2015.06116.1
 龍	昌	5	kyomeishusei2015.06116.1
-岡	1	幽湅三岡
-月	1	天王日月
-良	1	敬奉賢良
-倡	1	百牙擧倡
-陽	1	眾華主陽
-昌	1	子孫番 昌
-公	1	士至三公
-岡	月	7	kyomeishusei2015.06117.1
-岡	良	7	kyomeishusei2015.06117.1
-岡	倡	7	kyomeishusei2015.06117.1
-岡	陽	7	kyomeishusei2015.06117.1
-岡	昌	7	kyomeishusei2015.06117.1
-岡	公	7	kyomeishusei2015.06117.1
-月	良	7	kyomeishusei2015.06117.1
-月	倡	7	kyomeishusei2015.06117.1
-月	陽	7	kyomeishusei2015.06117.1
-月	昌	7	kyomeishusei2015.06117.1
-月	公	7	kyomeishusei2015.06117.1
-良	倡	7	kyomeishusei2015.06117.1
-良	陽	7	kyomeishusei2015.06117.1
-良	昌	7	kyomeishusei2015.06117.1
-良	公	7	kyomeishusei2015.06117.1
-倡	陽	7	kyomeishusei2015.06117.1
-倡	昌	7	kyomeishusei2015.06117.1
-倡	公	7	kyomeishusei2015.06117.1
-陽	昌	7	kyomeishusei2015.06117.1
-陽	公	7	kyomeishusei2015.06117.1
-昌	公	7	kyomeishusei2015.06117.1
 富	1	大樂貴富
 食	1	冝酒食
 富	食	2	kyomeishusei2015.06118.1
@@ -33163,9 +28743,6 @@
 老	棗	4	kyomeishusei2015.06123.1
 老	海	4	kyomeishusei2015.06123.1
 棗	海	4	kyomeishusei2015.06123.1
-鏡	1	吾作明鏡
-字	1	以下 48 文字
-鏡	字	2	kyomeishusei2015.06124.1
 日	1	二月四日
 明	1	淸且明
 公	1	位至三公
@@ -33175,27 +28752,6 @@
 父	1	東王父
 子	1	曾子
 父	子	2	kyomeishusei2015.06128.1
-商	1	幽涷宮商
-皇	1	五帝三皇
-兇	1	黃帝除兇
-武	1	朱鳥玄武
-年	1	建安十年
-孫	1	冝子孫
-商	皇	6	kyomeishusei2015.06129.1
-商	兇	6	kyomeishusei2015.06129.1
-商	武	6	kyomeishusei2015.06129.1
-商	年	6	kyomeishusei2015.06129.1
-商	孫	6	kyomeishusei2015.06129.1
-皇	兇	6	kyomeishusei2015.06129.1
-皇	武	6	kyomeishusei2015.06129.1
-皇	年	6	kyomeishusei2015.06129.1
-皇	孫	6	kyomeishusei2015.06129.1
-兇	武	6	kyomeishusei2015.06129.1
-兇	年	6	kyomeishusei2015.06129.1
-兇	孫	6	kyomeishusei2015.06129.1
-武	年	6	kyomeishusei2015.06129.1
-武	孫	6	kyomeishusei2015.06129.1
-年	孫	6	kyomeishusei2015.06129.1
 午	1	五月丙午
 竟	1	造作明竟
 宿	1	上應里宿
@@ -33215,34 +28771,6 @@
 陳	人	4	kyomeishusei2015.06134.1
 陳	善	4	kyomeishusei2015.06134.1
 人	善	4	kyomeishusei2015.06134.1
-尊	1	新家尊
-恩	1	大多恩
-田	1	不財嗇田
-官	1	治校官
-安	1	天下安
-恩	1	得蒙恩
-孫	1	葆 子孫
-尊	恩	7	kyomeishusei2015.06135.1
-尊	田	7	kyomeishusei2015.06135.1
-尊	官	7	kyomeishusei2015.06135.1
-尊	安	7	kyomeishusei2015.06135.1
-尊	恩	7	kyomeishusei2015.06135.1
-尊	孫	7	kyomeishusei2015.06135.1
-恩	田	7	kyomeishusei2015.06135.1
-恩	官	7	kyomeishusei2015.06135.1
-恩	安	7	kyomeishusei2015.06135.1
-恩	恩	7	kyomeishusei2015.06135.1
-恩	孫	7	kyomeishusei2015.06135.1
-田	官	7	kyomeishusei2015.06135.1
-田	安	7	kyomeishusei2015.06135.1
-田	恩	7	kyomeishusei2015.06135.1
-田	孫	7	kyomeishusei2015.06135.1
-官	安	7	kyomeishusei2015.06135.1
-官	恩	7	kyomeishusei2015.06135.1
-官	孫	7	kyomeishusei2015.06135.1
-安	恩	7	kyomeishusei2015.06135.1
-安	孫	7	kyomeishusei2015.06135.1
-恩	孫	7	kyomeishusei2015.06135.1
 鏡	1	作好鏡
 上	1	莊君上
 子	1	及妻子
@@ -33282,96 +28810,6 @@
 陽	老	6	kyomeishusei2015.06138.1
 陽	棗	6	kyomeishusei2015.06138.1
 老	棗	6	kyomeishusei2015.06138.1
-日	1	五月丙午日
-作	1	廣漢造作
-商	1	幽湅三商
-明	1	世得光明
-昌	1	富且昌
-長	1	師命長
-公	1	位至 三公
-母	1	西王母
-矦	1	立至公矦
-日	作	9	kyomeishusei2015.06139.1
-日	商	9	kyomeishusei2015.06139.1
-日	明	9	kyomeishusei2015.06139.1
-日	昌	9	kyomeishusei2015.06139.1
-日	長	9	kyomeishusei2015.06139.1
-日	公	9	kyomeishusei2015.06139.1
-日	母	9	kyomeishusei2015.06139.1
-日	矦	9	kyomeishusei2015.06139.1
-作	商	9	kyomeishusei2015.06139.1
-作	明	9	kyomeishusei2015.06139.1
-作	昌	9	kyomeishusei2015.06139.1
-作	長	9	kyomeishusei2015.06139.1
-作	公	9	kyomeishusei2015.06139.1
-作	母	9	kyomeishusei2015.06139.1
-作	矦	9	kyomeishusei2015.06139.1
-商	明	9	kyomeishusei2015.06139.1
-商	昌	9	kyomeishusei2015.06139.1
-商	長	9	kyomeishusei2015.06139.1
-商	公	9	kyomeishusei2015.06139.1
-商	母	9	kyomeishusei2015.06139.1
-商	矦	9	kyomeishusei2015.06139.1
-明	昌	9	kyomeishusei2015.06139.1
-明	長	9	kyomeishusei2015.06139.1
-明	公	9	kyomeishusei2015.06139.1
-明	母	9	kyomeishusei2015.06139.1
-明	矦	9	kyomeishusei2015.06139.1
-昌	長	9	kyomeishusei2015.06139.1
-昌	公	9	kyomeishusei2015.06139.1
-昌	母	9	kyomeishusei2015.06139.1
-昌	矦	9	kyomeishusei2015.06139.1
-長	公	9	kyomeishusei2015.06139.1
-長	母	9	kyomeishusei2015.06139.1
-長	矦	9	kyomeishusei2015.06139.1
-公	母	9	kyomeishusei2015.06139.1
-公	矦	9	kyomeishusei2015.06139.1
-母	矦	9	kyomeishusei2015.06139.1
-日	1	五月丙午日
-作	1	廣漢造作
-商	1	幽湅三商
-明	1	世得光明
-昌	1	富且昌
-長	1	師命長
-公	1	位至 三公
-母	1	西王母
-矦	1	立至公矦
-日	作	9	kyomeishusei2015.06140.1
-日	商	9	kyomeishusei2015.06140.1
-日	明	9	kyomeishusei2015.06140.1
-日	昌	9	kyomeishusei2015.06140.1
-日	長	9	kyomeishusei2015.06140.1
-日	公	9	kyomeishusei2015.06140.1
-日	母	9	kyomeishusei2015.06140.1
-日	矦	9	kyomeishusei2015.06140.1
-作	商	9	kyomeishusei2015.06140.1
-作	明	9	kyomeishusei2015.06140.1
-作	昌	9	kyomeishusei2015.06140.1
-作	長	9	kyomeishusei2015.06140.1
-作	公	9	kyomeishusei2015.06140.1
-作	母	9	kyomeishusei2015.06140.1
-作	矦	9	kyomeishusei2015.06140.1
-商	明	9	kyomeishusei2015.06140.1
-商	昌	9	kyomeishusei2015.06140.1
-商	長	9	kyomeishusei2015.06140.1
-商	公	9	kyomeishusei2015.06140.1
-商	母	9	kyomeishusei2015.06140.1
-商	矦	9	kyomeishusei2015.06140.1
-明	昌	9	kyomeishusei2015.06140.1
-明	長	9	kyomeishusei2015.06140.1
-明	公	9	kyomeishusei2015.06140.1
-明	母	9	kyomeishusei2015.06140.1
-明	矦	9	kyomeishusei2015.06140.1
-昌	長	9	kyomeishusei2015.06140.1
-昌	公	9	kyomeishusei2015.06140.1
-昌	母	9	kyomeishusei2015.06140.1
-昌	矦	9	kyomeishusei2015.06140.1
-長	公	9	kyomeishusei2015.06140.1
-長	母	9	kyomeishusei2015.06140.1
-長	矦	9	kyomeishusei2015.06140.1
-公	母	9	kyomeishusei2015.06140.1
-公	矦	9	kyomeishusei2015.06140.1
-母	矦	9	kyomeishusei2015.06140.1
 年	1	元興元年
 午	1	五月壬午
 年	午	2	kyomeishusei2015.06141.1
@@ -33426,63 +28864,6 @@
 孫	父	4	kyomeishusei2015.06150.1
 孫	石	4	kyomeishusei2015.06150.1
 父	石	4	kyomeishusei2015.06150.1
-日	1	正月丙午日
-作	1	早作
-昌	1	買者大富且昌
-長	1	延壽命長
-母	1	西王母
-矦	1	立至公矦
-日	作	6	kyomeishusei2015.06151.1
-日	昌	6	kyomeishusei2015.06151.1
-日	長	6	kyomeishusei2015.06151.1
-日	母	6	kyomeishusei2015.06151.1
-日	矦	6	kyomeishusei2015.06151.1
-作	昌	6	kyomeishusei2015.06151.1
-作	長	6	kyomeishusei2015.06151.1
-作	母	6	kyomeishusei2015.06151.1
-作	矦	6	kyomeishusei2015.06151.1
-昌	長	6	kyomeishusei2015.06151.1
-昌	母	6	kyomeishusei2015.06151.1
-昌	矦	6	kyomeishusei2015.06151.1
-長	母	6	kyomeishusei2015.06151.1
-長	矦	6	kyomeishusei2015.06151.1
-母	矦	6	kyomeishusei2015.06151.1
-午	1	正月廿七丙午
-方	1	自有方
-光	1	復多光
-昌	1	家富昌
-王	1	爲矦王
-長	1	壽命長
-央	1	樂 來央
-央	1	樂未央
-午	方	8	kyomeishusei2015.06152.1
-午	光	8	kyomeishusei2015.06152.1
-午	昌	8	kyomeishusei2015.06152.1
-午	王	8	kyomeishusei2015.06152.1
-午	長	8	kyomeishusei2015.06152.1
-午	央	8	kyomeishusei2015.06152.1
-午	央	8	kyomeishusei2015.06152.1
-方	光	8	kyomeishusei2015.06152.1
-方	昌	8	kyomeishusei2015.06152.1
-方	王	8	kyomeishusei2015.06152.1
-方	長	8	kyomeishusei2015.06152.1
-方	央	8	kyomeishusei2015.06152.1
-方	央	8	kyomeishusei2015.06152.1
-光	昌	8	kyomeishusei2015.06152.1
-光	王	8	kyomeishusei2015.06152.1
-光	長	8	kyomeishusei2015.06152.1
-光	央	8	kyomeishusei2015.06152.1
-光	央	8	kyomeishusei2015.06152.1
-昌	王	8	kyomeishusei2015.06152.1
-昌	長	8	kyomeishusei2015.06152.1
-昌	央	8	kyomeishusei2015.06152.1
-昌	央	8	kyomeishusei2015.06152.1
-王	長	8	kyomeishusei2015.06152.1
-王	央	8	kyomeishusei2015.06152.1
-王	央	8	kyomeishusei2015.06152.1
-長	央	8	kyomeishusei2015.06152.1
-長	央	8	kyomeishusei2015.06152.1
-央	央	8	kyomeishusei2015.06152.1
 年	1	熹平元年
 午	1	正月丙午
 竟	1	尙方明竟兮
@@ -33536,42 +28917,6 @@
 壽	市	5	kyomeishusei2015.06156.1
 王	市	5	kyomeishusei2015.06156.1
 日	1	四月十二日
-日	1	正月丙午日
-羊	1	幽湅三羊
-羊	1	除去不羊
-父	1	東王父
-女	1	仙人玉女
-竟	1	長吏買竟
-竟	1	古人 買竟
-吉	1	大吉
-日	羊	8	kyomeishusei2015.06158.1
-日	羊	8	kyomeishusei2015.06158.1
-日	父	8	kyomeishusei2015.06158.1
-日	女	8	kyomeishusei2015.06158.1
-日	竟	8	kyomeishusei2015.06158.1
-日	竟	8	kyomeishusei2015.06158.1
-日	吉	8	kyomeishusei2015.06158.1
-羊	羊	8	kyomeishusei2015.06158.1
-羊	父	8	kyomeishusei2015.06158.1
-羊	女	8	kyomeishusei2015.06158.1
-羊	竟	8	kyomeishusei2015.06158.1
-羊	竟	8	kyomeishusei2015.06158.1
-羊	吉	8	kyomeishusei2015.06158.1
-羊	父	8	kyomeishusei2015.06158.1
-羊	女	8	kyomeishusei2015.06158.1
-羊	竟	8	kyomeishusei2015.06158.1
-羊	竟	8	kyomeishusei2015.06158.1
-羊	吉	8	kyomeishusei2015.06158.1
-父	女	8	kyomeishusei2015.06158.1
-父	竟	8	kyomeishusei2015.06158.1
-父	竟	8	kyomeishusei2015.06158.1
-父	吉	8	kyomeishusei2015.06158.1
-女	竟	8	kyomeishusei2015.06158.1
-女	竟	8	kyomeishusei2015.06158.1
-女	吉	8	kyomeishusei2015.06158.1
-竟	竟	8	kyomeishusei2015.06158.1
-竟	吉	8	kyomeishusei2015.06158.1
-竟	吉	8	kyomeishusei2015.06158.1
 竟	1	吾作明竟
 象	1	周刻容象
 琴	1	白牙單琴
@@ -33705,16 +29050,6 @@
 至	命	6	kyomeishusei2015.06174.1
 至	衆	6	kyomeishusei2015.06174.1
 命	衆	6	kyomeishusei2015.06174.1
-朔	1	六月辛巳朔
-竟	1	吾作明竟
-貴	1	豪富日貴
-壽	1	長生之壽
-朔	竟	4	kyomeishusei2015.06175.1
-朔	貴	4	kyomeishusei2015.06175.1
-朔	壽	4	kyomeishusei2015.06175.1
-竟	貴	4	kyomeishusei2015.06175.1
-竟	壽	4	kyomeishusei2015.06175.1
-貴	壽	4	kyomeishusei2015.06175.1
 日	1	十月三日
 商	1	幽湅三商
 公	1	高遷三公
@@ -33725,16 +29060,6 @@
 商	公	4	kyomeishusei2015.06176.1
 商	吉	4	kyomeishusei2015.06176.1
 公	吉	4	kyomeishusei2015.06176.1
-朔	1	二月辛丑朔
-章	1	玄(?)湅章
-言	1	淸不可言
-石	1	高昇二(?)千(?)石
-朔	章	4	kyomeishusei2015.06177.1
-朔	言	4	kyomeishusei2015.06177.1
-朔	石	4	kyomeishusei2015.06177.1
-章	言	4	kyomeishusei2015.06177.1
-章	石	4	kyomeishusei2015.06177.1
-言	石	4	kyomeishusei2015.06177.1
 子	1	五月壬子
 三	1	造作三
 矦	1	宜王且矦
@@ -34205,108 +29530,6 @@
 日	明	3	kyomeishusei2015.06282.1
 日	公	3	kyomeishusei2015.06282.1
 明	公	3	kyomeishusei2015.06282.1
-日	1	正月丙午日
-羊	1	幽湅三羊
-羊	1	除去不羊
-父	1	東王父
-女	1	仙人玉女
-竟	1	長吏買竟
-竟	1	古人 買竟
-吉	1	大吉
-日	羊	8	kyomeishusei2015.06283.1
-日	羊	8	kyomeishusei2015.06283.1
-日	父	8	kyomeishusei2015.06283.1
-日	女	8	kyomeishusei2015.06283.1
-日	竟	8	kyomeishusei2015.06283.1
-日	竟	8	kyomeishusei2015.06283.1
-日	吉	8	kyomeishusei2015.06283.1
-羊	羊	8	kyomeishusei2015.06283.1
-羊	父	8	kyomeishusei2015.06283.1
-羊	女	8	kyomeishusei2015.06283.1
-羊	竟	8	kyomeishusei2015.06283.1
-羊	竟	8	kyomeishusei2015.06283.1
-羊	吉	8	kyomeishusei2015.06283.1
-羊	父	8	kyomeishusei2015.06283.1
-羊	女	8	kyomeishusei2015.06283.1
-羊	竟	8	kyomeishusei2015.06283.1
-羊	竟	8	kyomeishusei2015.06283.1
-羊	吉	8	kyomeishusei2015.06283.1
-父	女	8	kyomeishusei2015.06283.1
-父	竟	8	kyomeishusei2015.06283.1
-父	竟	8	kyomeishusei2015.06283.1
-父	吉	8	kyomeishusei2015.06283.1
-女	竟	8	kyomeishusei2015.06283.1
-女	竟	8	kyomeishusei2015.06283.1
-女	吉	8	kyomeishusei2015.06283.1
-竟	竟	8	kyomeishusei2015.06283.1
-竟	吉	8	kyomeishusei2015.06283.1
-竟	吉	8	kyomeishusei2015.06283.1
-日	1	五月丙午日
-作	1	廣漢造作
-商	1	幽湅三商
-明	1	世得光明
-昌	1	富且昌
-長	1	師命長
-公	1	位至 三公
-母	1	西王母
-矦	1	立至公矦
-日	作	9	kyomeishusei2015.06284.1
-日	商	9	kyomeishusei2015.06284.1
-日	明	9	kyomeishusei2015.06284.1
-日	昌	9	kyomeishusei2015.06284.1
-日	長	9	kyomeishusei2015.06284.1
-日	公	9	kyomeishusei2015.06284.1
-日	母	9	kyomeishusei2015.06284.1
-日	矦	9	kyomeishusei2015.06284.1
-作	商	9	kyomeishusei2015.06284.1
-作	明	9	kyomeishusei2015.06284.1
-作	昌	9	kyomeishusei2015.06284.1
-作	長	9	kyomeishusei2015.06284.1
-作	公	9	kyomeishusei2015.06284.1
-作	母	9	kyomeishusei2015.06284.1
-作	矦	9	kyomeishusei2015.06284.1
-商	明	9	kyomeishusei2015.06284.1
-商	昌	9	kyomeishusei2015.06284.1
-商	長	9	kyomeishusei2015.06284.1
-商	公	9	kyomeishusei2015.06284.1
-商	母	9	kyomeishusei2015.06284.1
-商	矦	9	kyomeishusei2015.06284.1
-明	昌	9	kyomeishusei2015.06284.1
-明	長	9	kyomeishusei2015.06284.1
-明	公	9	kyomeishusei2015.06284.1
-明	母	9	kyomeishusei2015.06284.1
-明	矦	9	kyomeishusei2015.06284.1
-昌	長	9	kyomeishusei2015.06284.1
-昌	公	9	kyomeishusei2015.06284.1
-昌	母	9	kyomeishusei2015.06284.1
-昌	矦	9	kyomeishusei2015.06284.1
-長	公	9	kyomeishusei2015.06284.1
-長	母	9	kyomeishusei2015.06284.1
-長	矦	9	kyomeishusei2015.06284.1
-公	母	9	kyomeishusei2015.06284.1
-公	矦	9	kyomeishusei2015.06284.1
-母	矦	9	kyomeishusei2015.06284.1
-日	1	正月丙午日
-作	1	早作
-昌	1	買者大富且昌
-長	1	延壽命長
-母	1	西王母
-矦	1	立至公矦
-日	作	6	kyomeishusei2015.06285.1
-日	昌	6	kyomeishusei2015.06285.1
-日	長	6	kyomeishusei2015.06285.1
-日	母	6	kyomeishusei2015.06285.1
-日	矦	6	kyomeishusei2015.06285.1
-作	昌	6	kyomeishusei2015.06285.1
-作	長	6	kyomeishusei2015.06285.1
-作	母	6	kyomeishusei2015.06285.1
-作	矦	6	kyomeishusei2015.06285.1
-昌	長	6	kyomeishusei2015.06285.1
-昌	母	6	kyomeishusei2015.06285.1
-昌	矦	6	kyomeishusei2015.06285.1
-長	母	6	kyomeishusei2015.06285.1
-長	矦	6	kyomeishusei2015.06285.1
-母	矦	6	kyomeishusei2015.06285.1
 午	1	正月丙午
 竟	1	尙方明竟兮
 亟	1	州刻無亟
@@ -34550,27 +29773,6 @@
 商	人	4	kyomeishusei2015.06308.1
 商	公	4	kyomeishusei2015.06308.1
 人	公	4	kyomeishusei2015.06308.1
-朔	1	四戊午朔
-千	1	一千也
-仙	1	千萬年長仙
-羊	1	吉羊
-馬	1	家有 五馬
-貴	1	□女子具富貴
-朔	千	6	kyomeishusei2015.06309.1
-朔	仙	6	kyomeishusei2015.06309.1
-朔	羊	6	kyomeishusei2015.06309.1
-朔	馬	6	kyomeishusei2015.06309.1
-朔	貴	6	kyomeishusei2015.06309.1
-千	仙	6	kyomeishusei2015.06309.1
-千	羊	6	kyomeishusei2015.06309.1
-千	馬	6	kyomeishusei2015.06309.1
-千	貴	6	kyomeishusei2015.06309.1
-仙	羊	6	kyomeishusei2015.06309.1
-仙	馬	6	kyomeishusei2015.06309.1
-仙	貴	6	kyomeishusei2015.06309.1
-羊	馬	6	kyomeishusei2015.06309.1
-羊	貴	6	kyomeishusei2015.06309.1
-馬	貴	6	kyomeishusei2015.06309.1
 朔	1	五月丁巳朔
 竟	1	造作明竟
 千	1	牛羊有千
@@ -34960,55 +30162,6 @@
 好	老	3	kyomeishusei2015.06377.1
 好	棗	3	kyomeishusei2015.06377.1
 老	棗	3	kyomeishusei2015.06377.1
-陽	1	出丹陽
-明	1	淸且明
-彭	1	主四彭
-陽	1	順陰陽
-央	1	治中央
-人	1	見神人
-全	1	飮禮全
-陽	明	7	kyomeishusei2015.06378.1
-陽	彭	7	kyomeishusei2015.06378.1
-陽	陽	7	kyomeishusei2015.06378.1
-陽	央	7	kyomeishusei2015.06378.1
-陽	人	7	kyomeishusei2015.06378.1
-陽	全	7	kyomeishusei2015.06378.1
-明	彭	7	kyomeishusei2015.06378.1
-明	陽	7	kyomeishusei2015.06378.1
-明	央	7	kyomeishusei2015.06378.1
-明	人	7	kyomeishusei2015.06378.1
-明	全	7	kyomeishusei2015.06378.1
-彭	陽	7	kyomeishusei2015.06378.1
-彭	央	7	kyomeishusei2015.06378.1
-彭	人	7	kyomeishusei2015.06378.1
-彭	全	7	kyomeishusei2015.06378.1
-陽	央	7	kyomeishusei2015.06378.1
-陽	人	7	kyomeishusei2015.06378.1
-陽	全	7	kyomeishusei2015.06378.1
-央	人	7	kyomeishusei2015.06378.1
-央	全	7	kyomeishusei2015.06378.1
-人	全	7	kyomeishusei2015.06378.1
-好	1	眞大好
-葆	1	長相葆
-老	1	不知老
-棗	1	飢食棗
-海	1	＊2 四海
-葆	1	爲國葆
-好	葆	6	kyomeishusei2015.06379.1
-好	老	6	kyomeishusei2015.06379.1
-好	棗	6	kyomeishusei2015.06379.1
-好	海	6	kyomeishusei2015.06379.1
-好	葆	6	kyomeishusei2015.06379.1
-葆	老	6	kyomeishusei2015.06379.1
-葆	棗	6	kyomeishusei2015.06379.1
-葆	海	6	kyomeishusei2015.06379.1
-葆	葆	6	kyomeishusei2015.06379.1
-老	棗	6	kyomeishusei2015.06379.1
-老	海	6	kyomeishusei2015.06379.1
-老	葆	6	kyomeishusei2015.06379.1
-棗	海	6	kyomeishusei2015.06379.1
-棗	葆	6	kyomeishusei2015.06379.1
-海	葆	6	kyomeishusei2015.06379.1
 陽	1	出丹陽
 明	1	靑且明
 彭	1	主亖彭
@@ -35504,34 +30657,6 @@
 人	1	玉女四山人
 母	1	天馬王母
 人	母	2	kyomeishusei2015.06427.1
-商	1	幽凍三商
-道	1	統德序道
-極	1	銅克無極
-陽	1	衆華主陽
-樂	1	富貴安樂
-連	1	學者高連
-長	1	其師命長
-商	道	7	kyomeishusei2015.06428.1
-商	極	7	kyomeishusei2015.06428.1
-商	陽	7	kyomeishusei2015.06428.1
-商	樂	7	kyomeishusei2015.06428.1
-商	連	7	kyomeishusei2015.06428.1
-商	長	7	kyomeishusei2015.06428.1
-道	極	7	kyomeishusei2015.06428.1
-道	陽	7	kyomeishusei2015.06428.1
-道	樂	7	kyomeishusei2015.06428.1
-道	連	7	kyomeishusei2015.06428.1
-道	長	7	kyomeishusei2015.06428.1
-極	陽	7	kyomeishusei2015.06428.1
-極	樂	7	kyomeishusei2015.06428.1
-極	連	7	kyomeishusei2015.06428.1
-極	長	7	kyomeishusei2015.06428.1
-陽	樂	7	kyomeishusei2015.06428.1
-陽	連	7	kyomeishusei2015.06428.1
-陽	長	7	kyomeishusei2015.06428.1
-樂	連	7	kyomeishusei2015.06428.1
-樂	長	7	kyomeishusei2015.06428.1
-連	長	7	kyomeishusei2015.06428.1
 商	1	幽湅三商
 萬	1	配像萬
 衆	1	天禽見衆
@@ -35614,34 +30739,6 @@
 從	存	5	kyomeishusei2015.06437.1
 從	昌	5	kyomeishusei2015.06437.1
 存	昌	5	kyomeishusei2015.06437.1
-商	1	幽湅三商
-道	1	統德序道
-極	1	雕刻無極
-樂	1	白牙擧樂
-連	1	學者高連
-樂	1	富貴安樂
-長	1	其師命長
-商	道	7	kyomeishusei2015.06438.1
-商	極	7	kyomeishusei2015.06438.1
-商	樂	7	kyomeishusei2015.06438.1
-商	連	7	kyomeishusei2015.06438.1
-商	樂	7	kyomeishusei2015.06438.1
-商	長	7	kyomeishusei2015.06438.1
-道	極	7	kyomeishusei2015.06438.1
-道	樂	7	kyomeishusei2015.06438.1
-道	連	7	kyomeishusei2015.06438.1
-道	樂	7	kyomeishusei2015.06438.1
-道	長	7	kyomeishusei2015.06438.1
-極	樂	7	kyomeishusei2015.06438.1
-極	連	7	kyomeishusei2015.06438.1
-極	樂	7	kyomeishusei2015.06438.1
-極	長	7	kyomeishusei2015.06438.1
-樂	連	7	kyomeishusei2015.06438.1
-樂	樂	7	kyomeishusei2015.06438.1
-樂	長	7	kyomeishusei2015.06438.1
-連	樂	7	kyomeishusei2015.06438.1
-連	長	7	kyomeishusei2015.06438.1
-樂	長	7	kyomeishusei2015.06438.1
 商	1	幽湅三商
 富	1	君宜大吉富
 商	富	2	kyomeishusei2015.06440.1
@@ -35895,7 +30992,6 @@
 患	驩	5	kyomeishusei2015.06469.1
 患	然	5	kyomeishusei2015.06469.1
 驩	然	5	kyomeishusei2015.06469.1
-所	1	大泉五十ｘ2 箇所
 泉	1	身萬泉
 觀	1	好可觀
 歡	1	心意歡
@@ -36286,90 +31382,9 @@
 昌	長	5	kyomeishusei2015.06506.1
 昌	至	5	kyomeishusei2015.06506.1
 長	至	5	kyomeishusei2015.06506.1
-需	1	樂衆侏需
-使	1	興倚高使
-倡	1	大富倡
-字	1	有千馬萬頭羊8 方格×4 字
-需	使	4	kyomeishusei2015.06507.1
-需	倡	4	kyomeishusei2015.06507.1
-需	字	4	kyomeishusei2015.06507.1
-使	倡	4	kyomeishusei2015.06507.1
-使	字	4	kyomeishusei2015.06507.1
-倡	字	4	kyomeishusei2015.06507.1
-岡	1	幽湅三岡
-道	1	統德序道
-秋	1	□□□秋
-陽	1	＊業主陽
-樂	1	富貴安樂
-遷	1	服者高遷
-字	1	其師命長14 方格×4 字
-岡	道	7	kyomeishusei2015.06508.1
-岡	秋	7	kyomeishusei2015.06508.1
-岡	陽	7	kyomeishusei2015.06508.1
-岡	樂	7	kyomeishusei2015.06508.1
-岡	遷	7	kyomeishusei2015.06508.1
-岡	字	7	kyomeishusei2015.06508.1
-道	秋	7	kyomeishusei2015.06508.1
-道	陽	7	kyomeishusei2015.06508.1
-道	樂	7	kyomeishusei2015.06508.1
-道	遷	7	kyomeishusei2015.06508.1
-道	字	7	kyomeishusei2015.06508.1
-秋	陽	7	kyomeishusei2015.06508.1
-秋	樂	7	kyomeishusei2015.06508.1
-秋	遷	7	kyomeishusei2015.06508.1
-秋	字	7	kyomeishusei2015.06508.1
-陽	樂	7	kyomeishusei2015.06508.1
-陽	遷	7	kyomeishusei2015.06508.1
-陽	字	7	kyomeishusei2015.06508.1
-樂	遷	7	kyomeishusei2015.06508.1
-樂	字	7	kyomeishusei2015.06508.1
-遷	字	7	kyomeishusei2015.06508.1
-商	1	幽湅三商
-道	1	統德序道
-極	1	雕刻無極
-卿	1	士至公卿
-字	1	其師命長10 方格×4 字
-商	道	5	kyomeishusei2015.06511.1
-商	極	5	kyomeishusei2015.06511.1
-商	卿	5	kyomeishusei2015.06511.1
-商	字	5	kyomeishusei2015.06511.1
-道	極	5	kyomeishusei2015.06511.1
-道	卿	5	kyomeishusei2015.06511.1
-道	字	5	kyomeishusei2015.06511.1
-極	卿	5	kyomeishusei2015.06511.1
-極	字	5	kyomeishusei2015.06511.1
-卿	字	5	kyomeishusei2015.06511.1
 月	1	天王日月
 格	1	×１２方格
 月	格	2	kyomeishusei2015.06512.1
-商	1	幽湅三商
-張	1	大容□張
-疆	1	周刻萬疆
-容	1	衆神見容
-皇	1	俸持三皇
-從	1	福祿見從
-字	1	其師命長14 方格×4 字
-商	張	7	kyomeishusei2015.06513.1
-商	疆	7	kyomeishusei2015.06513.1
-商	容	7	kyomeishusei2015.06513.1
-商	皇	7	kyomeishusei2015.06513.1
-商	從	7	kyomeishusei2015.06513.1
-商	字	7	kyomeishusei2015.06513.1
-張	疆	7	kyomeishusei2015.06513.1
-張	容	7	kyomeishusei2015.06513.1
-張	皇	7	kyomeishusei2015.06513.1
-張	從	7	kyomeishusei2015.06513.1
-張	字	7	kyomeishusei2015.06513.1
-疆	容	7	kyomeishusei2015.06513.1
-疆	皇	7	kyomeishusei2015.06513.1
-疆	從	7	kyomeishusei2015.06513.1
-疆	字	7	kyomeishusei2015.06513.1
-容	皇	7	kyomeishusei2015.06513.1
-容	從	7	kyomeishusei2015.06513.1
-容	字	7	kyomeishusei2015.06513.1
-皇	從	7	kyomeishusei2015.06513.1
-皇	字	7	kyomeishusei2015.06513.1
-從	字	7	kyomeishusei2015.06513.1
 官	1	君宜高官
 公	1	位到三公
 官	公	2	kyomeishusei2015.06514.1
@@ -36403,156 +31418,6 @@
 龍	王	6	kyomeishusei2015.06517.1
 龍	祥	6	kyomeishusei2015.06517.1
 王	祥	6	kyomeishusei2015.06517.1
-雙	1	好絜少雙
-疆	1	悉圇萬疆
-央	1	正在中央
-明	1	燕處雲明
-方	1	威伏四方
-行	1	還緩而行
-龍	1	參賀神龍
-皇	1	上古三皇
-邪	1	蚩尤辟邪
-長	1	爲者命長
-央	1	喜訴未央
-卿	1	士宦公卿
-雙	疆	12	kyomeishusei2015.06519.1
-雙	央	12	kyomeishusei2015.06519.1
-雙	明	12	kyomeishusei2015.06519.1
-雙	方	12	kyomeishusei2015.06519.1
-雙	行	12	kyomeishusei2015.06519.1
-雙	龍	12	kyomeishusei2015.06519.1
-雙	皇	12	kyomeishusei2015.06519.1
-雙	邪	12	kyomeishusei2015.06519.1
-雙	長	12	kyomeishusei2015.06519.1
-雙	央	12	kyomeishusei2015.06519.1
-雙	卿	12	kyomeishusei2015.06519.1
-疆	央	12	kyomeishusei2015.06519.1
-疆	明	12	kyomeishusei2015.06519.1
-疆	方	12	kyomeishusei2015.06519.1
-疆	行	12	kyomeishusei2015.06519.1
-疆	龍	12	kyomeishusei2015.06519.1
-疆	皇	12	kyomeishusei2015.06519.1
-疆	邪	12	kyomeishusei2015.06519.1
-疆	長	12	kyomeishusei2015.06519.1
-疆	央	12	kyomeishusei2015.06519.1
-疆	卿	12	kyomeishusei2015.06519.1
-央	明	12	kyomeishusei2015.06519.1
-央	方	12	kyomeishusei2015.06519.1
-央	行	12	kyomeishusei2015.06519.1
-央	龍	12	kyomeishusei2015.06519.1
-央	皇	12	kyomeishusei2015.06519.1
-央	邪	12	kyomeishusei2015.06519.1
-央	長	12	kyomeishusei2015.06519.1
-央	央	12	kyomeishusei2015.06519.1
-央	卿	12	kyomeishusei2015.06519.1
-明	方	12	kyomeishusei2015.06519.1
-明	行	12	kyomeishusei2015.06519.1
-明	龍	12	kyomeishusei2015.06519.1
-明	皇	12	kyomeishusei2015.06519.1
-明	邪	12	kyomeishusei2015.06519.1
-明	長	12	kyomeishusei2015.06519.1
-明	央	12	kyomeishusei2015.06519.1
-明	卿	12	kyomeishusei2015.06519.1
-方	行	12	kyomeishusei2015.06519.1
-方	龍	12	kyomeishusei2015.06519.1
-方	皇	12	kyomeishusei2015.06519.1
-方	邪	12	kyomeishusei2015.06519.1
-方	長	12	kyomeishusei2015.06519.1
-方	央	12	kyomeishusei2015.06519.1
-方	卿	12	kyomeishusei2015.06519.1
-行	龍	12	kyomeishusei2015.06519.1
-行	皇	12	kyomeishusei2015.06519.1
-行	邪	12	kyomeishusei2015.06519.1
-行	長	12	kyomeishusei2015.06519.1
-行	央	12	kyomeishusei2015.06519.1
-行	卿	12	kyomeishusei2015.06519.1
-龍	皇	12	kyomeishusei2015.06519.1
-龍	邪	12	kyomeishusei2015.06519.1
-龍	長	12	kyomeishusei2015.06519.1
-龍	央	12	kyomeishusei2015.06519.1
-龍	卿	12	kyomeishusei2015.06519.1
-皇	邪	12	kyomeishusei2015.06519.1
-皇	長	12	kyomeishusei2015.06519.1
-皇	央	12	kyomeishusei2015.06519.1
-皇	卿	12	kyomeishusei2015.06519.1
-邪	長	12	kyomeishusei2015.06519.1
-邪	央	12	kyomeishusei2015.06519.1
-邪	卿	12	kyomeishusei2015.06519.1
-長	央	12	kyomeishusei2015.06519.1
-長	卿	12	kyomeishusei2015.06519.1
-央	卿	12	kyomeishusei2015.06519.1
-商	1	幽湅三商
-疆	1	配像萬疆
-容	1	衆神見容
-剛	1	銜持維剛
-龍	1	乘雲駕龍
-皇	1	五帝三皇
-寧	1	富貴安寧
-壽	1	曾年益壽
-商	疆	8	kyomeishusei2015.06522.1
-商	容	8	kyomeishusei2015.06522.1
-商	剛	8	kyomeishusei2015.06522.1
-商	龍	8	kyomeishusei2015.06522.1
-商	皇	8	kyomeishusei2015.06522.1
-商	寧	8	kyomeishusei2015.06522.1
-商	壽	8	kyomeishusei2015.06522.1
-疆	容	8	kyomeishusei2015.06522.1
-疆	剛	8	kyomeishusei2015.06522.1
-疆	龍	8	kyomeishusei2015.06522.1
-疆	皇	8	kyomeishusei2015.06522.1
-疆	寧	8	kyomeishusei2015.06522.1
-疆	壽	8	kyomeishusei2015.06522.1
-容	剛	8	kyomeishusei2015.06522.1
-容	龍	8	kyomeishusei2015.06522.1
-容	皇	8	kyomeishusei2015.06522.1
-容	寧	8	kyomeishusei2015.06522.1
-容	壽	8	kyomeishusei2015.06522.1
-剛	龍	8	kyomeishusei2015.06522.1
-剛	皇	8	kyomeishusei2015.06522.1
-剛	寧	8	kyomeishusei2015.06522.1
-剛	壽	8	kyomeishusei2015.06522.1
-龍	皇	8	kyomeishusei2015.06522.1
-龍	寧	8	kyomeishusei2015.06522.1
-龍	壽	8	kyomeishusei2015.06522.1
-皇	寧	8	kyomeishusei2015.06522.1
-皇	壽	8	kyomeishusei2015.06522.1
-寧	壽	8	kyomeishusei2015.06522.1
-常	1	變易俗常
-疆	1	悉圇萬疆
-殃	1	丞福除殃
-龍	1	參駕神龍
-邪	1	蚩尤辟邪
-凶	1	以怯各凶
-昌	1	爲者富昌
-同	1	豫天地同
-常	疆	8	kyomeishusei2015.06523.1
-常	殃	8	kyomeishusei2015.06523.1
-常	龍	8	kyomeishusei2015.06523.1
-常	邪	8	kyomeishusei2015.06523.1
-常	凶	8	kyomeishusei2015.06523.1
-常	昌	8	kyomeishusei2015.06523.1
-常	同	8	kyomeishusei2015.06523.1
-疆	殃	8	kyomeishusei2015.06523.1
-疆	龍	8	kyomeishusei2015.06523.1
-疆	邪	8	kyomeishusei2015.06523.1
-疆	凶	8	kyomeishusei2015.06523.1
-疆	昌	8	kyomeishusei2015.06523.1
-疆	同	8	kyomeishusei2015.06523.1
-殃	龍	8	kyomeishusei2015.06523.1
-殃	邪	8	kyomeishusei2015.06523.1
-殃	凶	8	kyomeishusei2015.06523.1
-殃	昌	8	kyomeishusei2015.06523.1
-殃	同	8	kyomeishusei2015.06523.1
-龍	邪	8	kyomeishusei2015.06523.1
-龍	凶	8	kyomeishusei2015.06523.1
-龍	昌	8	kyomeishusei2015.06523.1
-龍	同	8	kyomeishusei2015.06523.1
-邪	凶	8	kyomeishusei2015.06523.1
-邪	昌	8	kyomeishusei2015.06523.1
-邪	同	8	kyomeishusei2015.06523.1
-凶	昌	8	kyomeishusei2015.06523.1
-凶	同	8	kyomeishusei2015.06523.1
-昌	同	8	kyomeishusei2015.06523.1
 服	1	四夷服
 食	1	蒙祿食
 孰	1	五穀孰
@@ -36621,51 +31486,6 @@
 母	公	3	kyomeishusei2015.06528.1
 母	倡	3	kyomeishusei2015.06528.1
 公	倡	3	kyomeishusei2015.06528.1
-陽	1	出丹陽
-明	1	淸且明
-章	1	成文章
-鏡	1	作鏡
-家	1	多賀國家
-滅	1	胡虜殄滅
-節	1	風雨時節
-親	1	長保二親
-世	1	傳告後世
-陽	明	9	kyomeishusei2015.06530.1
-陽	章	9	kyomeishusei2015.06530.1
-陽	鏡	9	kyomeishusei2015.06530.1
-陽	家	9	kyomeishusei2015.06530.1
-陽	滅	9	kyomeishusei2015.06530.1
-陽	節	9	kyomeishusei2015.06530.1
-陽	親	9	kyomeishusei2015.06530.1
-陽	世	9	kyomeishusei2015.06530.1
-明	章	9	kyomeishusei2015.06530.1
-明	鏡	9	kyomeishusei2015.06530.1
-明	家	9	kyomeishusei2015.06530.1
-明	滅	9	kyomeishusei2015.06530.1
-明	節	9	kyomeishusei2015.06530.1
-明	親	9	kyomeishusei2015.06530.1
-明	世	9	kyomeishusei2015.06530.1
-章	鏡	9	kyomeishusei2015.06530.1
-章	家	9	kyomeishusei2015.06530.1
-章	滅	9	kyomeishusei2015.06530.1
-章	節	9	kyomeishusei2015.06530.1
-章	親	9	kyomeishusei2015.06530.1
-章	世	9	kyomeishusei2015.06530.1
-鏡	家	9	kyomeishusei2015.06530.1
-鏡	滅	9	kyomeishusei2015.06530.1
-鏡	節	9	kyomeishusei2015.06530.1
-鏡	親	9	kyomeishusei2015.06530.1
-鏡	世	9	kyomeishusei2015.06530.1
-家	滅	9	kyomeishusei2015.06530.1
-家	節	9	kyomeishusei2015.06530.1
-家	親	9	kyomeishusei2015.06530.1
-家	世	9	kyomeishusei2015.06530.1
-滅	節	9	kyomeishusei2015.06530.1
-滅	親	9	kyomeishusei2015.06530.1
-滅	世	9	kyomeishusei2015.06530.1
-節	親	9	kyomeishusei2015.06530.1
-節	世	9	kyomeishusei2015.06530.1
-親	世	9	kyomeishusei2015.06530.1
 服	1	四夷服
 息	1	人民息
 復	1	天下復
@@ -36971,84 +31791,6 @@
 極	卿	5	kyomeishusei2015.06577.1
 極	長	5	kyomeishusei2015.06577.1
 卿	長	5	kyomeishusei2015.06577.1
-雙	1	好潔少雙
-疆	1	悉圇萬疆
-央	1	正在中央
-明	1	燕處雲明
-方	1	威伏四方
-行	1	還緩而行
-龍	1	參賀神龍
-皇	1	上古三皇
-邪	1	癡尤辟邪
-長	1	爲者命長
-央	1	喜訴未央
-卿	1	士 宦公卿
-雙	疆	12	kyomeishusei2015.06578.1
-雙	央	12	kyomeishusei2015.06578.1
-雙	明	12	kyomeishusei2015.06578.1
-雙	方	12	kyomeishusei2015.06578.1
-雙	行	12	kyomeishusei2015.06578.1
-雙	龍	12	kyomeishusei2015.06578.1
-雙	皇	12	kyomeishusei2015.06578.1
-雙	邪	12	kyomeishusei2015.06578.1
-雙	長	12	kyomeishusei2015.06578.1
-雙	央	12	kyomeishusei2015.06578.1
-雙	卿	12	kyomeishusei2015.06578.1
-疆	央	12	kyomeishusei2015.06578.1
-疆	明	12	kyomeishusei2015.06578.1
-疆	方	12	kyomeishusei2015.06578.1
-疆	行	12	kyomeishusei2015.06578.1
-疆	龍	12	kyomeishusei2015.06578.1
-疆	皇	12	kyomeishusei2015.06578.1
-疆	邪	12	kyomeishusei2015.06578.1
-疆	長	12	kyomeishusei2015.06578.1
-疆	央	12	kyomeishusei2015.06578.1
-疆	卿	12	kyomeishusei2015.06578.1
-央	明	12	kyomeishusei2015.06578.1
-央	方	12	kyomeishusei2015.06578.1
-央	行	12	kyomeishusei2015.06578.1
-央	龍	12	kyomeishusei2015.06578.1
-央	皇	12	kyomeishusei2015.06578.1
-央	邪	12	kyomeishusei2015.06578.1
-央	長	12	kyomeishusei2015.06578.1
-央	央	12	kyomeishusei2015.06578.1
-央	卿	12	kyomeishusei2015.06578.1
-明	方	12	kyomeishusei2015.06578.1
-明	行	12	kyomeishusei2015.06578.1
-明	龍	12	kyomeishusei2015.06578.1
-明	皇	12	kyomeishusei2015.06578.1
-明	邪	12	kyomeishusei2015.06578.1
-明	長	12	kyomeishusei2015.06578.1
-明	央	12	kyomeishusei2015.06578.1
-明	卿	12	kyomeishusei2015.06578.1
-方	行	12	kyomeishusei2015.06578.1
-方	龍	12	kyomeishusei2015.06578.1
-方	皇	12	kyomeishusei2015.06578.1
-方	邪	12	kyomeishusei2015.06578.1
-方	長	12	kyomeishusei2015.06578.1
-方	央	12	kyomeishusei2015.06578.1
-方	卿	12	kyomeishusei2015.06578.1
-行	龍	12	kyomeishusei2015.06578.1
-行	皇	12	kyomeishusei2015.06578.1
-行	邪	12	kyomeishusei2015.06578.1
-行	長	12	kyomeishusei2015.06578.1
-行	央	12	kyomeishusei2015.06578.1
-行	卿	12	kyomeishusei2015.06578.1
-龍	皇	12	kyomeishusei2015.06578.1
-龍	邪	12	kyomeishusei2015.06578.1
-龍	長	12	kyomeishusei2015.06578.1
-龍	央	12	kyomeishusei2015.06578.1
-龍	卿	12	kyomeishusei2015.06578.1
-皇	邪	12	kyomeishusei2015.06578.1
-皇	長	12	kyomeishusei2015.06578.1
-皇	央	12	kyomeishusei2015.06578.1
-皇	卿	12	kyomeishusei2015.06578.1
-邪	長	12	kyomeishusei2015.06578.1
-邪	央	12	kyomeishusei2015.06578.1
-邪	卿	12	kyomeishusei2015.06578.1
-長	央	12	kyomeishusei2015.06578.1
-長	卿	12	kyomeishusei2015.06578.1
-央	卿	12	kyomeishusei2015.06578.1
 傷	1	大毋傷
 章	1	成文章
 羊	1	辟不羊
@@ -37245,51 +31987,6 @@
 好	1	眞大好
 老	1	不知老
 棗	1	飢食棗
-草	1	采之草
-海	1	敖亖海
-保	1	爲國保
-王	1	宜矦王
-央	1	式中央
-極	1	樂毋極兮
-好	老	9	kyomeishusei2015.06602.1
-好	棗	9	kyomeishusei2015.06602.1
-好	草	9	kyomeishusei2015.06602.1
-好	海	9	kyomeishusei2015.06602.1
-好	保	9	kyomeishusei2015.06602.1
-好	王	9	kyomeishusei2015.06602.1
-好	央	9	kyomeishusei2015.06602.1
-好	極	9	kyomeishusei2015.06602.1
-老	棗	9	kyomeishusei2015.06602.1
-老	草	9	kyomeishusei2015.06602.1
-老	海	9	kyomeishusei2015.06602.1
-老	保	9	kyomeishusei2015.06602.1
-老	王	9	kyomeishusei2015.06602.1
-老	央	9	kyomeishusei2015.06602.1
-老	極	9	kyomeishusei2015.06602.1
-棗	草	9	kyomeishusei2015.06602.1
-棗	海	9	kyomeishusei2015.06602.1
-棗	保	9	kyomeishusei2015.06602.1
-棗	王	9	kyomeishusei2015.06602.1
-棗	央	9	kyomeishusei2015.06602.1
-棗	極	9	kyomeishusei2015.06602.1
-草	海	9	kyomeishusei2015.06602.1
-草	保	9	kyomeishusei2015.06602.1
-草	王	9	kyomeishusei2015.06602.1
-草	央	9	kyomeishusei2015.06602.1
-草	極	9	kyomeishusei2015.06602.1
-海	保	9	kyomeishusei2015.06602.1
-海	王	9	kyomeishusei2015.06602.1
-海	央	9	kyomeishusei2015.06602.1
-海	極	9	kyomeishusei2015.06602.1
-保	王	9	kyomeishusei2015.06602.1
-保	央	9	kyomeishusei2015.06602.1
-保	極	9	kyomeishusei2015.06602.1
-王	央	9	kyomeishusei2015.06602.1
-王	極	9	kyomeishusei2015.06602.1
-央	極	9	kyomeishusei2015.06602.1
-好	1	眞大好
-老	1	不知老
-棗	1	飢食棗
 海	1	敖亖海
 保	1	如天保
 好	老	5	kyomeishusei2015.06603.1
@@ -37321,27 +32018,6 @@
 觀	連	4	kyomeishusei2015.06606.1
 觀	亥	4	kyomeishusei2015.06606.1
 連	亥	4	kyomeishusei2015.06606.1
-好	1	眞大好
-老	1	不知老
-棗	1	飢食棗
-海	1	敖亖海
-保	1	爲國保
-嫂	1	朝兄嫂
-好	老	6	kyomeishusei2015.06608.1
-好	棗	6	kyomeishusei2015.06608.1
-好	海	6	kyomeishusei2015.06608.1
-好	保	6	kyomeishusei2015.06608.1
-好	嫂	6	kyomeishusei2015.06608.1
-老	棗	6	kyomeishusei2015.06608.1
-老	海	6	kyomeishusei2015.06608.1
-老	保	6	kyomeishusei2015.06608.1
-老	嫂	6	kyomeishusei2015.06608.1
-棗	海	6	kyomeishusei2015.06608.1
-棗	保	6	kyomeishusei2015.06608.1
-棗	嫂	6	kyomeishusei2015.06608.1
-海	保	6	kyomeishusei2015.06608.1
-海	嫂	6	kyomeishusei2015.06608.1
-保	嫂	6	kyomeishusei2015.06608.1
 前	1	日以前
 泉	1	飮澧泉
 雲	1	乘浮雲
@@ -37774,27 +32450,6 @@
 央	1	常樂未央
 忘	1	長無相忘
 央	忘	2	kyomeishusei2015.06665.1
-服	1	四夷服
-息	1	民息
-復	1	天下復
-孰	1	五穀孰
-力	1	子孫力
-食	1	蒙祿食
-服	息	6	kyomeishusei2015.06666.1
-服	復	6	kyomeishusei2015.06666.1
-服	孰	6	kyomeishusei2015.06666.1
-服	力	6	kyomeishusei2015.06666.1
-服	食	6	kyomeishusei2015.06666.1
-息	復	6	kyomeishusei2015.06666.1
-息	孰	6	kyomeishusei2015.06666.1
-息	力	6	kyomeishusei2015.06666.1
-息	食	6	kyomeishusei2015.06666.1
-復	孰	6	kyomeishusei2015.06666.1
-復	力	6	kyomeishusei2015.06666.1
-復	食	6	kyomeishusei2015.06666.1
-孰	力	6	kyomeishusei2015.06666.1
-孰	食	6	kyomeishusei2015.06666.1
-力	食	6	kyomeishusei2015.06666.1
 陽	1	出丹陽
 明	1	淸且明
 彭	1	掌亖彭
@@ -37823,27 +32478,6 @@
 陽	王	5	kyomeishusei2015.06669.1
 陽	央	5	kyomeishusei2015.06669.1
 王	央	5	kyomeishusei2015.06669.1
-巧	1	眞大巧
-老	1	不知老
-草	1	采之草
-棗	1	飢食棗
-海	1	敖四海
-葆	1	爲國葆
-巧	老	6	kyomeishusei2015.06670.1
-巧	草	6	kyomeishusei2015.06670.1
-巧	棗	6	kyomeishusei2015.06670.1
-巧	海	6	kyomeishusei2015.06670.1
-巧	葆	6	kyomeishusei2015.06670.1
-老	草	6	kyomeishusei2015.06670.1
-老	棗	6	kyomeishusei2015.06670.1
-老	海	6	kyomeishusei2015.06670.1
-老	葆	6	kyomeishusei2015.06670.1
-草	棗	6	kyomeishusei2015.06670.1
-草	海	6	kyomeishusei2015.06670.1
-草	葆	6	kyomeishusei2015.06670.1
-棗	海	6	kyomeishusei2015.06670.1
-棗	葆	6	kyomeishusei2015.06670.1
-海	葆	6	kyomeishusei2015.06670.1
 人	1	見仙人
 泉	1	飮澧泉
 雲	1	乘浮雲
@@ -37931,27 +32565,6 @@
 公	1	位至三公
 子	1	大吉宜子
 公	子	2	kyomeishusei2015.06678.1
-日	1	正月丙午日
-作	1	□作
-昌	1	買者大富且昌
-長	1	延壽命長
-母	1	西王母
-矦	1	位至公矦
-日	作	6	kyomeishusei2015.06681.1
-日	昌	6	kyomeishusei2015.06681.1
-日	長	6	kyomeishusei2015.06681.1
-日	母	6	kyomeishusei2015.06681.1
-日	矦	6	kyomeishusei2015.06681.1
-作	昌	6	kyomeishusei2015.06681.1
-作	長	6	kyomeishusei2015.06681.1
-作	母	6	kyomeishusei2015.06681.1
-作	矦	6	kyomeishusei2015.06681.1
-昌	長	6	kyomeishusei2015.06681.1
-昌	母	6	kyomeishusei2015.06681.1
-昌	矦	6	kyomeishusei2015.06681.1
-長	母	6	kyomeishusei2015.06681.1
-長	矦	6	kyomeishusei2015.06681.1
-母	矦	6	kyomeishusei2015.06681.1
 服	1	四夷服
 息	1	人民息
 復	1	天下復
@@ -38940,27 +33553,6 @@
 道	昌	4	kyomeishusei2015.06895.1
 道	長	4	kyomeishusei2015.06895.1
 昌	長	4	kyomeishusei2015.06895.1
-岡	1	幽湅三岡
-月	1	天王日月
-道	1	統德序道
-祉	1	彫刻無祉
-陽	1	衆羊主陽
-公	1	士至三公
-岡	月	6	kyomeishusei2015.06897.1
-岡	道	6	kyomeishusei2015.06897.1
-岡	祉	6	kyomeishusei2015.06897.1
-岡	陽	6	kyomeishusei2015.06897.1
-岡	公	6	kyomeishusei2015.06897.1
-月	道	6	kyomeishusei2015.06897.1
-月	祉	6	kyomeishusei2015.06897.1
-月	陽	6	kyomeishusei2015.06897.1
-月	公	6	kyomeishusei2015.06897.1
-道	祉	6	kyomeishusei2015.06897.1
-道	陽	6	kyomeishusei2015.06897.1
-道	公	6	kyomeishusei2015.06897.1
-祉	陽	6	kyomeishusei2015.06897.1
-祉	公	6	kyomeishusei2015.06897.1
-陽	公	6	kyomeishusei2015.06897.1
 商	1	□湅□商
 容	1	衆神見容
 長	1	其師命長
@@ -39034,55 +33626,6 @@
 竟	1	□□□竟
 長	1	□□□長
 竟	長	2	kyomeishusei2015.06911.1
-商	1	幽湅三商
-序	1	統□德序
-駕	1	百精□駕
-遷	1	學者高遷
-樂	1	富貴安樂
-長	1	其師命長
-商	序	6	kyomeishusei2015.06913.1
-商	駕	6	kyomeishusei2015.06913.1
-商	遷	6	kyomeishusei2015.06913.1
-商	樂	6	kyomeishusei2015.06913.1
-商	長	6	kyomeishusei2015.06913.1
-序	駕	6	kyomeishusei2015.06913.1
-序	遷	6	kyomeishusei2015.06913.1
-序	樂	6	kyomeishusei2015.06913.1
-序	長	6	kyomeishusei2015.06913.1
-駕	遷	6	kyomeishusei2015.06913.1
-駕	樂	6	kyomeishusei2015.06913.1
-駕	長	6	kyomeishusei2015.06913.1
-遷	樂	6	kyomeishusei2015.06913.1
-遷	長	6	kyomeishusei2015.06913.1
-樂	長	6	kyomeishusei2015.06913.1
-岡	1	幽湅三岡
-道	1	統德序道
-祉	1	周刻無祉
-陽	1	衆羊主陽
-樂	1	富吉安樂
-升	1	士至高升
-長	1	其師命長
-岡	道	7	kyomeishusei2015.06914.1
-岡	祉	7	kyomeishusei2015.06914.1
-岡	陽	7	kyomeishusei2015.06914.1
-岡	樂	7	kyomeishusei2015.06914.1
-岡	升	7	kyomeishusei2015.06914.1
-岡	長	7	kyomeishusei2015.06914.1
-道	祉	7	kyomeishusei2015.06914.1
-道	陽	7	kyomeishusei2015.06914.1
-道	樂	7	kyomeishusei2015.06914.1
-道	升	7	kyomeishusei2015.06914.1
-道	長	7	kyomeishusei2015.06914.1
-祉	陽	7	kyomeishusei2015.06914.1
-祉	樂	7	kyomeishusei2015.06914.1
-祉	升	7	kyomeishusei2015.06914.1
-祉	長	7	kyomeishusei2015.06914.1
-陽	樂	7	kyomeishusei2015.06914.1
-陽	升	7	kyomeishusei2015.06914.1
-陽	長	7	kyomeishusei2015.06914.1
-樂	升	7	kyomeishusei2015.06914.1
-樂	長	7	kyomeishusei2015.06914.1
-升	長	7	kyomeishusei2015.06914.1
 剛	1	幽湅三剛
 長	1	富壽長
 剛	長	2	kyomeishusei2015.06916.1
@@ -39599,34 +34142,6 @@
 食	海	5	kyomeishusei2015.07027.1
 食	長	5	kyomeishusei2015.07027.1
 海	長	5	kyomeishusei2015.07027.1
-同	1	練取好同
-工	1	其師甚工
-母	1	西王母
-好	1	甚大好
-海	1	至四海
-棗	1	飢食棗
-老	1	不 老兮
-同	工	7	kyomeishusei2015.07028.1
-同	母	7	kyomeishusei2015.07028.1
-同	好	7	kyomeishusei2015.07028.1
-同	海	7	kyomeishusei2015.07028.1
-同	棗	7	kyomeishusei2015.07028.1
-同	老	7	kyomeishusei2015.07028.1
-工	母	7	kyomeishusei2015.07028.1
-工	好	7	kyomeishusei2015.07028.1
-工	海	7	kyomeishusei2015.07028.1
-工	棗	7	kyomeishusei2015.07028.1
-工	老	7	kyomeishusei2015.07028.1
-母	好	7	kyomeishusei2015.07028.1
-母	海	7	kyomeishusei2015.07028.1
-母	棗	7	kyomeishusei2015.07028.1
-母	老	7	kyomeishusei2015.07028.1
-好	海	7	kyomeishusei2015.07028.1
-好	棗	7	kyomeishusei2015.07028.1
-好	老	7	kyomeishusei2015.07028.1
-海	棗	7	kyomeishusei2015.07028.1
-海	老	7	kyomeishusei2015.07028.1
-棗	老	7	kyomeishusei2015.07028.1
 明	1	甚大明
 成	1	刻鏤成
 嬰	1	嬈其嬰
@@ -39805,42 +34320,6 @@
 章	英	3	kyomeishusei2015.07049.1
 章	王	3	kyomeishusei2015.07049.1
 英	王	3	kyomeishusei2015.07049.1
-章	1	右文章
-梁	1	昭天梁
-天	1	富如天
-王	1	爲矦王
-羊	1	辟非羊
-受	1	元得老受
-生	1	服者 長生
-市	1	竟市
-章	梁	8	kyomeishusei2015.07050.1
-章	天	8	kyomeishusei2015.07050.1
-章	王	8	kyomeishusei2015.07050.1
-章	羊	8	kyomeishusei2015.07050.1
-章	受	8	kyomeishusei2015.07050.1
-章	生	8	kyomeishusei2015.07050.1
-章	市	8	kyomeishusei2015.07050.1
-梁	天	8	kyomeishusei2015.07050.1
-梁	王	8	kyomeishusei2015.07050.1
-梁	羊	8	kyomeishusei2015.07050.1
-梁	受	8	kyomeishusei2015.07050.1
-梁	生	8	kyomeishusei2015.07050.1
-梁	市	8	kyomeishusei2015.07050.1
-天	王	8	kyomeishusei2015.07050.1
-天	羊	8	kyomeishusei2015.07050.1
-天	受	8	kyomeishusei2015.07050.1
-天	生	8	kyomeishusei2015.07050.1
-天	市	8	kyomeishusei2015.07050.1
-王	羊	8	kyomeishusei2015.07050.1
-王	受	8	kyomeishusei2015.07050.1
-王	生	8	kyomeishusei2015.07050.1
-王	市	8	kyomeishusei2015.07050.1
-羊	受	8	kyomeishusei2015.07050.1
-羊	生	8	kyomeishusei2015.07050.1
-羊	市	8	kyomeishusei2015.07050.1
-受	生	8	kyomeishusei2015.07050.1
-受	市	8	kyomeishusei2015.07050.1
-生	市	8	kyomeishusei2015.07050.1
 剛	1	幽律三剛
 章	1	彫鏤文章
 明	1	淸而且明
@@ -40218,146 +34697,6 @@
 守	長	5	kyomeishusei2015.07127.1
 昌	長	5	kyomeishusei2015.07127.1
 昌	1	大吉昌
-商	1	幽湅三商
-道	1	統德序道
-祉	1	彫克無祉
-陽	1	衆羊主陽
-樂	1	富貴安樂
-遷	1	學者高遷
-長	1	其師命長
-商	道	7	kyomeishusei2015.07139.1
-商	祉	7	kyomeishusei2015.07139.1
-商	陽	7	kyomeishusei2015.07139.1
-商	樂	7	kyomeishusei2015.07139.1
-商	遷	7	kyomeishusei2015.07139.1
-商	長	7	kyomeishusei2015.07139.1
-道	祉	7	kyomeishusei2015.07139.1
-道	陽	7	kyomeishusei2015.07139.1
-道	樂	7	kyomeishusei2015.07139.1
-道	遷	7	kyomeishusei2015.07139.1
-道	長	7	kyomeishusei2015.07139.1
-祉	陽	7	kyomeishusei2015.07139.1
-祉	樂	7	kyomeishusei2015.07139.1
-祉	遷	7	kyomeishusei2015.07139.1
-祉	長	7	kyomeishusei2015.07139.1
-陽	樂	7	kyomeishusei2015.07139.1
-陽	遷	7	kyomeishusei2015.07139.1
-陽	長	7	kyomeishusei2015.07139.1
-樂	遷	7	kyomeishusei2015.07139.1
-樂	長	7	kyomeishusei2015.07139.1
-遷	長	7	kyomeishusei2015.07139.1
-商	1	幽湅三商
-道	1	統德序道
-祉	1	彫克無祉
-陽	1	衆羊主陽
-樂	1	富貴安樂
-遷	1	學者高遷
-長	1	其師命長
-商	道	7	kyomeishusei2015.07140.1
-商	祉	7	kyomeishusei2015.07140.1
-商	陽	7	kyomeishusei2015.07140.1
-商	樂	7	kyomeishusei2015.07140.1
-商	遷	7	kyomeishusei2015.07140.1
-商	長	7	kyomeishusei2015.07140.1
-道	祉	7	kyomeishusei2015.07140.1
-道	陽	7	kyomeishusei2015.07140.1
-道	樂	7	kyomeishusei2015.07140.1
-道	遷	7	kyomeishusei2015.07140.1
-道	長	7	kyomeishusei2015.07140.1
-祉	陽	7	kyomeishusei2015.07140.1
-祉	樂	7	kyomeishusei2015.07140.1
-祉	遷	7	kyomeishusei2015.07140.1
-祉	長	7	kyomeishusei2015.07140.1
-陽	樂	7	kyomeishusei2015.07140.1
-陽	遷	7	kyomeishusei2015.07140.1
-陽	長	7	kyomeishusei2015.07140.1
-樂	遷	7	kyomeishusei2015.07140.1
-樂	長	7	kyomeishusei2015.07140.1
-遷	長	7	kyomeishusei2015.07140.1
-商	1	幽湅三商
-道	1	統德序道
-祉	1	彫克無祉
-陽	1	衆羊主陽
-樂	1	富貴安樂
-遷	1	學者高遷
-長	1	其師命長
-商	道	7	kyomeishusei2015.07141.1
-商	祉	7	kyomeishusei2015.07141.1
-商	陽	7	kyomeishusei2015.07141.1
-商	樂	7	kyomeishusei2015.07141.1
-商	遷	7	kyomeishusei2015.07141.1
-商	長	7	kyomeishusei2015.07141.1
-道	祉	7	kyomeishusei2015.07141.1
-道	陽	7	kyomeishusei2015.07141.1
-道	樂	7	kyomeishusei2015.07141.1
-道	遷	7	kyomeishusei2015.07141.1
-道	長	7	kyomeishusei2015.07141.1
-祉	陽	7	kyomeishusei2015.07141.1
-祉	樂	7	kyomeishusei2015.07141.1
-祉	遷	7	kyomeishusei2015.07141.1
-祉	長	7	kyomeishusei2015.07141.1
-陽	樂	7	kyomeishusei2015.07141.1
-陽	遷	7	kyomeishusei2015.07141.1
-陽	長	7	kyomeishusei2015.07141.1
-樂	遷	7	kyomeishusei2015.07141.1
-樂	長	7	kyomeishusei2015.07141.1
-遷	長	7	kyomeishusei2015.07141.1
-商	1	幽湅三商
-道	1	統德序道
-祉	1	彫克無祉
-陽	1	衆羊主陽
-樂	1	富貴安樂
-遷	1	學者高遷
-長	1	其師命長
-商	道	7	kyomeishusei2015.07142.1
-商	祉	7	kyomeishusei2015.07142.1
-商	陽	7	kyomeishusei2015.07142.1
-商	樂	7	kyomeishusei2015.07142.1
-商	遷	7	kyomeishusei2015.07142.1
-商	長	7	kyomeishusei2015.07142.1
-道	祉	7	kyomeishusei2015.07142.1
-道	陽	7	kyomeishusei2015.07142.1
-道	樂	7	kyomeishusei2015.07142.1
-道	遷	7	kyomeishusei2015.07142.1
-道	長	7	kyomeishusei2015.07142.1
-祉	陽	7	kyomeishusei2015.07142.1
-祉	樂	7	kyomeishusei2015.07142.1
-祉	遷	7	kyomeishusei2015.07142.1
-祉	長	7	kyomeishusei2015.07142.1
-陽	樂	7	kyomeishusei2015.07142.1
-陽	遷	7	kyomeishusei2015.07142.1
-陽	長	7	kyomeishusei2015.07142.1
-樂	遷	7	kyomeishusei2015.07142.1
-樂	長	7	kyomeishusei2015.07142.1
-遷	長	7	kyomeishusei2015.07142.1
-商	1	幽湅三商
-道	1	統德序道
-祉	1	彫克無祉
-陽	1	衆羊主陽
-樂	1	富貴安樂
-遷	1	學者高遷
-長	1	其師命長
-商	道	7	kyomeishusei2015.07143.1
-商	祉	7	kyomeishusei2015.07143.1
-商	陽	7	kyomeishusei2015.07143.1
-商	樂	7	kyomeishusei2015.07143.1
-商	遷	7	kyomeishusei2015.07143.1
-商	長	7	kyomeishusei2015.07143.1
-道	祉	7	kyomeishusei2015.07143.1
-道	陽	7	kyomeishusei2015.07143.1
-道	樂	7	kyomeishusei2015.07143.1
-道	遷	7	kyomeishusei2015.07143.1
-道	長	7	kyomeishusei2015.07143.1
-祉	陽	7	kyomeishusei2015.07143.1
-祉	樂	7	kyomeishusei2015.07143.1
-祉	遷	7	kyomeishusei2015.07143.1
-祉	長	7	kyomeishusei2015.07143.1
-陽	樂	7	kyomeishusei2015.07143.1
-陽	遷	7	kyomeishusei2015.07143.1
-陽	長	7	kyomeishusei2015.07143.1
-樂	遷	7	kyomeishusei2015.07143.1
-樂	長	7	kyomeishusei2015.07143.1
-遷	長	7	kyomeishusei2015.07143.1
 石	1	吉利金石
 商	1	幽湅三商
 羊	1	大吉羊
@@ -42532,12 +36871,6 @@
 下	石	4	kyomeishusei2015.07415.1
 好	1	眞大好
 老	1	不知老
-食	1	＊2 食
-好	老	3	kyomeishusei2015.07416.1
-好	食	3	kyomeishusei2015.07416.1
-老	食	3	kyomeishusei2015.07416.1
-好	1	眞大好
-老	1	不知老
 棗	1	飢食棗
 好	老	3	kyomeishusei2015.07417.1
 好	棗	3	kyomeishusei2015.07417.1
@@ -43274,27 +37607,6 @@
 央	央	5	kyomeishusei2015.07481.1
 服	1	四夷服
 息	1	人民息
-復	1	天下復
-五	1	五
-食	1	蒙祿食
-已	1	樂無已
-服	息	6	kyomeishusei2015.07482.1
-服	復	6	kyomeishusei2015.07482.1
-服	五	6	kyomeishusei2015.07482.1
-服	食	6	kyomeishusei2015.07482.1
-服	已	6	kyomeishusei2015.07482.1
-息	復	6	kyomeishusei2015.07482.1
-息	五	6	kyomeishusei2015.07482.1
-息	食	6	kyomeishusei2015.07482.1
-息	已	6	kyomeishusei2015.07482.1
-復	五	6	kyomeishusei2015.07482.1
-復	食	6	kyomeishusei2015.07482.1
-復	已	6	kyomeishusei2015.07482.1
-五	食	6	kyomeishusei2015.07482.1
-五	已	6	kyomeishusei2015.07482.1
-食	已	6	kyomeishusei2015.07482.1
-服	1	四夷服
-息	1	人民息
 孰	1	五穀孰
 力	1	天下力
 服	息	4	kyomeishusei2015.07483.1
@@ -43371,51 +37683,6 @@
 金	貴	5	kyomeishusei2015.07491.1
 孫	貴	5	kyomeishusei2015.07491.1
 日	1	五月丙午日
-作	1	廣漢造作
-商	1	幽湅三商
-明	1	世傳光明
-昌	1	富且昌
-長	1	師命長
-公	1	位至 三公
-母	1	西王母
-矦	1	立至公矦
-日	作	9	kyomeishusei2015.07492.1
-日	商	9	kyomeishusei2015.07492.1
-日	明	9	kyomeishusei2015.07492.1
-日	昌	9	kyomeishusei2015.07492.1
-日	長	9	kyomeishusei2015.07492.1
-日	公	9	kyomeishusei2015.07492.1
-日	母	9	kyomeishusei2015.07492.1
-日	矦	9	kyomeishusei2015.07492.1
-作	商	9	kyomeishusei2015.07492.1
-作	明	9	kyomeishusei2015.07492.1
-作	昌	9	kyomeishusei2015.07492.1
-作	長	9	kyomeishusei2015.07492.1
-作	公	9	kyomeishusei2015.07492.1
-作	母	9	kyomeishusei2015.07492.1
-作	矦	9	kyomeishusei2015.07492.1
-商	明	9	kyomeishusei2015.07492.1
-商	昌	9	kyomeishusei2015.07492.1
-商	長	9	kyomeishusei2015.07492.1
-商	公	9	kyomeishusei2015.07492.1
-商	母	9	kyomeishusei2015.07492.1
-商	矦	9	kyomeishusei2015.07492.1
-明	昌	9	kyomeishusei2015.07492.1
-明	長	9	kyomeishusei2015.07492.1
-明	公	9	kyomeishusei2015.07492.1
-明	母	9	kyomeishusei2015.07492.1
-明	矦	9	kyomeishusei2015.07492.1
-昌	長	9	kyomeishusei2015.07492.1
-昌	公	9	kyomeishusei2015.07492.1
-昌	母	9	kyomeishusei2015.07492.1
-昌	矦	9	kyomeishusei2015.07492.1
-長	公	9	kyomeishusei2015.07492.1
-長	母	9	kyomeishusei2015.07492.1
-長	矦	9	kyomeishusei2015.07492.1
-公	母	9	kyomeishusei2015.07492.1
-公	矦	9	kyomeishusei2015.07492.1
-母	矦	9	kyomeishusei2015.07492.1
-日	1	五月丙午日
 作	1	廣漢西蜀造作
 商	1	幽湅三商
 公	1	位至三公
@@ -43463,51 +37730,6 @@
 商	畺	3	kyomeishusei2015.07495.1
 商	昌	3	kyomeishusei2015.07495.1
 畺	昌	3	kyomeishusei2015.07495.1
-商	1	幽湅三商
-疆	1	配象萬疆
-容	1	衆神見容
-從	1	富祿氏從
-倡	1	子孫潘倡
-長	1	其師命長
-郡	1	幹出吳郡
-斛	1	千煉百斛
-竝	1	四器竝
-商	疆	9	kyomeishusei2015.07496.1
-商	容	9	kyomeishusei2015.07496.1
-商	從	9	kyomeishusei2015.07496.1
-商	倡	9	kyomeishusei2015.07496.1
-商	長	9	kyomeishusei2015.07496.1
-商	郡	9	kyomeishusei2015.07496.1
-商	斛	9	kyomeishusei2015.07496.1
-商	竝	9	kyomeishusei2015.07496.1
-疆	容	9	kyomeishusei2015.07496.1
-疆	從	9	kyomeishusei2015.07496.1
-疆	倡	9	kyomeishusei2015.07496.1
-疆	長	9	kyomeishusei2015.07496.1
-疆	郡	9	kyomeishusei2015.07496.1
-疆	斛	9	kyomeishusei2015.07496.1
-疆	竝	9	kyomeishusei2015.07496.1
-容	從	9	kyomeishusei2015.07496.1
-容	倡	9	kyomeishusei2015.07496.1
-容	長	9	kyomeishusei2015.07496.1
-容	郡	9	kyomeishusei2015.07496.1
-容	斛	9	kyomeishusei2015.07496.1
-容	竝	9	kyomeishusei2015.07496.1
-從	倡	9	kyomeishusei2015.07496.1
-從	長	9	kyomeishusei2015.07496.1
-從	郡	9	kyomeishusei2015.07496.1
-從	斛	9	kyomeishusei2015.07496.1
-從	竝	9	kyomeishusei2015.07496.1
-倡	長	9	kyomeishusei2015.07496.1
-倡	郡	9	kyomeishusei2015.07496.1
-倡	斛	9	kyomeishusei2015.07496.1
-倡	竝	9	kyomeishusei2015.07496.1
-長	郡	9	kyomeishusei2015.07496.1
-長	斛	9	kyomeishusei2015.07496.1
-長	竝	9	kyomeishusei2015.07496.1
-郡	斛	9	kyomeishusei2015.07496.1
-郡	竝	9	kyomeishusei2015.07496.1
-斛	竝	9	kyomeishusei2015.07496.1
 商	1	幽湅宮商
 皇	1	五帝天皇
 兇	1	皇帝除兇
@@ -43550,42 +37772,6 @@
 女	節	6	kyomeishusei2015.07498.1
 女	長	6	kyomeishusei2015.07498.1
 節	長	6	kyomeishusei2015.07498.1
-商	1	幽湅三商
-方	1	雕刻萬方
-長	1	六合設長
-空	1	通距虛空
-號	1	祇靈是號
-容	1	衆神見容
-吉	1	維剛大吉
-長	1	長師命長
-商	方	8	kyomeishusei2015.07499.1
-商	長	8	kyomeishusei2015.07499.1
-商	空	8	kyomeishusei2015.07499.1
-商	號	8	kyomeishusei2015.07499.1
-商	容	8	kyomeishusei2015.07499.1
-商	吉	8	kyomeishusei2015.07499.1
-商	長	8	kyomeishusei2015.07499.1
-方	長	8	kyomeishusei2015.07499.1
-方	空	8	kyomeishusei2015.07499.1
-方	號	8	kyomeishusei2015.07499.1
-方	容	8	kyomeishusei2015.07499.1
-方	吉	8	kyomeishusei2015.07499.1
-方	長	8	kyomeishusei2015.07499.1
-長	空	8	kyomeishusei2015.07499.1
-長	號	8	kyomeishusei2015.07499.1
-長	容	8	kyomeishusei2015.07499.1
-長	吉	8	kyomeishusei2015.07499.1
-長	長	8	kyomeishusei2015.07499.1
-空	號	8	kyomeishusei2015.07499.1
-空	容	8	kyomeishusei2015.07499.1
-空	吉	8	kyomeishusei2015.07499.1
-空	長	8	kyomeishusei2015.07499.1
-號	容	8	kyomeishusei2015.07499.1
-號	吉	8	kyomeishusei2015.07499.1
-號	長	8	kyomeishusei2015.07499.1
-容	吉	8	kyomeishusei2015.07499.1
-容	長	8	kyomeishusei2015.07499.1
-吉	長	8	kyomeishusei2015.07499.1
 作	1	九子作
 王	1	西母東王
 平	1	天下泰平
@@ -43739,135 +37925,6 @@
 商	王	5	kyomeishusei2015.07544.1
 商	公	5	kyomeishusei2015.07544.1
 王	公	5	kyomeishusei2015.07544.1
-午	1	九月九日丙午
-鏡	1	尙方明鏡
-父	1	上有東王父
-石	1	生如山石
-里	1	八千萬里
-央	1	樂未央
-長	1	師 命長
-市	1	宜古市
-公	1	位至三公
-午	鏡	9	kyomeishusei2015.07545.1
-午	父	9	kyomeishusei2015.07545.1
-午	石	9	kyomeishusei2015.07545.1
-午	里	9	kyomeishusei2015.07545.1
-午	央	9	kyomeishusei2015.07545.1
-午	長	9	kyomeishusei2015.07545.1
-午	市	9	kyomeishusei2015.07545.1
-午	公	9	kyomeishusei2015.07545.1
-鏡	父	9	kyomeishusei2015.07545.1
-鏡	石	9	kyomeishusei2015.07545.1
-鏡	里	9	kyomeishusei2015.07545.1
-鏡	央	9	kyomeishusei2015.07545.1
-鏡	長	9	kyomeishusei2015.07545.1
-鏡	市	9	kyomeishusei2015.07545.1
-鏡	公	9	kyomeishusei2015.07545.1
-父	石	9	kyomeishusei2015.07545.1
-父	里	9	kyomeishusei2015.07545.1
-父	央	9	kyomeishusei2015.07545.1
-父	長	9	kyomeishusei2015.07545.1
-父	市	9	kyomeishusei2015.07545.1
-父	公	9	kyomeishusei2015.07545.1
-石	里	9	kyomeishusei2015.07545.1
-石	央	9	kyomeishusei2015.07545.1
-石	長	9	kyomeishusei2015.07545.1
-石	市	9	kyomeishusei2015.07545.1
-石	公	9	kyomeishusei2015.07545.1
-里	央	9	kyomeishusei2015.07545.1
-里	長	9	kyomeishusei2015.07545.1
-里	市	9	kyomeishusei2015.07545.1
-里	公	9	kyomeishusei2015.07545.1
-央	長	9	kyomeishusei2015.07545.1
-央	市	9	kyomeishusei2015.07545.1
-央	公	9	kyomeishusei2015.07545.1
-長	市	9	kyomeishusei2015.07545.1
-長	公	9	kyomeishusei2015.07545.1
-市	公	9	kyomeishusei2015.07545.1
-午	1	四月十三日丙午
-作	1	造作
-商	1	幽湅三商
-明	1	世得光明
-公	1	立至三公
-昌	1	富且昌
-石	1	生如金石
-午	作	7	kyomeishusei2015.07546.1
-午	商	7	kyomeishusei2015.07546.1
-午	明	7	kyomeishusei2015.07546.1
-午	公	7	kyomeishusei2015.07546.1
-午	昌	7	kyomeishusei2015.07546.1
-午	石	7	kyomeishusei2015.07546.1
-作	商	7	kyomeishusei2015.07546.1
-作	明	7	kyomeishusei2015.07546.1
-作	公	7	kyomeishusei2015.07546.1
-作	昌	7	kyomeishusei2015.07546.1
-作	石	7	kyomeishusei2015.07546.1
-商	明	7	kyomeishusei2015.07546.1
-商	公	7	kyomeishusei2015.07546.1
-商	昌	7	kyomeishusei2015.07546.1
-商	石	7	kyomeishusei2015.07546.1
-明	公	7	kyomeishusei2015.07546.1
-明	昌	7	kyomeishusei2015.07546.1
-明	石	7	kyomeishusei2015.07546.1
-公	昌	7	kyomeishusei2015.07546.1
-公	石	7	kyomeishusei2015.07546.1
-昌	石	7	kyomeishusei2015.07546.1
-紀	1	自有紀
-右	1	居左右
-子	1	赤松子
-始	1	法古始
-孫	1	宜子孫
-子	1	凡九子
-母	1	利父母
-紀	右	7	kyomeishusei2015.07547.1
-紀	子	7	kyomeishusei2015.07547.1
-紀	始	7	kyomeishusei2015.07547.1
-紀	孫	7	kyomeishusei2015.07547.1
-紀	子	7	kyomeishusei2015.07547.1
-紀	母	7	kyomeishusei2015.07547.1
-右	子	7	kyomeishusei2015.07547.1
-右	始	7	kyomeishusei2015.07547.1
-右	孫	7	kyomeishusei2015.07547.1
-右	子	7	kyomeishusei2015.07547.1
-右	母	7	kyomeishusei2015.07547.1
-子	始	7	kyomeishusei2015.07547.1
-子	孫	7	kyomeishusei2015.07547.1
-子	子	7	kyomeishusei2015.07547.1
-子	母	7	kyomeishusei2015.07547.1
-始	孫	7	kyomeishusei2015.07547.1
-始	子	7	kyomeishusei2015.07547.1
-始	母	7	kyomeishusei2015.07547.1
-孫	子	7	kyomeishusei2015.07547.1
-孫	母	7	kyomeishusei2015.07547.1
-子	母	7	kyomeishusei2015.07547.1
-岡	1	自有紀岡
-羊	1	辟非羊
-王	1	宜矦王
-堂	1	子孫滿堂
-央	1	延壽未央
-息	1	人民息
-服	1	四 夷服
-岡	羊	7	kyomeishusei2015.07548.1
-岡	王	7	kyomeishusei2015.07548.1
-岡	堂	7	kyomeishusei2015.07548.1
-岡	央	7	kyomeishusei2015.07548.1
-岡	息	7	kyomeishusei2015.07548.1
-岡	服	7	kyomeishusei2015.07548.1
-羊	王	7	kyomeishusei2015.07548.1
-羊	堂	7	kyomeishusei2015.07548.1
-羊	央	7	kyomeishusei2015.07548.1
-羊	息	7	kyomeishusei2015.07548.1
-羊	服	7	kyomeishusei2015.07548.1
-王	堂	7	kyomeishusei2015.07548.1
-王	央	7	kyomeishusei2015.07548.1
-王	息	7	kyomeishusei2015.07548.1
-王	服	7	kyomeishusei2015.07548.1
-堂	央	7	kyomeishusei2015.07548.1
-堂	息	7	kyomeishusei2015.07548.1
-堂	服	7	kyomeishusei2015.07548.1
-央	息	7	kyomeishusei2015.07548.1
-央	服	7	kyomeishusei2015.07548.1
-息	服	7	kyomeishusei2015.07548.1
 竟	1	尙方明竟
 虎	1	靑龍白虎
 人	1	神魚仙人
@@ -44804,27 +38861,6 @@
 章	1	巧工刻之成文章
 陽	1	朱鳥玄武調陰陽
 章	陽	2	kyomeishusei2015.07902.1
-商	1	幽湅三商
-良	1	統德序道敬奉賢良
-樂	1	百牙擧樂
-樂	1	富貴安樂
-遷	1	學者常遷
-玉	1	壽如金 玉
-商	良	6	kyomeishusei2015.07903.1
-商	樂	6	kyomeishusei2015.07903.1
-商	樂	6	kyomeishusei2015.07903.1
-商	遷	6	kyomeishusei2015.07903.1
-商	玉	6	kyomeishusei2015.07903.1
-良	樂	6	kyomeishusei2015.07903.1
-良	樂	6	kyomeishusei2015.07903.1
-良	遷	6	kyomeishusei2015.07903.1
-良	玉	6	kyomeishusei2015.07903.1
-樂	樂	6	kyomeishusei2015.07903.1
-樂	遷	6	kyomeishusei2015.07903.1
-樂	玉	6	kyomeishusei2015.07903.1
-樂	遷	6	kyomeishusei2015.07903.1
-樂	玉	6	kyomeishusei2015.07903.1
-遷	玉	6	kyomeishusei2015.07903.1
 好	1	尙方作竟眞大好
 不	1	上有山人不
 好	不	2	kyomeishusei2015.07904.1
@@ -45533,34 +39569,6 @@
 始	1	桼言之紀從竟始
 母	1	長葆二親利父母
 始	母	2	kyomeishusei2015.08116.1
-岡	1	幽湅三岡
-道	1	統德序道
-祉	1	周刻無祉
-陽	1	衆事主陽
-樂	1	富吉安樂
-石	1	生如金石
-長	1	其師命長
-岡	道	7	kyomeishusei2015.08117.1
-岡	祉	7	kyomeishusei2015.08117.1
-岡	陽	7	kyomeishusei2015.08117.1
-岡	樂	7	kyomeishusei2015.08117.1
-岡	石	7	kyomeishusei2015.08117.1
-岡	長	7	kyomeishusei2015.08117.1
-道	祉	7	kyomeishusei2015.08117.1
-道	陽	7	kyomeishusei2015.08117.1
-道	樂	7	kyomeishusei2015.08117.1
-道	石	7	kyomeishusei2015.08117.1
-道	長	7	kyomeishusei2015.08117.1
-祉	陽	7	kyomeishusei2015.08117.1
-祉	樂	7	kyomeishusei2015.08117.1
-祉	石	7	kyomeishusei2015.08117.1
-祉	長	7	kyomeishusei2015.08117.1
-陽	樂	7	kyomeishusei2015.08117.1
-陽	石	7	kyomeishusei2015.08117.1
-陽	長	7	kyomeishusei2015.08117.1
-樂	石	7	kyomeishusei2015.08117.1
-樂	長	7	kyomeishusei2015.08117.1
-石	長	7	kyomeishusei2015.08117.1
 侍	1	位至公卿中尙侍
 吉	1	大吉
 侍	吉	2	kyomeishusei2015.08118.1
@@ -46164,42 +40172,6 @@
 淵	1	弟子顏淵
 子	1	聖……子
 淵	子	2	kyomeishusei2015.08324.1
-日	1	五月丙午日
-作	1	廣漢造作
-商	1	幽湅三商
-央	1	世得光明長樂未央
-王	1	宜侯王
-石	1	生如石
-母	1	壽如東王父西王母
-侯	1	立至公侯
-日	作	8	kyomeishusei2015.08327.1
-日	商	8	kyomeishusei2015.08327.1
-日	央	8	kyomeishusei2015.08327.1
-日	王	8	kyomeishusei2015.08327.1
-日	石	8	kyomeishusei2015.08327.1
-日	母	8	kyomeishusei2015.08327.1
-日	侯	8	kyomeishusei2015.08327.1
-作	商	8	kyomeishusei2015.08327.1
-作	央	8	kyomeishusei2015.08327.1
-作	王	8	kyomeishusei2015.08327.1
-作	石	8	kyomeishusei2015.08327.1
-作	母	8	kyomeishusei2015.08327.1
-作	侯	8	kyomeishusei2015.08327.1
-商	央	8	kyomeishusei2015.08327.1
-商	王	8	kyomeishusei2015.08327.1
-商	石	8	kyomeishusei2015.08327.1
-商	母	8	kyomeishusei2015.08327.1
-商	侯	8	kyomeishusei2015.08327.1
-央	王	8	kyomeishusei2015.08327.1
-央	石	8	kyomeishusei2015.08327.1
-央	母	8	kyomeishusei2015.08327.1
-央	侯	8	kyomeishusei2015.08327.1
-王	石	8	kyomeishusei2015.08327.1
-王	母	8	kyomeishusei2015.08327.1
-王	侯	8	kyomeishusei2015.08327.1
-石	母	8	kyomeishusei2015.08327.1
-石	侯	8	kyomeishusei2015.08327.1
-母	侯	8	kyomeishusei2015.08327.1
 日	1	正月午日
 竟	1	早作明竟
 長	1	延壽命長
@@ -46867,9 +40839,6 @@
 鏡	1	吾作明鏡
 無	1	周無
 鏡	無	2	kyomeishusei2015.08491.1
-鏡	1	吾作明鏡
-羊	1	周刻粟陽白見＊1 賣季之日月同光自作大＊2 長樂萬宜章夫百士王至三公見命羊
-鏡	羊	2	kyomeishusei2015.08493.1
 商	1	幽湅三商
 疆	1	配像萬疆
 容	1	衆神見容
@@ -46977,21 +40946,6 @@
 泉	1	食玉英飮澧泉
 孫	1	冝官秩保子孫
 泉	孫	2	kyomeishusei2015.08518.1
-明	1	湅治成銀錫淸而且明
-章	1	巧工刻之成文章
-陽	1	朱鳥玄順陰陽
-昌	1	長保二親樂富 昌
-强	1	亖夷來服國家强
-明	章	5	kyomeishusei2015.08519.1
-明	陽	5	kyomeishusei2015.08519.1
-明	昌	5	kyomeishusei2015.08519.1
-明	强	5	kyomeishusei2015.08519.1
-章	陽	5	kyomeishusei2015.08519.1
-章	昌	5	kyomeishusei2015.08519.1
-章	强	5	kyomeishusei2015.08519.1
-陽	昌	5	kyomeishusei2015.08519.1
-陽	强	5	kyomeishusei2015.08519.1
-昌	强	5	kyomeishusei2015.08519.1
 福	1	多賀君家受大福
 德	1	幸得時年獲嘉德
 吉	1	大吉
@@ -47223,27 +41177,6 @@
 老	1	上有仙人不知老
 昌	1	長保二親樂富昌
 老	昌	2	kyomeishusei2015.08561.1
-息	1	多賀國家人民息
-孰	1	風雨時節五穀孰
-英	1	傳告后世樂未英
-公	1	仕至三公
-父	1	以 道爲父
-又	1	淸濁師大和爲又乎
-息	孰	6	kyomeishusei2015.08562.1
-息	英	6	kyomeishusei2015.08562.1
-息	公	6	kyomeishusei2015.08562.1
-息	父	6	kyomeishusei2015.08562.1
-息	又	6	kyomeishusei2015.08562.1
-孰	英	6	kyomeishusei2015.08562.1
-孰	公	6	kyomeishusei2015.08562.1
-孰	父	6	kyomeishusei2015.08562.1
-孰	又	6	kyomeishusei2015.08562.1
-英	公	6	kyomeishusei2015.08562.1
-英	父	6	kyomeishusei2015.08562.1
-英	又	6	kyomeishusei2015.08562.1
-公	父	6	kyomeishusei2015.08562.1
-公	又	6	kyomeishusei2015.08562.1
-父	又	6	kyomeishusei2015.08562.1
 長	1	芳華蔓長
 昌	1	名此曰昌
 長	昌	2	kyomeishusei2015.08566.1
@@ -47602,9 +41535,6 @@
 刑	1	以之爲鏡昭身刑
 生	1	畢長生
 刑	生	2	kyomeishusei2015.08674.1
-豫	1	挾佳都而承閑懷驩察而恚豫兮
-君	1	精昭 2 而侍君
-豫	君	2	kyomeishusei2015.08675.1
 富	1	月有富
 食	1	宜酒食
 患	1	毋憂患
@@ -47784,34 +41714,6 @@
 陳	人	4	kyomeishusei2015.08703.1
 陳	善	4	kyomeishusei2015.08703.1
 人	善	4	kyomeishusei2015.08703.1
-尊	1	新家尊
-恩	1	大多恩
-田	1	不躬嗇田
-官	1	治校官
-安	1	天下安
-恩	1	得蒙恩
-孫	1	葆子 孫
-尊	恩	7	kyomeishusei2015.08704.1
-尊	田	7	kyomeishusei2015.08704.1
-尊	官	7	kyomeishusei2015.08704.1
-尊	安	7	kyomeishusei2015.08704.1
-尊	恩	7	kyomeishusei2015.08704.1
-尊	孫	7	kyomeishusei2015.08704.1
-恩	田	7	kyomeishusei2015.08704.1
-恩	官	7	kyomeishusei2015.08704.1
-恩	安	7	kyomeishusei2015.08704.1
-恩	恩	7	kyomeishusei2015.08704.1
-恩	孫	7	kyomeishusei2015.08704.1
-田	官	7	kyomeishusei2015.08704.1
-田	安	7	kyomeishusei2015.08704.1
-田	恩	7	kyomeishusei2015.08704.1
-田	孫	7	kyomeishusei2015.08704.1
-官	安	7	kyomeishusei2015.08704.1
-官	恩	7	kyomeishusei2015.08704.1
-官	孫	7	kyomeishusei2015.08704.1
-安	恩	7	kyomeishusei2015.08704.1
-安	孫	7	kyomeishusei2015.08704.1
-恩	孫	7	kyomeishusei2015.08704.1
 鏡	1	作好鏡
 上	1	莊君上
 遷	1	爲吏高遷
@@ -48095,52 +41997,6 @@
 長	位	5	kyomeishusei2015.08745.1
 長	吉	5	kyomeishusei2015.08745.1
 位	吉	5	kyomeishusei2015.08745.1
-午	1	正月廿七丙午
-光	1	白同淸明復多光
-王	1	十男五女爲侯王
-央	1	居一世閒樂未央
-午	光	4	kyomeishusei2015.08746.1
-午	王	4	kyomeishusei2015.08746.1
-午	央	4	kyomeishusei2015.08746.1
-光	王	4	kyomeishusei2015.08746.1
-光	央	4	kyomeishusei2015.08746.1
-王	央	4	kyomeishusei2015.08746.1
-丙	1	正月十三日午丙
-作	1	造作
-明	1	世得光明
-公	1	位至三公
-央	1	樂未央
-昌	1	富且昌
-長	1	受命 長
-赤	1	仙人王喬赤
-丙	作	8	kyomeishusei2015.08748.1
-丙	明	8	kyomeishusei2015.08748.1
-丙	公	8	kyomeishusei2015.08748.1
-丙	央	8	kyomeishusei2015.08748.1
-丙	昌	8	kyomeishusei2015.08748.1
-丙	長	8	kyomeishusei2015.08748.1
-丙	赤	8	kyomeishusei2015.08748.1
-作	明	8	kyomeishusei2015.08748.1
-作	公	8	kyomeishusei2015.08748.1
-作	央	8	kyomeishusei2015.08748.1
-作	昌	8	kyomeishusei2015.08748.1
-作	長	8	kyomeishusei2015.08748.1
-作	赤	8	kyomeishusei2015.08748.1
-明	公	8	kyomeishusei2015.08748.1
-明	央	8	kyomeishusei2015.08748.1
-明	昌	8	kyomeishusei2015.08748.1
-明	長	8	kyomeishusei2015.08748.1
-明	赤	8	kyomeishusei2015.08748.1
-公	央	8	kyomeishusei2015.08748.1
-公	昌	8	kyomeishusei2015.08748.1
-公	長	8	kyomeishusei2015.08748.1
-公	赤	8	kyomeishusei2015.08748.1
-央	昌	8	kyomeishusei2015.08748.1
-央	長	8	kyomeishusei2015.08748.1
-央	赤	8	kyomeishusei2015.08748.1
-昌	長	8	kyomeishusei2015.08748.1
-昌	赤	8	kyomeishusei2015.08748.1
-長	赤	8	kyomeishusei2015.08748.1
 日	1	五月午日
 竟	1	早作明竟
 孫	1	長宜子孫
@@ -48296,12 +42152,6 @@
 竟	息	4	kyomeishusei2015.08767.1
 竟	孰	4	kyomeishusei2015.08767.1
 息	孰	4	kyomeishusei2015.08767.1
-商	1	幽湅三商
-明	1	世得光明
-公	1	位至三公
-商	明	3	kyomeishusei2015.08768.1
-商	公	3	kyomeishusei2015.08768.1
-明	公	3	kyomeishusei2015.08768.1
 琴	1	幽湅宮商周亥容象五帝三皇白牙單琴
 武	1	朱鳥玄武
 羊	1	大吉羊
@@ -48350,31 +42200,9 @@
 兇	龍	5	kyomeishusei2015.08774.1
 兇	昌	5	kyomeishusei2015.08774.1
 龍	昌	5	kyomeishusei2015.08774.1
-商	1	幽湅宮商
-皇	1	五帝天皇
-兇	1	黃帝除兇
-龍	1	白乕靑龍
-昌	1	子孫番昌
-羊	1	大 吉羊
-商	皇	6	kyomeishusei2015.08776.1
-商	兇	6	kyomeishusei2015.08776.1
-商	龍	6	kyomeishusei2015.08776.1
-商	昌	6	kyomeishusei2015.08776.1
-商	羊	6	kyomeishusei2015.08776.1
-皇	兇	6	kyomeishusei2015.08776.1
-皇	龍	6	kyomeishusei2015.08776.1
-皇	昌	6	kyomeishusei2015.08776.1
-皇	羊	6	kyomeishusei2015.08776.1
-兇	龍	6	kyomeishusei2015.08776.1
-兇	昌	6	kyomeishusei2015.08776.1
-兇	羊	6	kyomeishusei2015.08776.1
-龍	昌	6	kyomeishusei2015.08776.1
-龍	羊	6	kyomeishusei2015.08776.1
-昌	羊	6	kyomeishusei2015.08776.1
 夏	1	赤烏元年吉羊子孫王ゝ常堂春金夏
 作	1	師朱酉作
 夏	作	2	kyomeishusei2015.08784.1
-明	1	永安二年七月丗日造作明竟可以昭明
 商	1	幽湅三商
 侯	1	延壽命長上如東王父西王母君宜高官立至公侯
 商	侯	2	kyomeishusei2015.08793.1
@@ -48774,21 +42602,6 @@
 有	1	李氏作竟如世少有
 羊	1	大吉羊矣
 有	羊	2	kyomeishusei2015.08929.1
-有	1	世之未有兮
-極	1	畢畢而無極兮
-子	1	冝孫保子兮
-秩	1	吏人服之曾官秩
-極	1	與 天無極兮
-有	極	5	kyomeishusei2015.08930.1
-有	子	5	kyomeishusei2015.08930.1
-有	秩	5	kyomeishusei2015.08930.1
-有	極	5	kyomeishusei2015.08930.1
-極	子	5	kyomeishusei2015.08930.1
-極	秩	5	kyomeishusei2015.08930.1
-極	極	5	kyomeishusei2015.08930.1
-子	秩	5	kyomeishusei2015.08930.1
-子	極	5	kyomeishusei2015.08930.1
-秩	極	5	kyomeishusei2015.08930.1
 息	1	多賀國家人民息
 孰	1	風雨時節五穀孰
 亟	1	傳告后世樂毋亟
@@ -48964,9 +42777,6 @@
 老	1	上有仙人不知老
 草	1	浮由天下敖亖海翡囘名山採之草
 老	草	2	kyomeishusei2015.09006.1
-全	1	食玉英＊1 澧全
-央	1	長樂未央
-全	央	2	kyomeishusei2015.09007.1
 明	1	取之爲鏡淸如明
 明	1	靑且明
 央	1	八子居中央
@@ -49212,9 +43022,6 @@
 息	孰	3	kyomeishusei2015.09109.1
 息	極	3	kyomeishusei2015.09109.1
 孰	極	3	kyomeishusei2015.09109.1
-格	1	天王日月×17 方格
-下	1	天右上王右下日左上月左下
-格	下	2	kyomeishusei2015.09113.1
 商	1	幽湅三商
 皇	1	五帝主天皇
 凶	1	黃帝除凶
