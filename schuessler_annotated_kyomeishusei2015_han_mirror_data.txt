@@ -1423,7 +1423,29 @@ kyomeishusei2015.00301.1.10： 建師四d(uɑŋ)方。
 kyomeishusei2015.00301.1.11： 玄龜＊威。
 kyomeishusei2015.00301.1.12： 白乕馴e(in)仁。
 kyomeishusei2015.00301.1.13： □□□。
-kyomeishusei2015.00302.1： 石人姬姬。衣綿緞衣。夷矦之子。衞矦之妻。東宮之妹。刑矦之夷。登公惟私。手如濡淒。膚如＊1 脂。領如狩 I 夷。齒如會師。縝首娥麋
+kyomeishusei2015.00302.1.1： 石人姬姬。
+kyomeishusei2015.00302.1.2： 衣綿緞a(ii)衣。
+kyomeishusei2015.00302.1.3： 夷矦之子。
+kyomeishusei2015.00302.1.4： 衞矦之b(ei)妻。
+kyomeishusei2015.00302.1.5： 東宮之妹。
+kyomeishusei2015.00302.1.6： 刑矦之c(i)夷。
+kyomeishusei2015.00302.1.7： 登公惟私。
+kyomeishusei2015.00302.1.8： 手如濡b(ei)淒。
+kyomeishusei2015.00302.1.9： 膚如𦡸脂。
+kyomeishusei2015.00302.1.10： 領如狩c(i)夷。
+kyomeishusei2015.00302.1.11： 齒如會師。
+kyomeishusei2015.00302.1.12： 縝首娥c(i)麋。
+kyomeishusei2015.00302.1.13： 𠱼。
+kyomeishusei2015.00302.1.14： 美目d(in)矉兮。
+kyomeishusei2015.00302.1.15： 石人嗷嗷。
+kyomeishusei2015.00302.1.16： 稅于農e(au)郊。
+kyomeishusei2015.00302.1.17： 四牡有橋。
+kyomeishusei2015.00302.1.18： 洙□猋f(iɑu)猋。
+kyomeishusei2015.00302.1.19： 翟□以朝。
+kyomeishusei2015.00302.1.20： 大夫宿h(uə)退。
+kyomeishusei2015.00302.1.21： 毋使君勞。
+kyomeishusei2015.00302.1.22： 河水洋i(ɑŋ)洋。
+kyomeishusei2015.00302.1.23： 北液。
 kyomeishusei2015.00303.1.1： 黃盖作竟甚有畏。
 kyomeishusei2015.00303.1.2： 國壽無a(ik)亟。
 kyomeishusei2015.00303.1.3： 下利二親。
@@ -3020,7 +3042,7 @@ kyomeishusei2015.00575.1.8： 天禽四d(u)首。
 kyomeishusei2015.00575.1.9： 銜持維剛。
 kyomeishusei2015.00575.1.10： 邊太e(ɨt)乙。
 kyomeishusei2015.00575.1.11： 乘雲駕龍。
-kyomeishusei2015.00575.1.12： 選從羣f(in)神。
+kyomeishusei2015.00575.1.12： 選從羣f(ioŋ)神。
 kyomeishusei2015.00575.1.13： 五帝三皇。
 kyomeishusei2015.00575.1.14： 誅討鬼h(uoŋ)凶。
 kyomeishusei2015.00575.1.15： 吉利。
@@ -17711,7 +17733,7 @@ kyomeishusei2015.03888.1.2： 以爲a(iaŋ)竟。
 kyomeishusei2015.03888.1.3： 絲組爲紐。
 kyomeishusei2015.03888.1.4： 以爲b(in)信。
 kyomeishusei2015.03889.1.1： 淸銅爲鏡。
-kyomeishusei2015.03889.1.2： 見其a(in)神。
+kyomeishusei2015.03889.1.2： 見其a(ioŋ)神。
 kyomeishusei2015.03889.1.3： 日月所分。
 kyomeishusei2015.03889.1.4： 冝于酒b(iə)食。
 kyomeishusei2015.03889.1.5： 容呼云賜根。
@@ -36440,7 +36462,7 @@ kyomeishusei2015.08294.1.1： 湅石峰下之a(eŋ)菁。
 kyomeishusei2015.08294.1.2： 見乃已知人淸。
 kyomeishusei2015.08294.1.3： 心志得樂長b(ɛŋ)生兮。
 kyomeishusei2015.08295.1.1： 漢有善銅出丹山。
-kyomeishusei2015.08295.1.2： 刻者……鏡師a(in)神。
+kyomeishusei2015.08295.1.2： 刻者……鏡師a(ioŋ)神。
 kyomeishusei2015.08295.1.3： 左龍右乕拜鮮人。
 kyomeishusei2015.08295.1.4： 法天而…傳子b(uən)孫。
 kyomeishusei2015.08295.1.5： 葆長命。
@@ -38804,7 +38826,7 @@ kyomeishusei2015.08899.1.1： 氏作竟四夷a(uk)服。
 kyomeishusei2015.08899.1.2： 多賀國家人民息。
 kyomeishusei2015.08899.1.3： 胡虜殄滅天下復b(it)吉。
 kyomeishusei2015.08900.1.1： 龍氏作竟眞蘭。
-kyomeishusei2015.08900.1.2： 造此時有精a(in)神。
+kyomeishusei2015.08900.1.2： 造此時有精a(ioŋ)神。
 kyomeishusei2015.08900.1.3： 文案佳好諸君。
 kyomeishusei2015.08900.1.4： 家大富壽命b(ɑŋ)長。
 kyomeishusei2015.08900.1.5： 七子九孫居中央。

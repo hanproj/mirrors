@@ -1428,6 +1428,72 @@
 明	方	6	kyomeishusei2015.00301.1
 明	仁	6	kyomeishusei2015.00301.1
 方	仁	6	kyomeishusei2015.00301.1
+衣	1	衣綿緞衣
+妻	1	衞矦之妻
+夷	1	刑矦之夷
+淒	1	手如濡淒
+夷	1	領如狩夷
+麋	1	縝首娥麋
+矉	1	美目矉兮
+郊	1	稅于農郊
+猋	1	洙□猋猋
+退	1	大夫宿退
+洋	1	河水洋洋
+衣	妻	11	kyomeishusei2015.00302.1
+衣	夷	11	kyomeishusei2015.00302.1
+衣	淒	11	kyomeishusei2015.00302.1
+衣	夷	11	kyomeishusei2015.00302.1
+衣	麋	11	kyomeishusei2015.00302.1
+衣	矉	11	kyomeishusei2015.00302.1
+衣	郊	11	kyomeishusei2015.00302.1
+衣	猋	11	kyomeishusei2015.00302.1
+衣	退	11	kyomeishusei2015.00302.1
+衣	洋	11	kyomeishusei2015.00302.1
+妻	夷	11	kyomeishusei2015.00302.1
+妻	淒	11	kyomeishusei2015.00302.1
+妻	夷	11	kyomeishusei2015.00302.1
+妻	麋	11	kyomeishusei2015.00302.1
+妻	矉	11	kyomeishusei2015.00302.1
+妻	郊	11	kyomeishusei2015.00302.1
+妻	猋	11	kyomeishusei2015.00302.1
+妻	退	11	kyomeishusei2015.00302.1
+妻	洋	11	kyomeishusei2015.00302.1
+夷	淒	11	kyomeishusei2015.00302.1
+夷	夷	11	kyomeishusei2015.00302.1
+夷	麋	11	kyomeishusei2015.00302.1
+夷	矉	11	kyomeishusei2015.00302.1
+夷	郊	11	kyomeishusei2015.00302.1
+夷	猋	11	kyomeishusei2015.00302.1
+夷	退	11	kyomeishusei2015.00302.1
+夷	洋	11	kyomeishusei2015.00302.1
+淒	夷	11	kyomeishusei2015.00302.1
+淒	麋	11	kyomeishusei2015.00302.1
+淒	矉	11	kyomeishusei2015.00302.1
+淒	郊	11	kyomeishusei2015.00302.1
+淒	猋	11	kyomeishusei2015.00302.1
+淒	退	11	kyomeishusei2015.00302.1
+淒	洋	11	kyomeishusei2015.00302.1
+夷	麋	11	kyomeishusei2015.00302.1
+夷	矉	11	kyomeishusei2015.00302.1
+夷	郊	11	kyomeishusei2015.00302.1
+夷	猋	11	kyomeishusei2015.00302.1
+夷	退	11	kyomeishusei2015.00302.1
+夷	洋	11	kyomeishusei2015.00302.1
+麋	矉	11	kyomeishusei2015.00302.1
+麋	郊	11	kyomeishusei2015.00302.1
+麋	猋	11	kyomeishusei2015.00302.1
+麋	退	11	kyomeishusei2015.00302.1
+麋	洋	11	kyomeishusei2015.00302.1
+矉	郊	11	kyomeishusei2015.00302.1
+矉	猋	11	kyomeishusei2015.00302.1
+矉	退	11	kyomeishusei2015.00302.1
+矉	洋	11	kyomeishusei2015.00302.1
+郊	猋	11	kyomeishusei2015.00302.1
+郊	退	11	kyomeishusei2015.00302.1
+郊	洋	11	kyomeishusei2015.00302.1
+猋	退	11	kyomeishusei2015.00302.1
+猋	洋	11	kyomeishusei2015.00302.1
+退	洋	11	kyomeishusei2015.00302.1
 亟	1	國壽無亟
 君	1	堯賜女爲帝君
 盧	1	翠盖覆貴敬坐盧
